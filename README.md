@@ -1,8 +1,12 @@
 #  Sreedev's Web Browser Bookmarks
 #### Just a collection of bookmarks
+  # Bookmarks
   [apps](brave://apps/)  
+   ## TL
    [TarkaLabs Timesheet - Google Sheets](https://docs.google.com/spreadsheets/d/1li8GgdVCvjFxIh0lMkYE5qGT6kO7NObWu3vxu1KKkgM/edit?pli=1#gid=233112820)  
+   ## tunecore
    [GS Board - Agile Board - Jira](https://tunecore.atlassian.net/secure/RapidBoard.jspa?projectKey=GS&rapidView=29)  
+   ## kendryte-sdk
    [loboris/K210_FreeRTOS_SDK: FreeRTOS SDK for Kendryte K210](https://github.com/loboris/K210_FreeRTOS_SDK)  
    [kendryte-doc-standalone-programming-guide/FPIOA.md at master · kendryte/kendryte-doc-standalone-programming-guide](https://github.com/kendryte/kendryte-doc-standalone-programming-guide/blob/master/en/FPIOA.md)  
    [MaixPy_scripts/hardware at master · sipeed/MaixPy_scripts](https://github.com/sipeed/MaixPy_scripts/tree/master/hardware)  
@@ -17,24 +21,33 @@
    [marwask/maixduino-ili9341: Maixduino (Kendryte K210 AI accelerator) with ili9341](https://github.com/marwask/maixduino-ili9341)  
    [Index of /home/sreedev/Downloads/](file:///home/sreedev/Downloads/)  
    [AWS](https://github.com/tunecore/tc-www/pull/6764/files)  
+   ## esp-idf
    [esp32-camera/take_picture.c at master · espressif/esp32-camera](https://github.com/espressif/esp32-camera/blob/master/examples/take_picture.c)  
    [u8g2 - NodeMCU Documentation](https://nodemcu.readthedocs.io/en/dev-esp32/modules/u8g2/)  
    [ESP-IDF Programming Guide - ESP32 - — ESP-IDF Programming Guide latest documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html)  
    [phkehl/esp32-a1s-audio_hal: esp-adf (esp-idf) audio_hal component for AI-Thinker's ESP32-A1S module (AC101 codec)](https://github.com/phkehl/esp32-a1s-audio_hal)  
+   ## ipsec
    [ExploitDB](https://www.exploit-db.com/)  
    [Nessus](https://localhost:8834/#/scans/folders/my-scans)  
    [CVE security vulnerability database. Security vulnerabilities, exploits, references and more](https://www.cvedetails.com/)  
    ## stm32
+   ## radio
    [lcwo.net](https://lcwo.net/download)  
    [List of amateur radio frequency bands in India - Wikipedia](https://en.wikipedia.org/wiki/List_of_amateur_radio_frequency_bands_in_India)  
    [Indian Airport Frequencies](https://www.ivao.aero/db/ss/freqs.asp?id=in)  
+   ## sys
    [The little book about OS development - book.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://littleosbook.github.io/book.pdf)  
    [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)  
+   ## audio
    [C++ Wav Audio Programming From Scratch - 4.2 - Mini Lab - YouTube](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
+   ## GIS
    [Map algebra, mathematical functions, and conditional functions - YouTube](https://www.youtube.com/watch?v=W3ahQJ0j5fI)  
+   ## gfx
    [Donut math: how donut.c works – a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)  
+   ## datasets
    [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
    [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)  
+   ## elixir
    [phoenix-migrations](https://devhints.io/phoenix-migrations)  
    [livebook-dev/livebook: Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView](https://github.com/livebook-dev/livebook)  
    [Commits · elixir-nx/nx](https://github.com/elixir-nx/nx/commits?author=josevalim)  
@@ -53,6 +66,7 @@
   [Isaac Clayton](https://slightknack.dev/)  
   [immix-pldi-2008.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cs.utexas.edu/users/speedway/DaCapo/papers/immix-pldi-2008.pdf)  
   [AST explorer](https://astexplorer.net/)  
+  # Other bookmarks
   [Stream Cassilda and Carcosa | Listen to Birds playlist online for free on SoundCloud](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
   [PostGIS — Spatial and Geographic Objects for PostgreSQL](https://postgis.net/)  
   [Gleek app](https://app.gleek.io/)  
