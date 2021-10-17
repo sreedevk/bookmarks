@@ -1,7 +1,6 @@
 # Sreedev's Web Browser Bookmarks
 ## A collection of Resource Links / Bookmarks
   # Bookmarks
-  [apps](brave://apps/)  
    ## kendryte-sdk
    [loboris/K210_FreeRTOS_SDK: FreeRTOS SDK for Kendryte K210](https://github.com/loboris/K210_FreeRTOS_SDK)  
    [kendryte-doc-standalone-programming-guide/FPIOA.md at master · kendryte/kendryte-doc-standalone-programming-guide](https://github.com/kendryte/kendryte-doc-standalone-programming-guide/blob/master/en/FPIOA.md)  
