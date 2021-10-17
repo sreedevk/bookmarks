@@ -11,7 +11,6 @@
    [Io – Try It Online](https://tio.run/#io)  
    [u8g2setupc · olikraus/u8g2 Wiki](https://github.com/olikraus/u8g2/wiki/u8g2setupc#ssd1305-128x32_adafruit)  
    [marwask/maixduino-ili9341: Maixduino (Kendryte K210 AI accelerator) with ili9341](https://github.com/marwask/maixduino-ili9341)  
-   [Index of /home/sreedev/Downloads/](file:///home/sreedev/Downloads/)  
    [AWS](https://github.com/tunecore/tc-www/pull/6764/files)  
    ## esp-idf
    [esp32-camera/take_picture.c at master · espressif/esp32-camera](https://github.com/espressif/esp32-camera/blob/master/examples/take_picture.c)  
