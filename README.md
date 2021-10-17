@@ -1,11 +1,7 @@
-#  Sreedev's Web Browser Bookmarks
-#### Just a collection of bookmarks
+# Sreedev's Web Browser Bookmarks
+## A collection of Resource Links / Bookmarks
   # Bookmarks
   [apps](brave://apps/)  
-   ## TL
-   [TarkaLabs Timesheet - Google Sheets](https://docs.google.com/spreadsheets/d/1li8GgdVCvjFxIh0lMkYE5qGT6kO7NObWu3vxu1KKkgM/edit?pli=1#gid=233112820)  
-   ## tunecore
-   [GS Board - Agile Board - Jira](https://tunecore.atlassian.net/secure/RapidBoard.jspa?projectKey=GS&rapidView=29)  
    ## kendryte-sdk
    [loboris/K210_FreeRTOS_SDK: FreeRTOS SDK for Kendryte K210](https://github.com/loboris/K210_FreeRTOS_SDK)  
    [kendryte-doc-standalone-programming-guide/FPIOA.md at master · kendryte/kendryte-doc-standalone-programming-guide](https://github.com/kendryte/kendryte-doc-standalone-programming-guide/blob/master/en/FPIOA.md)  
@@ -31,10 +27,6 @@
    [Nessus](https://localhost:8834/#/scans/folders/my-scans)  
    [CVE security vulnerability database. Security vulnerabilities, exploits, references and more](https://www.cvedetails.com/)  
    ## stm32
-   ## radio
-   [lcwo.net](https://lcwo.net/download)  
-   [List of amateur radio frequency bands in India - Wikipedia](https://en.wikipedia.org/wiki/List_of_amateur_radio_frequency_bands_in_India)  
-   [Indian Airport Frequencies](https://www.ivao.aero/db/ss/freqs.asp?id=in)  
    ## sys
    [The little book about OS development - book.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://littleosbook.github.io/book.pdf)  
    [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)  
