@@ -1,5 +1,62 @@
 # Sreedev's Web Browser Bookmarks
 ## A collection of Resource Links / Bookmarks
+  # Bookmarks
+   ## kendryte-sdk
+   [loboris/K210_FreeRTOS_SDK: FreeRTOS SDK for Kendryte K210](https://github.com/loboris/K210_FreeRTOS_SDK)  
+   [kendryte-doc-standalone-programming-guide/FPIOA.md at master · kendryte/kendryte-doc-standalone-programming-guide](https://github.com/kendryte/kendryte-doc-standalone-programming-guide/blob/master/en/FPIOA.md)  
+   [MaixPy_scripts/hardware at master · sipeed/MaixPy_scripts](https://github.com/sipeed/MaixPy_scripts/tree/master/hardware)  
+   [ConnorChristie/kendryte-drone-ai](https://github.com/ConnorChristie/kendryte-drone-ai)  
+   [elloza/awesome-k210: A curated list of awesome K210 hardware, projects and resources.](https://github.com/elloza/awesome-k210)  
+   [k210-sdk-stuff/memory_map.md at master · laanwj/k210-sdk-stuff](https://github.com/laanwj/k210-sdk-stuff/blob/master/doc/memory_map.md)  
+   [kendryte_standalone_programming_guide_20190311144158_en.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_standalone_programming_guide_20190311144158_en.pdf)  
+   [MaixBit_Datasheet.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.yahboom.net/xiazai/Maix_Bit/Download/MaixBit_Datasheet.pdf)  
+   [Io – Try It Online](https://tio.run/#io)  
+   [nanoseconds to milliseconds - Google Search](https://www.google.com/search?q=nanoseconds+to+milliseconds&ei=U5dWYNitBfeD4t4P_POv8Ag&oq=nanoseconds+to+mill&gs_lcp=Cgdnd3Mtd2l6EAMYADIECAAQQzICCAAyAggAMgIIADoHCAAQsAMQQzoHCAAQRxCwA1CCY1jNaGDVb2gFcAJ4AIABdIgBzQOSAQM0LjGYAQCgAQGqAQdnd3Mtd2l6yAEKwAEB&sclient=gws-wiz)  
+   [u8g2setupc · olikraus/u8g2 Wiki](https://github.com/olikraus/u8g2/wiki/u8g2setupc#ssd1305-128x32_adafruit)  
+   [marwask/maixduino-ili9341: Maixduino (Kendryte K210 AI accelerator) with ili9341](https://github.com/marwask/maixduino-ili9341)  
+   [Index of /home/sreedev/Downloads/](file:///home/sreedev/Downloads/)  
+   [AWS](https://github.com/tunecore/tc-www/pull/6764/files)  
+   ## esp-idf
+   [esp32-camera/take_picture.c at master · espressif/esp32-camera](https://github.com/espressif/esp32-camera/blob/master/examples/take_picture.c)  
+   [u8g2 - NodeMCU Documentation](https://nodemcu.readthedocs.io/en/dev-esp32/modules/u8g2/)  
+   [ESP-IDF Programming Guide - ESP32 - — ESP-IDF Programming Guide latest documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html)  
+   [phkehl/esp32-a1s-audio_hal: esp-adf (esp-idf) audio_hal component for AI-Thinker's ESP32-A1S module (AC101 codec)](https://github.com/phkehl/esp32-a1s-audio_hal)  
+   ## ipsec
+   [ExploitDB](https://www.exploit-db.com/)  
+   [Nessus](https://localhost:8834/#/scans/folders/my-scans)  
+   [CVE security vulnerability database. Security vulnerabilities, exploits, references and more](https://www.cvedetails.com/)  
+   ## stm32
+   ## sys
+   [The little book about OS development - book.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://littleosbook.github.io/book.pdf)  
+   [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)  
+   ## audio
+   [C++ Wav Audio Programming From Scratch - 4.2 - Mini Lab - YouTube](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
+   ## GIS
+   [Map algebra, mathematical functions, and conditional functions - YouTube](https://www.youtube.com/watch?v=W3ahQJ0j5fI)  
+   ## gfx
+   [Donut math: how donut.c works – a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)  
+   ## datasets
+   [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
+   [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)  
+   ## elixir
+   [phoenix-migrations](https://devhints.io/phoenix-migrations)  
+   [livebook-dev/livebook: Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView](https://github.com/livebook-dev/livebook)  
+   [Commits · elixir-nx/nx](https://github.com/elixir-nx/nx/commits?author=josevalim)  
+   [blackode/elixir-tips: The Killer Elixir Tips and Tricks...from the experience...](https://github.com/blackode/elixir-tips)  
+   [bitwalker/libcluster: Automatic cluster formation/healing for Elixir applications](https://github.com/bitwalker/libcluster)  
+   [blockscout/blockscout: Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.](https://github.com/blockscout/blockscout)  
+   [zhongwencool/observer_cli: Visualize Erlang/Elixir Nodes On The Command Line](https://github.com/zhongwencool/observer_cli)  
+   [witchcrafters/witchcraft: Monads and other dark magic for Elixir](https://github.com/witchcrafters/witchcraft)  
+   [archseer/enigma: An Erlang VM implementation in Rust](https://github.com/archseer/enigma)  
+   [elixir-nx/axon: Nx-powered Neural Networks](https://github.com/elixir-nx/axon)  
+   [koudelka/honeydew: Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈](https://github.com/koudelka/honeydew)  
+   [tangramdotdev/tangram: Tangram makes it easy for programmers to train, deploy, and monitor machine learning models.](https://github.com/tangramdotdev/tangram)  
+  [Category Theory Illustrated - About](https://boris-marinov.github.io/category-theory-illustrated/00_about/)  
+  [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#computer-science)  
+  [papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)  
+  [Isaac Clayton](https://slightknack.dev/)  
+  [immix-pldi-2008.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cs.utexas.edu/users/speedway/DaCapo/papers/immix-pldi-2008.pdf)  
+  [AST explorer](https://astexplorer.net/)  
   # Other bookmarks
   [Stream Cassilda and Carcosa | Listen to Birds playlist online for free on SoundCloud](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
   [PostGIS — Spatial and Geographic Objects for PostgreSQL](https://postgis.net/)  
