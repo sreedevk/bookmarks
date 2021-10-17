@@ -8,10 +8,7 @@
    [ConnorChristie/kendryte-drone-ai](https://github.com/ConnorChristie/kendryte-drone-ai)  
    [elloza/awesome-k210: A curated list of awesome K210 hardware, projects and resources.](https://github.com/elloza/awesome-k210)  
    [k210-sdk-stuff/memory_map.md at master · laanwj/k210-sdk-stuff](https://github.com/laanwj/k210-sdk-stuff/blob/master/doc/memory_map.md)  
-   [kendryte_standalone_programming_guide_20190311144158_en.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_standalone_programming_guide_20190311144158_en.pdf)  
-   [MaixBit_Datasheet.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.yahboom.net/xiazai/Maix_Bit/Download/MaixBit_Datasheet.pdf)  
    [Io – Try It Online](https://tio.run/#io)  
-   [nanoseconds to milliseconds - Google Search](https://www.google.com/search?q=nanoseconds+to+milliseconds&ei=U5dWYNitBfeD4t4P_POv8Ag&oq=nanoseconds+to+mill&gs_lcp=Cgdnd3Mtd2l6EAMYADIECAAQQzICCAAyAggAMgIIADoHCAAQsAMQQzoHCAAQRxCwA1CCY1jNaGDVb2gFcAJ4AIABdIgBzQOSAQM0LjGYAQCgAQGqAQdnd3Mtd2l6yAEKwAEB&sclient=gws-wiz)  
    [u8g2setupc · olikraus/u8g2 Wiki](https://github.com/olikraus/u8g2/wiki/u8g2setupc#ssd1305-128x32_adafruit)  
    [marwask/maixduino-ili9341: Maixduino (Kendryte K210 AI accelerator) with ili9341](https://github.com/marwask/maixduino-ili9341)  
    [Index of /home/sreedev/Downloads/](file:///home/sreedev/Downloads/)  
@@ -27,7 +24,6 @@
    [CVE security vulnerability database. Security vulnerabilities, exploits, references and more](https://www.cvedetails.com/)  
    ## stm32
    ## sys
-   [The little book about OS development - book.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://littleosbook.github.io/book.pdf)  
    [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)  
    ## audio
    [C++ Wav Audio Programming From Scratch - 4.2 - Mini Lab - YouTube](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
@@ -55,7 +51,6 @@
   [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome#computer-science)  
   [papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)  
   [Isaac Clayton](https://slightknack.dev/)  
-  [immix-pldi-2008.pdf](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://www.cs.utexas.edu/users/speedway/DaCapo/papers/immix-pldi-2008.pdf)  
   [AST explorer](https://astexplorer.net/)  
   # Other bookmarks
   [Stream Cassilda and Carcosa | Listen to Birds playlist online for free on SoundCloud](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
@@ -67,7 +62,6 @@
   [free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
   [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)  
   [iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)  
-  [Covid 19 - Vaccine @ Sedin Technologies](https://docs.google.com/forms/u/0/d/e/1FAIpQLSdELdwjr3etUrKIZoMM4aq04nLYlOvfBWnBvzkTlcXerpWjQw/formResponse)  
   [https://www.slideshare.net/olvemaudal/deep-c/274](https://www.slideshare.net/olvemaudal/deep-c/274)  
   [Brian Cohen's Portfolio](http://bcdesignspace.com/)  
   [chrisseaton/rhizome: A JIT for Ruby, implemented in pure Ruby](https://github.com/chrisseaton/rhizome)  
@@ -77,7 +71,6 @@
   [ElixirConf 2017 - Thinking In Ecto - Darin Wilson - YouTube](https://www.youtube.com/watch?v=YQxopjai0CU)  
   [FOAAS](https://www.foaas.com/)  
   [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  
-  [Designing Data-Intensive Applications](file:///home/sreedev/data/books/designing-data-intensive-applications.pdf)  
   [krispo/awesome-haskell: A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.](https://github.com/krispo/awesome-haskell#basics)  
   [bevyengine/bevy: A refreshingly simple data-driven game engine built in Rust](https://github.com/bevyengine/bevy)  
   [refinery/refinerycms: An extendable Ruby on Rails CMS that supports Rails 6.0+](https://github.com/refinery/refinerycms)  
@@ -86,5 +79,4 @@
   [TheAlgorithms/Rust: All Algorithms implemented in Rust](https://github.com/TheAlgorithms/Rust)  
   [RustConf 2021 - YouTube](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [microsoft/QuantumKatas: Tutorials and programming exercises for learning Q# and quantum computing](https://github.com/microsoft/QuantumKatas#install)  
-  [Inbox - sreedev@tarkalabs.com - Tarka Labs Mail](https://mail.google.com/mail/u/0/#inbox)  
   # Mobile bookmarks
