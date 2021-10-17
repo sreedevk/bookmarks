@@ -150,14 +150,6 @@
             "name": "Index of /home/sreedev/Downloads/",
             "type": "url",
             "url": "file:///home/sreedev/Downloads/"
-          },
-          {
-            "date_added": "13263918611618173",
-            "guid": "a46894d8-732f-4340-8bf4-13ba4380a220",
-            "id": "52",
-            "name": "AWS",
-            "type": "url",
-            "url": "https://github.com/tunecore/tc-www/pull/6764/files"
           }
         ],
         "date_added": "13260125116778212",
