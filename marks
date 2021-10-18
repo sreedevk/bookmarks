@@ -2,14 +2,6 @@
   "bookmark_bar": {
     "children": [
       {
-        "date_added": "13276014544902128",
-        "guid": "a25b5794-8c3b-4676-8b61-4c7383e1939b",
-        "id": "136",
-        "name": "Chromium Apps",
-        "type": "url",
-        "url": "brave://apps/"
-      },
-      {
         "children": [
           {
             "date_added": "13260125108517027",
@@ -470,22 +462,6 @@
         "type": "folder"
       },
       {
-        "date_added": "13278615274952810",
-        "guid": "5abf15b2-43fc-4904-a4f2-9ea89a1b9c6c",
-        "id": "163",
-        "name": "Isaac Clayton",
-        "type": "url",
-        "url": "https://slightknack.dev/"
-      },
-      {
-        "date_added": "13278962825464796",
-        "guid": "ee051f83-a2e1-4e43-ac72-c2f2f61c3da0",
-        "id": "166",
-        "name": "AST explorer",
-        "type": "url",
-        "url": "https://astexplorer.net/"
-      },
-      {
         "children": [
           {
             "date_added": "13277631518866138",
@@ -502,10 +478,34 @@
         "id": "171",
         "name": "Math",
         "type": "folder"
+      },
+      {
+        "date_added": "13278615274952810",
+        "guid": "5abf15b2-43fc-4904-a4f2-9ea89a1b9c6c",
+        "id": "163",
+        "name": "Isaac Clayton",
+        "type": "url",
+        "url": "https://slightknack.dev/"
+      },
+      {
+        "date_added": "13278962825464796",
+        "guid": "ee051f83-a2e1-4e43-ac72-c2f2f61c3da0",
+        "id": "166",
+        "name": "AST explorer",
+        "type": "url",
+        "url": "https://astexplorer.net/"
+      },
+      {
+        "date_added": "13276014544902128",
+        "guid": "a25b5794-8c3b-4676-8b61-4c7383e1939b",
+        "id": "136",
+        "name": "Chromium Apps",
+        "type": "url",
+        "url": "brave://apps/"
       }
     ],
     "date_added": "13246877992587460",
-    "date_modified": "13279034298689773",
+    "date_modified": "13279060593170233",
     "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
     "id": "1",
     "name": "Bookmarks",
