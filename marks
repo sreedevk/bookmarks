@@ -286,10 +286,18 @@
             "name": "Map algebra, mathematical functions, and conditional functions - YouTube",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=W3ahQJ0j5fI"
+          },
+          {
+            "date_added": "13279048982317110",
+            "guid": "9a0370f4-2631-4a81-9bdb-d3e1ab8e9e2a",
+            "id": "170",
+            "name": "tc-joegiralt (Joe Giralt)",
+            "type": "url",
+            "url": "https://github.com/tc-joegiralt"
           }
         ],
         "date_added": "13268888195861512",
-        "date_modified": "13268888217507464",
+        "date_modified": "13279048992316966",
         "guid": "b2e52769-af46-4877-b2d3-1dfa0fe602fd",
         "id": "83",
         "name": "GIS",
@@ -315,7 +323,7 @@
           }
         ],
         "date_added": "13268888229973647",
-        "date_modified": "13279034309031299",
+        "date_modified": "13279048982317110",
         "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
         "id": "86",
         "name": "gfx",
