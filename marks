@@ -202,34 +202,6 @@
       {
         "children": [
           {
-            "children": [
-              {
-                "date_added": "13279034378023230",
-                "guid": "c2248fe3-300a-473f-b16b-c9d89c8a68f3",
-                "id": "169",
-                "name": "DevTechnica - The Software Developer's Conspectus",
-                "type": "url",
-                "url": "https://devtechnica.com/"
-              }
-            ],
-            "date_added": "13279034366821707",
-            "date_modified": "13279034380829725",
-            "guid": "2f1894af-ee82-4513-a2e9-8e96bcb828cd",
-            "id": "168",
-            "name": "substm32",
-            "type": "folder"
-          }
-        ],
-        "date_added": "13260125188278005",
-        "date_modified": "13279034378023230",
-        "guid": "a68104d9-d5f4-4760-8ea3-82acd6c9382a",
-        "id": "31",
-        "name": "stm32",
-        "type": "folder"
-      },
-      {
-        "children": [
-          {
             "date_added": "13266890796171057",
             "guid": "1295363a-86f3-4345-95ff-b344b8c13028",
             "id": "62",
