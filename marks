@@ -96,7 +96,7 @@
         "date_modified": "13269985219427626",
         "guid": "bd71bf1a-a4fc-48f5-b2e8-118c62f54bf9",
         "id": "27",
-        "name": "kendryte-sdk",
+        "name": "Kendryte SDK",
         "type": "folder"
       },
       {
@@ -146,7 +146,7 @@
         "date_modified": "13279059876278367",
         "guid": "20700432-8e3f-4141-8742-3259d39a8bad",
         "id": "28",
-        "name": "esp-idf",
+        "name": "ESP IDF",
         "type": "folder"
       },
       {
@@ -172,7 +172,7 @@
         "date_modified": "13260125176786797",
         "guid": "4073121c-c0ee-4149-9ec6-c494fada3e77",
         "id": "30",
-        "name": "ipsec",
+        "name": "IPSec",
         "type": "folder"
       },
       {
@@ -206,7 +206,7 @@
         "date_modified": "13268888168025526",
         "guid": "3428fcb6-c844-405e-b108-a296bd80c1fa",
         "id": "64",
-        "name": "radio",
+        "name": "Radio",
         "type": "folder"
       },
       {
@@ -224,7 +224,7 @@
         "date_modified": "13266902904458543",
         "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
         "id": "70",
-        "name": "sys",
+        "name": "Systems Dev",
         "type": "folder"
       },
       {
@@ -242,7 +242,7 @@
         "date_modified": "13268888183104979",
         "guid": "9884c7a5-8967-4645-8146-b8d6e4d5f856",
         "id": "81",
-        "name": "audio",
+        "name": "Audio",
         "type": "folder"
       },
       {
@@ -284,7 +284,7 @@
         "date_modified": "13279059697695602",
         "guid": "b2e52769-af46-4877-b2d3-1dfa0fe602fd",
         "id": "83",
-        "name": "GIS",
+        "name": "Geographic Information Systems",
         "type": "folder"
       },
       {
@@ -302,7 +302,7 @@
         "date_modified": "13279048982317110",
         "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
         "id": "86",
-        "name": "gfx",
+        "name": "Graphics",
         "type": "folder"
       },
       {
@@ -336,7 +336,7 @@
         "date_modified": "13279059436379704",
         "guid": "5a5251c7-2242-4e35-9bfb-2521ddee7e9e",
         "id": "90",
-        "name": "datasets",
+        "name": "Datasets",
         "type": "folder"
       },
       {
@@ -466,7 +466,7 @@
         "date_modified": "13279059817358697",
         "guid": "032b162e-2676-494b-bfd8-38b8073de2c9",
         "id": "104",
-        "name": "elixir",
+        "name": "Elixir / BEAM / Erlang",
         "type": "folder"
       },
       {
@@ -500,7 +500,7 @@
         "date_modified": "13279058958565289",
         "guid": "80f0b610-da37-48a5-aba7-0bd77d5fc44c",
         "id": "171",
-        "name": "math",
+        "name": "Math",
         "type": "folder"
       }
     ],
