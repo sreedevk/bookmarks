@@ -210,10 +210,18 @@
             "name": "OS From Scratch",
             "type": "url",
             "url": "https://github.com/cfenollosa/os-tutorial"
+          },
+          {
+            "date_added": "13279084827609787",
+            "guid": "fb5d004c-c22b-42b7-9018-391c8e176116",
+            "id": "182",
+            "name": "Cowgod's Chip-8 Technical Reference",
+            "type": "url",
+            "url": "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4"
           }
         ],
         "date_added": "13266890914175791",
-        "date_modified": "13266902904458543",
+        "date_modified": "13279084833208548",
         "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
         "id": "70",
         "name": "Systems Dev",
@@ -505,7 +513,7 @@
       }
     ],
     "date_added": "13246877992587460",
-    "date_modified": "13279060593170233",
+    "date_modified": "13279084827609787",
     "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
     "id": "1",
     "name": "Bookmarks",
