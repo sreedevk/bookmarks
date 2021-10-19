@@ -221,7 +221,7 @@
           }
         ],
         "date_added": "13266890914175791",
-        "date_modified": "13279084833208548",
+        "date_modified": "13279084857985157",
         "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
         "id": "70",
         "name": "Systems Dev",
@@ -460,10 +460,26 @@
             "name": "ElixirConf 2017 - Thinking In Ecto - Darin Wilson",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=YQxopjai0CU"
+          },
+          {
+            "date_added": "13279084857985157",
+            "guid": "557fbced-2991-4fc9-91b6-7b1a58414aef",
+            "id": "183",
+            "name": "BEAM VM ELI5",
+            "type": "url",
+            "url": "http://beam-wisdoms.clau.se/en/latest/eli5-vm.html"
+          },
+          {
+            "date_added": "13279085026256968",
+            "guid": "462d3a4d-8fb0-4db1-b218-6ef4279cdc98",
+            "id": "192",
+            "name": "Rete Algorithm",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=MOOdJG7BiUw"
           }
         ],
         "date_added": "13274557588740498",
-        "date_modified": "13279059817358697",
+        "date_modified": "13279085046942323",
         "guid": "032b162e-2676-494b-bfd8-38b8073de2c9",
         "id": "104",
         "name": "Elixir / BEAM / Erlang",
@@ -696,10 +712,90 @@
         "name": "Multi-Language REPL",
         "type": "url",
         "url": "https://tio.run/#io"
+      },
+      {
+        "date_added": "13279084871899752",
+        "guid": "362340b2-070b-4a29-a517-74a4c0a270c7",
+        "id": "184",
+        "name": "Haskell Course",
+        "type": "url",
+        "url": "https://www.futurelearn.com/courses/functional-programming-haskell/9/steps/1103451"
+      },
+      {
+        "date_added": "13279084901499687",
+        "guid": "62d13c55-20a0-4df5-8195-543cf0e56b7a",
+        "id": "186",
+        "name": "Learn You a Haskell for Great Good!",
+        "type": "url",
+        "url": "http://learnyouahaskell.com/"
+      },
+      {
+        "date_added": "13279084912486905",
+        "guid": "626c6f03-cbc6-415f-89f2-d1eb1d4a202e",
+        "id": "187",
+        "name": "Monad laws in Ruby",
+        "type": "url",
+        "url": "https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html"
+      },
+      {
+        "date_added": "13279084971897627",
+        "guid": "17e9973c-600f-4cf8-b9f8-4996e2a37be2",
+        "id": "188",
+        "name": "Category Theory - Bartosz Milewski",
+        "type": "url",
+        "url": "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
+      },
+      {
+        "date_added": "13279084999899832",
+        "guid": "87ae6b03-866a-4e93-a161-58997400040e",
+        "id": "190",
+        "name": "Scala Tutorial",
+        "type": "url",
+        "url": "https://www.tutorialspoint.com/scala/"
+      },
+      {
+        "date_added": "13279085014628591",
+        "guid": "3b5a967f-1209-4aec-9404-efd073cbd0dd",
+        "id": "191",
+        "name": "The Julia Language",
+        "type": "url",
+        "url": "https://docs.julialang.org/en/v1/base/base/"
+      },
+      {
+        "date_added": "13279085046942323",
+        "guid": "fd956ff5-1979-461c-8415-4c305dd71c76",
+        "id": "193",
+        "name": "Category Theory Illustated - Github",
+        "type": "url",
+        "url": "https://github.com/boris-marinov/category-theory-illustrated"
+      },
+      {
+        "date_added": "13279085079580178",
+        "guid": "ad28cf97-fd9e-46a1-afda-a1bd5ee8310b",
+        "id": "194",
+        "name": "ncurses - Rust",
+        "type": "url",
+        "url": "https://docs.rs/ncurses/5.101.0/ncurses/index.html"
+      },
+      {
+        "date_added": "13279085091002737",
+        "guid": "c3a74ed9-6a5f-46f5-bdc6-a79d6740aff6",
+        "id": "195",
+        "name": "The Art of AST",
+        "type": "url",
+        "url": "https://www.youtube.com/watch?v=C06MohLG_3s"
+      },
+      {
+        "date_added": "13279085103268269",
+        "guid": "872803ba-bc4d-47b2-bf39-d9bfc687a376",
+        "id": "196",
+        "name": "The Fast Track to Julia",
+        "type": "url",
+        "url": "https://juliadocs.github.io/Julia-Cheat-Sheet/"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279059434474181",
+    "date_modified": "13279085103268269",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
