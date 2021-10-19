@@ -518,14 +518,6 @@
         "name": "AST explorer",
         "type": "url",
         "url": "https://astexplorer.net/"
-      },
-      {
-        "date_added": "13276014544902128",
-        "guid": "a25b5794-8c3b-4676-8b61-4c7383e1939b",
-        "id": "136",
-        "name": "Chromium Apps",
-        "type": "url",
-        "url": "brave://apps/"
       }
     ],
     "date_added": "13246877992587460",
