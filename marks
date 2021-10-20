@@ -792,10 +792,18 @@
         "name": "Dracula",
         "type": "url",
         "url": "https://draculatheme.com/"
+      },
+      {
+        "date_added": "13279209443718690",
+        "guid": "d41f0eda-55fe-43de-8d5f-39719cb93123",
+        "id": "199",
+        "name": "The Algebra of Types",
+        "type": "url",
+        "url": "https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279189602909695",
+    "date_modified": "13279209443718690",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
