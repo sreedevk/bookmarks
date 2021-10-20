@@ -494,10 +494,18 @@
             "name": "Category Theory Illustration",
             "type": "url",
             "url": "https://boris-marinov.github.io/category-theory-illustrated/00_about/"
+          },
+          {
+            "date_added": "13279228180918088",
+            "guid": "400b4fc9-5396-472d-b5fe-95f1888d09f7",
+            "id": "200",
+            "name": "Monad - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Monad"
           }
         ],
         "date_added": "13279058958563720",
-        "date_modified": "13279058958565289",
+        "date_modified": "13279228200339809",
         "guid": "80f0b610-da37-48a5-aba7-0bd77d5fc44c",
         "id": "171",
         "name": "Math",
@@ -803,7 +811,7 @@
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279209443718690",
+    "date_modified": "13279228180918088",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
