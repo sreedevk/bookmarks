@@ -505,7 +505,7 @@
           }
         ],
         "date_added": "13279058958563720",
-        "date_modified": "13279228200339809",
+        "date_modified": "13279372698271773",
         "guid": "80f0b610-da37-48a5-aba7-0bd77d5fc44c",
         "id": "171",
         "name": "Math",
@@ -808,10 +808,34 @@
         "name": "The Algebra of Types",
         "type": "url",
         "url": "https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html"
+      },
+      {
+        "date_added": "13279372698271773",
+        "guid": "eaa691a4-576b-4791-b6b4-5d9663018a55",
+        "id": "202",
+        "name": "Functional Programming With Professor Frisby",
+        "type": "url",
+        "url": "https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box"
+      },
+      {
+        "date_added": "13279384464763480",
+        "guid": "dbcade03-7978-4db6-b51d-5dcfb83fcadf",
+        "id": "203",
+        "name": "Tarkalabs | Internal Wiki",
+        "type": "url",
+        "url": "https://sites.google.com/tarkalabs.com/wiki/home"
+      },
+      {
+        "date_added": "13279559016548109",
+        "guid": "d27495a1-6031-49b5-8166-ca72b83c6f44",
+        "id": "204",
+        "name": "Interface Design Projects",
+        "type": "url",
+        "url": "https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279228180918088",
+    "date_modified": "13279559016548109",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
