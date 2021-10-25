@@ -832,10 +832,26 @@
         "name": "Interface Design Projects",
         "type": "url",
         "url": "https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353"
+      },
+      {
+        "date_added": "13279589296783821",
+        "guid": "cc6033f0-9b4a-4d75-8cba-6bbf92c13799",
+        "id": "205",
+        "name": "Best LinkedIn Recommendation Examples From Top Industry Leaders [+ How to Write Them] | Anyleads",
+        "type": "url",
+        "url": "https://anyleads.com/linkedin-recommendation-examples"
+      },
+      {
+        "date_added": "13279592886045269",
+        "guid": "18157122-aa62-4eb8-aafc-d49ce50fb5c1",
+        "id": "206",
+        "name": "Free SVG Patterns",
+        "type": "url",
+        "url": "https://www.heropatterns.com/"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279559016548109",
+    "date_modified": "13279592886045269",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
