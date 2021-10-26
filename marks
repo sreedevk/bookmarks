@@ -848,10 +848,18 @@
         "name": "Free SVG Patterns",
         "type": "url",
         "url": "https://www.heropatterns.com/"
+      },
+      {
+        "date_added": "13279739598841016",
+        "guid": "ddc5eeb6-4904-48ac-8b84-91b3f03e4922",
+        "id": "207",
+        "name": "Julia Program Project Template",
+        "type": "url",
+        "url": "https://github.com/Enforcer007/Algorithms-Julia/"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279592886045269",
+    "date_modified": "13279739598841016",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
