@@ -864,10 +864,18 @@
         "name": "Lessons in Life",
         "type": "url",
         "url": "https://twitter.com/SahilBloom/status/1449339851124445185"
+      },
+      {
+        "date_added": "13279951033004503",
+        "guid": "5e0196ae-4290-421e-9c91-7a2a3242eb0d",
+        "id": "211",
+        "name": "Learn Lua in Y Minutes",
+        "type": "url",
+        "url": "https://learnxinyminutes.com/docs/lua/"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279946445096971",
+    "date_modified": "13279951033004503",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
