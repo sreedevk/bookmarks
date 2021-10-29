@@ -135,7 +135,7 @@
           }
         ],
         "date_added": "13260125144647900",
-        "date_modified": "13279918661682040",
+        "date_modified": "13279946432235761",
         "guid": "20700432-8e3f-4141-8742-3259d39a8bad",
         "id": "28",
         "name": "ESP IDF",
@@ -856,10 +856,18 @@
         "name": "Julia Program Project Template",
         "type": "url",
         "url": "https://github.com/Enforcer007/Algorithms-Julia/"
+      },
+      {
+        "date_added": "13279946432235761",
+        "guid": "3a4e46b3-5688-4526-8190-1b8df6a5f927",
+        "id": "210",
+        "name": "Lessons in Life",
+        "type": "url",
+        "url": "https://twitter.com/SahilBloom/status/1449339851124445185"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279918659024852",
+    "date_modified": "13279946445096971",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
