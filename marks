@@ -4,146 +4,6 @@
       {
         "children": [
           {
-            "date_added": "13260125108517027",
-            "guid": "7dbb8712-696a-4210-b846-147bed05179c",
-            "id": "26",
-            "name": "Kendryte FreeRTOS SDK",
-            "type": "url",
-            "url": "https://github.com/loboris/K210_FreeRTOS_SDK"
-          },
-          {
-            "date_added": "13259161175845659",
-            "guid": "42c934f3-8301-47ca-bb99-a2787beea842",
-            "id": "24",
-            "name": "Kendryte Docs",
-            "type": "url",
-            "url": "https://github.com/kendryte/kendryte-doc-standalone-programming-guide/blob/master/en/FPIOA.md"
-          },
-          {
-            "date_added": "13260125203043061",
-            "guid": "3aa43f4b-edcb-489f-894b-02f50d1654c3",
-            "id": "32",
-            "name": "MaixPy Scripts",
-            "type": "url",
-            "url": "https://github.com/sipeed/MaixPy_scripts/tree/master/hardware"
-          },
-          {
-            "date_added": "13260125212431804",
-            "guid": "7b34fbd8-1bd5-4070-9d21-447d607c311c",
-            "id": "33",
-            "name": "Kendryte Drone Project",
-            "type": "url",
-            "url": "https://github.com/ConnorChristie/kendryte-drone-ai"
-          },
-          {
-            "date_added": "13260125223153930",
-            "guid": "957a4af7-9ae1-4f20-83ee-ad7331fa0650",
-            "id": "34",
-            "name": "Awesome K210",
-            "type": "url",
-            "url": "https://github.com/elloza/awesome-k210"
-          },
-          {
-            "date_added": "13260125229460348",
-            "guid": "07dfc166-8dcb-48be-b707-e6aadf5b2f85",
-            "id": "35",
-            "name": "K210 Memory Mapping",
-            "type": "url",
-            "url": "https://github.com/laanwj/k210-sdk-stuff/blob/master/doc/memory_map.md"
-          },
-          {
-            "date_added": "13260125256421848",
-            "guid": "bae0b37c-fe50-4566-a0a5-c165ec42399b",
-            "id": "38",
-            "name": "Kendryte Standalone Programming Guide",
-            "type": "url",
-            "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_standalone_programming_guide_20190311144158_en.pdf"
-          },
-          {
-            "date_added": "13260205968268422",
-            "guid": "d5095063-d021-4b6e-b9b7-0a1f9e25ddc0",
-            "id": "40",
-            "name": "MaixBit Datasheet",
-            "type": "url",
-            "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.yahboom.net/xiazai/Maix_Bit/Download/MaixBit_Datasheet.pdf"
-          },
-          {
-            "date_added": "13260810293814806",
-            "guid": "5ed1d572-5393-4031-8563-b49751571fbf",
-            "id": "43",
-            "name": "U8G2",
-            "type": "url",
-            "url": "https://github.com/olikraus/u8g2/"
-          },
-          {
-            "date_added": "13262366064331318",
-            "guid": "9d08704b-69cc-4d11-8566-d7725c461749",
-            "id": "48",
-            "name": "Maixduino ILI9341 Driver",
-            "type": "url",
-            "url": "https://github.com/marwask/maixduino-ili9341"
-          }
-        ],
-        "date_added": "13260125116778212",
-        "date_modified": "13269985219427626",
-        "guid": "bd71bf1a-a4fc-48f5-b2e8-118c62f54bf9",
-        "id": "27",
-        "name": "Kendryte SDK",
-        "type": "folder"
-      },
-      {
-        "children": [
-          {
-            "date_added": "13257377776397915",
-            "guid": "28f3eebc-ba2e-4836-a7fa-c42f0bbfd02b",
-            "id": "20",
-            "name": "ESP32 Camera",
-            "type": "url",
-            "url": "https://github.com/espressif/esp32-camera/blob/master/examples/take_picture.c"
-          },
-          {
-            "date_added": "13260125157541426",
-            "guid": "027df471-75dc-457c-a706-db97c86bfb67",
-            "id": "29",
-            "name": "NodeMCU U8G2 Docs",
-            "type": "url",
-            "url": "https://nodemcu.readthedocs.io/en/dev-esp32/modules/u8g2/"
-          },
-          {
-            "date_added": "13260125248223193",
-            "guid": "86d19ace-eb12-4c53-8584-b183a3c6b65b",
-            "id": "37",
-            "name": "ESP-IDF Programming Guide - ESP32",
-            "type": "url",
-            "url": "https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html"
-          },
-          {
-            "date_added": "13260138279618141",
-            "guid": "ec1e2220-138b-45c9-9f8b-689a1c92384d",
-            "id": "39",
-            "name": "ESP32 A1S Audio HAL",
-            "type": "url",
-            "url": "https://github.com/phkehl/esp32-a1s-audio_hal"
-          },
-          {
-            "date_added": "13279059876278367",
-            "guid": "dda31db4-82fa-4399-b9a5-3c4378f7c867",
-            "id": "180",
-            "name": "ESP8266 -WiFi Deauther",
-            "type": "url",
-            "url": "https://github.com/SpacehuhnTech/esp8266_deauther"
-          }
-        ],
-        "date_added": "13260125144647900",
-        "date_modified": "13279946432235761",
-        "guid": "20700432-8e3f-4141-8742-3259d39a8bad",
-        "id": "28",
-        "name": "ESP IDF",
-        "type": "folder"
-      },
-      {
-        "children": [
-          {
             "date_added": "13255334615374098",
             "guid": "10023a49-6ea1-46ef-a336-14d0b2d9a22e",
             "id": "17",
@@ -218,10 +78,182 @@
             "name": "Cowgod's Chip-8 Technical Reference",
             "type": "url",
             "url": "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4"
+          },
+          {
+            "date_added": "13274557616777835",
+            "guid": "1410017d-1d39-4224-b582-6f152e2d353a",
+            "id": "114",
+            "name": "C Programming Language Under A Microscope",
+            "type": "url",
+            "url": "https://www.slideshare.net/olvemaudal/deep-c/274"
+          },
+          {
+            "children": [
+              {
+                "date_added": "13260125108517027",
+                "guid": "7dbb8712-696a-4210-b846-147bed05179c",
+                "id": "26",
+                "name": "Kendryte FreeRTOS SDK",
+                "type": "url",
+                "url": "https://github.com/loboris/K210_FreeRTOS_SDK"
+              },
+              {
+                "date_added": "13259161175845659",
+                "guid": "42c934f3-8301-47ca-bb99-a2787beea842",
+                "id": "24",
+                "name": "Kendryte Docs",
+                "type": "url",
+                "url": "https://github.com/kendryte/kendryte-doc-standalone-programming-guide/blob/master/en/FPIOA.md"
+              },
+              {
+                "date_added": "13260125203043061",
+                "guid": "3aa43f4b-edcb-489f-894b-02f50d1654c3",
+                "id": "32",
+                "name": "MaixPy Scripts",
+                "type": "url",
+                "url": "https://github.com/sipeed/MaixPy_scripts/tree/master/hardware"
+              },
+              {
+                "date_added": "13260125212431804",
+                "guid": "7b34fbd8-1bd5-4070-9d21-447d607c311c",
+                "id": "33",
+                "name": "Kendryte Drone Project",
+                "type": "url",
+                "url": "https://github.com/ConnorChristie/kendryte-drone-ai"
+              },
+              {
+                "date_added": "13260125223153930",
+                "guid": "957a4af7-9ae1-4f20-83ee-ad7331fa0650",
+                "id": "34",
+                "name": "Awesome K210",
+                "type": "url",
+                "url": "https://github.com/elloza/awesome-k210"
+              },
+              {
+                "date_added": "13260125229460348",
+                "guid": "07dfc166-8dcb-48be-b707-e6aadf5b2f85",
+                "id": "35",
+                "name": "K210 Memory Mapping",
+                "type": "url",
+                "url": "https://github.com/laanwj/k210-sdk-stuff/blob/master/doc/memory_map.md"
+              },
+              {
+                "date_added": "13260125256421848",
+                "guid": "bae0b37c-fe50-4566-a0a5-c165ec42399b",
+                "id": "38",
+                "name": "Kendryte Standalone Programming Guide",
+                "type": "url",
+                "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_standalone_programming_guide_20190311144158_en.pdf"
+              },
+              {
+                "date_added": "13260205968268422",
+                "guid": "d5095063-d021-4b6e-b9b7-0a1f9e25ddc0",
+                "id": "40",
+                "name": "MaixBit Datasheet",
+                "type": "url",
+                "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.yahboom.net/xiazai/Maix_Bit/Download/MaixBit_Datasheet.pdf"
+              },
+              {
+                "date_added": "13260810293814806",
+                "guid": "5ed1d572-5393-4031-8563-b49751571fbf",
+                "id": "43",
+                "name": "U8G2",
+                "type": "url",
+                "url": "https://github.com/olikraus/u8g2/"
+              },
+              {
+                "date_added": "13262366064331318",
+                "guid": "9d08704b-69cc-4d11-8566-d7725c461749",
+                "id": "48",
+                "name": "Maixduino ILI9341 Driver",
+                "type": "url",
+                "url": "https://github.com/marwask/maixduino-ili9341"
+              }
+            ],
+            "date_added": "13260125116778212",
+            "date_modified": "13269985219427626",
+            "guid": "bd71bf1a-a4fc-48f5-b2e8-118c62f54bf9",
+            "id": "27",
+            "name": "Kendryte SDK",
+            "type": "folder"
+          },
+          {
+            "children": [
+              {
+                "date_added": "13257377776397915",
+                "guid": "28f3eebc-ba2e-4836-a7fa-c42f0bbfd02b",
+                "id": "20",
+                "name": "ESP32 Camera",
+                "type": "url",
+                "url": "https://github.com/espressif/esp32-camera/blob/master/examples/take_picture.c"
+              },
+              {
+                "date_added": "13260125157541426",
+                "guid": "027df471-75dc-457c-a706-db97c86bfb67",
+                "id": "29",
+                "name": "NodeMCU U8G2 Docs",
+                "type": "url",
+                "url": "https://nodemcu.readthedocs.io/en/dev-esp32/modules/u8g2/"
+              },
+              {
+                "date_added": "13260125248223193",
+                "guid": "86d19ace-eb12-4c53-8584-b183a3c6b65b",
+                "id": "37",
+                "name": "ESP-IDF Programming Guide - ESP32",
+                "type": "url",
+                "url": "https://docs.espressif.com/projects/esp-idf/en/latest/esp32/index.html"
+              },
+              {
+                "date_added": "13260138279618141",
+                "guid": "ec1e2220-138b-45c9-9f8b-689a1c92384d",
+                "id": "39",
+                "name": "ESP32 A1S Audio HAL",
+                "type": "url",
+                "url": "https://github.com/phkehl/esp32-a1s-audio_hal"
+              },
+              {
+                "date_added": "13279059876278367",
+                "guid": "dda31db4-82fa-4399-b9a5-3c4378f7c867",
+                "id": "180",
+                "name": "ESP8266 -WiFi Deauther",
+                "type": "url",
+                "url": "https://github.com/SpacehuhnTech/esp8266_deauther"
+              }
+            ],
+            "date_added": "13260125144647900",
+            "date_modified": "13279946432235761",
+            "guid": "20700432-8e3f-4141-8742-3259d39a8bad",
+            "id": "28",
+            "name": "ESP IDF",
+            "type": "folder"
+          },
+          {
+            "date_added": "13274557616776687",
+            "guid": "af55c2ca-9705-4afc-8ca0-9b12c098f765",
+            "id": "109",
+            "name": "RISC V - ASM - Manual",
+            "type": "url",
+            "url": "https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md"
+          },
+          {
+            "date_added": "13276151880830121",
+            "guid": "4aaa8f91-c6b2-4086-95e8-54a078f903c2",
+            "id": "141",
+            "name": "Algorithms in C",
+            "type": "url",
+            "url": "https://github.com/TheAlgorithms/C"
+          },
+          {
+            "date_added": "13276151903812032",
+            "guid": "f38d2dd2-4e3f-49d0-b1db-31279aace945",
+            "id": "142",
+            "name": "Algorithms in Rust",
+            "type": "url",
+            "url": "https://github.com/TheAlgorithms/Rust"
           }
         ],
         "date_added": "13266890914175791",
-        "date_modified": "13279084857985157",
+        "date_modified": "13280023951934782",
         "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
         "id": "70",
         "name": "Systems Dev",
@@ -296,13 +328,29 @@
             "name": "donut.c",
             "type": "url",
             "url": "https://www.a1k0n.net/2011/07/20/donut-math.html"
+          },
+          {
+            "date_added": "13279559016548109",
+            "guid": "d27495a1-6031-49b5-8166-ca72b83c6f44",
+            "id": "204",
+            "name": "Interface Design Projects",
+            "type": "url",
+            "url": "https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353"
+          },
+          {
+            "date_added": "13279189602909695",
+            "guid": "3d4a1973-ef61-4bbe-97dd-9a9a2568e9f4",
+            "id": "198",
+            "name": "Dracula",
+            "type": "url",
+            "url": "https://draculatheme.com/"
           }
         ],
         "date_added": "13268888229973647",
-        "date_modified": "13279048982317110",
+        "date_modified": "13280023998834655",
         "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
         "id": "86",
-        "name": "Graphics",
+        "name": "Graphics / Design",
         "type": "folder"
       },
       {
@@ -502,34 +550,142 @@
             "name": "Monad - Wikipedia",
             "type": "url",
             "url": "https://en.wikipedia.org/wiki/Monad"
+          },
+          {
+            "date_added": "13279209443718690",
+            "guid": "d41f0eda-55fe-43de-8d5f-39719cb93123",
+            "id": "199",
+            "name": "The Algebra of Types",
+            "type": "url",
+            "url": "https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html"
           }
         ],
         "date_added": "13279058958563720",
-        "date_modified": "13279372698271773",
+        "date_modified": "13280024002120859",
         "guid": "80f0b610-da37-48a5-aba7-0bd77d5fc44c",
         "id": "171",
         "name": "Math",
         "type": "folder"
       },
       {
-        "date_added": "13278615274952810",
-        "guid": "5abf15b2-43fc-4904-a4f2-9ea89a1b9c6c",
-        "id": "163",
-        "name": "Isaac Clayton",
-        "type": "url",
-        "url": "https://slightknack.dev/"
+        "children": [
+          {
+            "date_added": "13279084871899752",
+            "guid": "362340b2-070b-4a29-a517-74a4c0a270c7",
+            "id": "184",
+            "name": "Haskell Course",
+            "type": "url",
+            "url": "https://www.futurelearn.com/courses/functional-programming-haskell/9/steps/1103451"
+          },
+          {
+            "date_added": "13279084912486905",
+            "guid": "626c6f03-cbc6-415f-89f2-d1eb1d4a202e",
+            "id": "187",
+            "name": "Monad laws in Ruby",
+            "type": "url",
+            "url": "https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html"
+          },
+          {
+            "date_added": "13279084971897627",
+            "guid": "17e9973c-600f-4cf8-b9f8-4996e2a37be2",
+            "id": "188",
+            "name": "Category Theory - Bartosz Milewski",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
+          },
+          {
+            "date_added": "13273283590547001",
+            "guid": "34ea935a-80ea-4441-b307-eb011433fa13",
+            "id": "94",
+            "name": "Cassilda and Carcosa",
+            "type": "url",
+            "url": "https://soundcloud.com/cassilda_and_carcosa/sets/birds"
+          },
+          {
+            "date_added": "13274557616778674",
+            "guid": "2b20ef48-6a00-4aa0-a52d-26975325eec9",
+            "id": "118",
+            "name": "MiniKanren implementation in Ruby",
+            "type": "url",
+            "url": "https://github.com/spariev/mini_kanren"
+          },
+          {
+            "date_added": "13274989401958762",
+            "guid": "ee15b7f6-68f0-470f-b7e8-a3131721b78f",
+            "id": "133",
+            "name": "Awesome Haskell",
+            "type": "url",
+            "url": "https://github.com/krispo/awesome-haskell#basics"
+          },
+          {
+            "date_added": "13279084901499687",
+            "guid": "62d13c55-20a0-4df5-8195-543cf0e56b7a",
+            "id": "186",
+            "name": "Learn You a Haskell for Great Good!",
+            "type": "url",
+            "url": "http://learnyouahaskell.com/"
+          },
+          {
+            "date_added": "13279372698271773",
+            "guid": "eaa691a4-576b-4791-b6b4-5d9663018a55",
+            "id": "202",
+            "name": "Functional Programming With Professor Frisby",
+            "type": "url",
+            "url": "https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box"
+          },
+          {
+            "date_added": "13279085046942323",
+            "guid": "fd956ff5-1979-461c-8415-4c305dd71c76",
+            "id": "193",
+            "name": "Category Theory Illustated - Github",
+            "type": "url",
+            "url": "https://github.com/boris-marinov/category-theory-illustrated"
+          }
+        ],
+        "date_added": "13280023696257688",
+        "date_modified": "13280023783637618",
+        "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
+        "id": "214",
+        "name": "FunctionalProgramming",
+        "type": "folder"
       },
       {
-        "date_added": "13278962825464796",
-        "guid": "ee051f83-a2e1-4e43-ac72-c2f2f61c3da0",
-        "id": "166",
-        "name": "AST explorer",
-        "type": "url",
-        "url": "https://astexplorer.net/"
+        "children": [
+          {
+            "date_added": "13276153607917715",
+            "guid": "b835861a-e65b-49b9-8718-cb68999cbc85",
+            "id": "151",
+            "name": "RustConf 2021",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=pLdCcolQsxA"
+          },
+          {
+            "date_added": "13279085103268269",
+            "guid": "872803ba-bc4d-47b2-bf39-d9bfc687a376",
+            "id": "196",
+            "name": "The Fast Track to Julia",
+            "type": "url",
+            "url": "https://juliadocs.github.io/Julia-Cheat-Sheet/"
+          },
+          {
+            "date_added": "13279951033004503",
+            "guid": "5e0196ae-4290-421e-9c91-7a2a3242eb0d",
+            "id": "211",
+            "name": "Learn Lua in Y Minutes",
+            "type": "url",
+            "url": "https://learnxinyminutes.com/docs/lua/"
+          }
+        ],
+        "date_added": "13280023922289203",
+        "date_modified": "13280024014080085",
+        "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
+        "id": "215",
+        "name": "Languages",
+        "type": "folder"
       }
     ],
     "date_added": "13246877992587460",
-    "date_modified": "13279084827609787",
+    "date_modified": "13280023922290313",
     "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
     "id": "1",
     "name": "Bookmarks",
@@ -538,28 +694,12 @@
   "other": {
     "children": [
       {
-        "date_added": "13273283590547001",
-        "guid": "34ea935a-80ea-4441-b307-eb011433fa13",
-        "id": "94",
-        "name": "Cassilda and Carcosa",
-        "type": "url",
-        "url": "https://soundcloud.com/cassilda_and_carcosa/sets/birds"
-      },
-      {
         "date_added": "13274557616776078",
         "guid": "235d3b4c-2274-401c-87ab-cbd5f0c0e4bc",
         "id": "106",
         "name": "Gleek - Diagram Generator",
         "type": "url",
         "url": "https://app.gleek.io/"
-      },
-      {
-        "date_added": "13274557616776687",
-        "guid": "af55c2ca-9705-4afc-8ca0-9b12c098f765",
-        "id": "109",
-        "name": "RISC V - ASM - Manual",
-        "type": "url",
-        "url": "https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md"
       },
       {
         "date_added": "13274557616776879",
@@ -586,14 +726,6 @@
         "url": "https://github.com/iptv-org/iptv"
       },
       {
-        "date_added": "13274557616777835",
-        "guid": "1410017d-1d39-4224-b582-6f152e2d353a",
-        "id": "114",
-        "name": "C Programming Language Under A Microscope",
-        "type": "url",
-        "url": "https://www.slideshare.net/olvemaudal/deep-c/274"
-      },
-      {
         "date_added": "13274557616778023",
         "guid": "5ddd3f7c-e15f-467d-b487-1148743e346c",
         "id": "115",
@@ -608,14 +740,6 @@
         "name": "Rhizome: A JIT for Ruby, implemented in pure Ruby",
         "type": "url",
         "url": "https://github.com/chrisseaton/rhizome"
-      },
-      {
-        "date_added": "13274557616778674",
-        "guid": "2b20ef48-6a00-4aa0-a52d-26975325eec9",
-        "id": "118",
-        "name": "MiniKanren implementation in Ruby",
-        "type": "url",
-        "url": "https://github.com/spariev/mini_kanren"
       },
       {
         "date_added": "13274557616779239",
@@ -634,14 +758,6 @@
         "url": "https://sudhir.io/the-big-little-guide-to-message-queues/"
       },
       {
-        "date_added": "13274989401958762",
-        "guid": "ee15b7f6-68f0-470f-b7e8-a3131721b78f",
-        "id": "133",
-        "name": "Awesome Haskell",
-        "type": "url",
-        "url": "https://github.com/krispo/awesome-haskell#basics"
-      },
-      {
         "date_added": "13276067221793818",
         "guid": "f4dc0106-4f62-444d-a77b-1e60cd30ee33",
         "id": "138",
@@ -656,30 +772,6 @@
         "name": "Ruby on Rails CMS",
         "type": "url",
         "url": "https://github.com/refinery/refinerycms"
-      },
-      {
-        "date_added": "13276151880830121",
-        "guid": "4aaa8f91-c6b2-4086-95e8-54a078f903c2",
-        "id": "141",
-        "name": "Algorithms in C",
-        "type": "url",
-        "url": "https://github.com/TheAlgorithms/C"
-      },
-      {
-        "date_added": "13276151903812032",
-        "guid": "f38d2dd2-4e3f-49d0-b1db-31279aace945",
-        "id": "142",
-        "name": "Algorithms in Rust",
-        "type": "url",
-        "url": "https://github.com/TheAlgorithms/Rust"
-      },
-      {
-        "date_added": "13276153607917715",
-        "guid": "b835861a-e65b-49b9-8718-cb68999cbc85",
-        "id": "151",
-        "name": "RustConf 2021",
-        "type": "url",
-        "url": "https://www.youtube.com/watch?v=pLdCcolQsxA"
       },
       {
         "date_added": "13276655253440203",
@@ -714,38 +806,6 @@
         "url": "https://tio.run/#io"
       },
       {
-        "date_added": "13279084871899752",
-        "guid": "362340b2-070b-4a29-a517-74a4c0a270c7",
-        "id": "184",
-        "name": "Haskell Course",
-        "type": "url",
-        "url": "https://www.futurelearn.com/courses/functional-programming-haskell/9/steps/1103451"
-      },
-      {
-        "date_added": "13279084901499687",
-        "guid": "62d13c55-20a0-4df5-8195-543cf0e56b7a",
-        "id": "186",
-        "name": "Learn You a Haskell for Great Good!",
-        "type": "url",
-        "url": "http://learnyouahaskell.com/"
-      },
-      {
-        "date_added": "13279084912486905",
-        "guid": "626c6f03-cbc6-415f-89f2-d1eb1d4a202e",
-        "id": "187",
-        "name": "Monad laws in Ruby",
-        "type": "url",
-        "url": "https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html"
-      },
-      {
-        "date_added": "13279084971897627",
-        "guid": "17e9973c-600f-4cf8-b9f8-4996e2a37be2",
-        "id": "188",
-        "name": "Category Theory - Bartosz Milewski",
-        "type": "url",
-        "url": "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
-      },
-      {
         "date_added": "13279084999899832",
         "guid": "87ae6b03-866a-4e93-a161-58997400040e",
         "id": "190",
@@ -760,14 +820,6 @@
         "name": "The Julia Language",
         "type": "url",
         "url": "https://docs.julialang.org/en/v1/base/base/"
-      },
-      {
-        "date_added": "13279085046942323",
-        "guid": "fd956ff5-1979-461c-8415-4c305dd71c76",
-        "id": "193",
-        "name": "Category Theory Illustated - Github",
-        "type": "url",
-        "url": "https://github.com/boris-marinov/category-theory-illustrated"
       },
       {
         "date_added": "13279085079580178",
@@ -786,60 +838,12 @@
         "url": "https://www.youtube.com/watch?v=C06MohLG_3s"
       },
       {
-        "date_added": "13279085103268269",
-        "guid": "872803ba-bc4d-47b2-bf39-d9bfc687a376",
-        "id": "196",
-        "name": "The Fast Track to Julia",
-        "type": "url",
-        "url": "https://juliadocs.github.io/Julia-Cheat-Sheet/"
-      },
-      {
-        "date_added": "13279189602909695",
-        "guid": "3d4a1973-ef61-4bbe-97dd-9a9a2568e9f4",
-        "id": "198",
-        "name": "Dracula",
-        "type": "url",
-        "url": "https://draculatheme.com/"
-      },
-      {
-        "date_added": "13279209443718690",
-        "guid": "d41f0eda-55fe-43de-8d5f-39719cb93123",
-        "id": "199",
-        "name": "The Algebra of Types",
-        "type": "url",
-        "url": "https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html"
-      },
-      {
-        "date_added": "13279372698271773",
-        "guid": "eaa691a4-576b-4791-b6b4-5d9663018a55",
-        "id": "202",
-        "name": "Functional Programming With Professor Frisby",
-        "type": "url",
-        "url": "https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box"
-      },
-      {
         "date_added": "13279384464763480",
         "guid": "dbcade03-7978-4db6-b51d-5dcfb83fcadf",
         "id": "203",
         "name": "Tarkalabs | Internal Wiki",
         "type": "url",
         "url": "https://sites.google.com/tarkalabs.com/wiki/home"
-      },
-      {
-        "date_added": "13279559016548109",
-        "guid": "d27495a1-6031-49b5-8166-ca72b83c6f44",
-        "id": "204",
-        "name": "Interface Design Projects",
-        "type": "url",
-        "url": "https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353"
-      },
-      {
-        "date_added": "13279589296783821",
-        "guid": "cc6033f0-9b4a-4d75-8cba-6bbf92c13799",
-        "id": "205",
-        "name": "Best LinkedIn Recommendation Examples From Top Industry Leaders [+ How to Write Them] | Anyleads",
-        "type": "url",
-        "url": "https://anyleads.com/linkedin-recommendation-examples"
       },
       {
         "date_added": "13279592886045269",
@@ -866,16 +870,24 @@
         "url": "https://twitter.com/SahilBloom/status/1449339851124445185"
       },
       {
-        "date_added": "13279951033004503",
-        "guid": "5e0196ae-4290-421e-9c91-7a2a3242eb0d",
-        "id": "211",
-        "name": "Learn Lua in Y Minutes",
+        "date_added": "13278615274952810",
+        "guid": "5abf15b2-43fc-4904-a4f2-9ea89a1b9c6c",
+        "id": "163",
+        "name": "Isaac Clayton",
         "type": "url",
-        "url": "https://learnxinyminutes.com/docs/lua/"
+        "url": "https://slightknack.dev/"
+      },
+      {
+        "date_added": "13278962825464796",
+        "guid": "ee051f83-a2e1-4e43-ac72-c2f2f61c3da0",
+        "id": "166",
+        "name": "AST explorer",
+        "type": "url",
+        "url": "https://astexplorer.net/"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13279951033004503",
+    "date_modified": "13280023845649877",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
