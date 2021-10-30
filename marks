@@ -250,10 +250,18 @@
             "name": "Algorithms in Rust",
             "type": "url",
             "url": "https://github.com/TheAlgorithms/Rust"
+          },
+          {
+            "date_added": "13280026129362923",
+            "guid": "2a34c1cf-b2e6-4d62-b0c7-421e2cf1fea0",
+            "id": "218",
+            "name": "Cowgod's Chip-8 Technical Reference",
+            "type": "url",
+            "url": "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM"
           }
         ],
         "date_added": "13266890914175791",
-        "date_modified": "13280023951934782",
+        "date_modified": "13280026149918126",
         "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
         "id": "70",
         "name": "Systems Dev",
@@ -344,10 +352,18 @@
             "name": "Dracula",
             "type": "url",
             "url": "https://draculatheme.com/"
+          },
+          {
+            "date_added": "13280026149918126",
+            "guid": "42722b56-79ba-4717-8e66-5213e1b705e0",
+            "id": "220",
+            "name": "Tailwind CSS Docs",
+            "type": "url",
+            "url": "https://tailwindcss.com/docs"
           }
         ],
         "date_added": "13268888229973647",
-        "date_modified": "13280023998834655",
+        "date_modified": "13280026158105967",
         "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
         "id": "86",
         "name": "Graphics / Design",
@@ -640,10 +656,18 @@
             "name": "Category Theory Illustated - Github",
             "type": "url",
             "url": "https://github.com/boris-marinov/category-theory-illustrated"
+          },
+          {
+            "date_added": "13280026088486162",
+            "guid": "278422d3-060f-486e-8d02-79aef65def91",
+            "id": "216",
+            "name": "Why algebraic data types are important - Bartosz Milewski",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=LkqTLJK2API"
           }
         ],
         "date_added": "13280023696257688",
-        "date_modified": "13280023783637618",
+        "date_modified": "13280026111266099",
         "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
         "id": "214",
         "name": "FunctionalProgramming",
@@ -677,7 +701,7 @@
           }
         ],
         "date_added": "13280023922289203",
-        "date_modified": "13280024014080085",
+        "date_modified": "13280026088486162",
         "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
         "id": "215",
         "name": "Languages",
