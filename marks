@@ -360,10 +360,18 @@
             "name": "Tailwind CSS Docs",
             "type": "url",
             "url": "https://tailwindcss.com/docs"
+          },
+          {
+            "date_added": "13280128789639836",
+            "guid": "b8908cd7-a3a9-4334-b0a6-0d9ae4944601",
+            "id": "221",
+            "name": "config/init.lua at master · mukeshsoni/config",
+            "type": "url",
+            "url": "https://github.com/mukeshsoni/config/blob/master/.config/nvim/init.lua"
           }
         ],
         "date_added": "13268888229973647",
-        "date_modified": "13280026158105967",
+        "date_modified": "13280129337903418",
         "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
         "id": "86",
         "name": "Graphics / Design",
@@ -908,10 +916,18 @@
         "name": "AST explorer",
         "type": "url",
         "url": "https://astexplorer.net/"
+      },
+      {
+        "date_added": "13280129337903418",
+        "guid": "ab413dec-6507-456d-aa03-21baa47ef6ac",
+        "id": "222",
+        "name": "Vim to Neovim",
+        "type": "url",
+        "url": "https://neovim.io/doc/user/vim_diff.html"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13280023845649877",
+    "date_modified": "13280129347596257",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
