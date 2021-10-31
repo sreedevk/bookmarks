@@ -924,10 +924,18 @@
         "name": "Vim to Neovim",
         "type": "url",
         "url": "https://neovim.io/doc/user/vim_diff.html"
+      },
+      {
+        "date_added": "13280172110493016",
+        "guid": "b41b2065-5eaa-4926-b33d-3fe7003f8550",
+        "id": "223",
+        "name": "Lua 5.4 Reference Manual",
+        "type": "url",
+        "url": "https://www.lua.org/manual/5.4/"
       }
     ],
     "date_added": "13246877992587463",
-    "date_modified": "13280129347596257",
+    "date_modified": "13280172110493016",
     "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
     "id": "2",
     "name": "Other bookmarks",
