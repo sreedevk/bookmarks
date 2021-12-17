@@ -55,6 +55,10 @@
   [Bevy - A data-driven game engine built in Rust](https://bevyengine.org/)  
   [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)  
   [To Base64, 4 more - CyberChef](https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')From_Hex('Auto'/disabled)From_Hexdump(/disabled)URL_Decode(/disabled)Entropy('Image')&input=eHl6)  
+  [advent-of-code/dec09.rb at master · PaulJuliusMartinez/advent-of-code](https://github.com/PaulJuliusMartinez/advent-of-code/blob/master/2021/dec09.rb)  
+  [aoc2021/solution.ex at main · joegiralt/aoc2021](https://github.com/joegiralt/aoc2021/blob/main/lib/day9/solution.ex)  
+  [rofi/CONFIG.md at next · davatorium/rofi](https://github.com/davatorium/rofi/blob/next/CONFIG.md)  
+  [[CF-569] Save currency exchange rates for USD by railsfactory-bhimsen · Pull Request #8729 · tunecore/tc-www](https://github.com/tunecore/tc-www/pull/8729/files)  
 ## Datasets
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  

@@ -1,5 +1,5 @@
 {
-   "checksum": "5a3ace2e8082e5dc9a7cf8b9a4e79ca4",
+   "checksum": "bd8fae717ce9dd9df734c919bd3b79b2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -366,9 +366,37 @@
                "name": "To Base64, 4 more - CyberChef",
                "type": "url",
                "url": "https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')From_Hex('Auto'/disabled)From_Hexdump(/disabled)URL_Decode(/disabled)Entropy('Image')&input=eHl6"
+            }, {
+               "date_added": "13283502498841962",
+               "guid": "c5c4f031-0761-4304-a172-61a2fefe522c",
+               "id": "258",
+               "name": "advent-of-code/dec09.rb at master · PaulJuliusMartinez/advent-of-code",
+               "type": "url",
+               "url": "https://github.com/PaulJuliusMartinez/advent-of-code/blob/master/2021/dec09.rb"
+            }, {
+               "date_added": "13283553125364455",
+               "guid": "ff9a685e-505a-47fd-b083-6e6c6175939b",
+               "id": "260",
+               "name": "aoc2021/solution.ex at main · joegiralt/aoc2021",
+               "type": "url",
+               "url": "https://github.com/joegiralt/aoc2021/blob/main/lib/day9/solution.ex"
+            }, {
+               "date_added": "13283769299145735",
+               "guid": "bf0d3056-9ad4-4e42-93c5-966ce44cf97f",
+               "id": "262",
+               "name": "rofi/CONFIG.md at next · davatorium/rofi",
+               "type": "url",
+               "url": "https://github.com/davatorium/rofi/blob/next/CONFIG.md"
+            }, {
+               "date_added": "13284237308852213",
+               "guid": "455514bb-f006-42c5-ab74-6286c056c4eb",
+               "id": "264",
+               "name": "[CF-569] Save currency exchange rates for USD by railsfactory-bhimsen · Pull Request #8729 · tunecore/tc-www",
+               "type": "url",
+               "url": "https://github.com/tunecore/tc-www/pull/8729/files"
             } ],
             "date_added": "13268888229973647",
-            "date_modified": "13283216710105996",
+            "date_modified": "13284237308852213",
             "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
             "id": "86",
             "name": "Graphics / Design",
