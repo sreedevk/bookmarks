@@ -54,11 +54,7 @@
   [storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!](https://github.com/storybookjs/storybook)  
   [Bevy - A data-driven game engine built in Rust](https://bevyengine.org/)  
   [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)  
-  [To Base64, 4 more - CyberChef](https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')From_Hex('Auto'/disabled)From_Hexdump(/disabled)URL_Decode(/disabled)Entropy('Image')&input=eHl6)  
-  [advent-of-code/dec09.rb at master · PaulJuliusMartinez/advent-of-code](https://github.com/PaulJuliusMartinez/advent-of-code/blob/master/2021/dec09.rb)  
-  [aoc2021/solution.ex at main · joegiralt/aoc2021](https://github.com/joegiralt/aoc2021/blob/main/lib/day9/solution.ex)  
   [rofi/CONFIG.md at next · davatorium/rofi](https://github.com/davatorium/rofi/blob/next/CONFIG.md)  
-  [[CF-569] Save currency exchange rates for USD by railsfactory-bhimsen · Pull Request #8729 · tunecore/tc-www](https://github.com/tunecore/tc-www/pull/8729/files)  
 ## Datasets
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -97,6 +93,7 @@
   [Functional Programming With Professor Frisby](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)  
   [Category Theory Illustated - Github](https://github.com/boris-marinov/category-theory-illustrated)  
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
+  [Functional programming books overview](http://alexott.net/en/fp/books/)  
 ## Languages
   [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
@@ -135,4 +132,12 @@
  [getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS)  
  [rothgar/awesome-tuis: List of projects that provide terminal user interfaces](https://github.com/rothgar/awesome-tuis)  
  [The Web’s Best Remote Jobs | Dynamite Jobs](https://dynamitejobs.com/?utm_source=old-home-redirect)  
+ [Sourcegraph](https://sourcegraph.com/search)  
+ [https://www.gnu.org/software/emacs/manual/html_mono/calc.html](https://www.gnu.org/software/emacs/manual/html_mono/calc.html)  
+ [Bell Labs Technical Journal - Nokia Bell Labs](https://www.bell-labs.com/about/history/innovation-stories/bell-labs-technical-journal/)  
+ [Best paper awards at AAAI, ACL, CHI, CIKM, CVPR, FOCS, FSE, ICCV, ICML, ICSE, IJCAI, INFOCOM, KDD, MOBICOM, NEURIPS, NSDI, OSDI, PLDI, PODS, S&P, SIGCOMM, SIGIR, SIGMETRICS, SIGMOD, SODA, SOSP, STOC, UIST, VLDB, WWW](https://jeffhuang.com/best_paper_awards/)  
+ [Publications - Meta Research](https://research.facebook.com/publications/)  
+ [Search - Microsoft Research](https://www.microsoft.com/en-us/research/search/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fcatalog%2Fdefault.aspx%3Ft%3Dpublications)  
+ [Engineering & Computer Science - Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)  
+ [the morning paper | a random walk through Computer Science research, by Adrian Colyer](https://blog.acolyer.org/)  
 # Mobile bookmarks

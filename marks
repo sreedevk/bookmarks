@@ -1,5 +1,5 @@
 {
-   "checksum": "bd8fae717ce9dd9df734c919bd3b79b2",
+   "checksum": "3023548b971d0fc5d35ad8a3275089c5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -360,43 +360,15 @@
                "type": "url",
                "url": "https://raytracing.github.io/books/RayTracingInOneWeekend.html"
             }, {
-               "date_added": "13283216710105996",
-               "guid": "3ff7b84a-9228-4c28-aafa-ca44764c3792",
-               "id": "255",
-               "name": "To Base64, 4 more - CyberChef",
-               "type": "url",
-               "url": "https://gchq.github.io/CyberChef/#recipe=To_Base64('A-Za-z0-9%2B/%3D')From_Hex('Auto'/disabled)From_Hexdump(/disabled)URL_Decode(/disabled)Entropy('Image')&input=eHl6"
-            }, {
-               "date_added": "13283502498841962",
-               "guid": "c5c4f031-0761-4304-a172-61a2fefe522c",
-               "id": "258",
-               "name": "advent-of-code/dec09.rb at master · PaulJuliusMartinez/advent-of-code",
-               "type": "url",
-               "url": "https://github.com/PaulJuliusMartinez/advent-of-code/blob/master/2021/dec09.rb"
-            }, {
-               "date_added": "13283553125364455",
-               "guid": "ff9a685e-505a-47fd-b083-6e6c6175939b",
-               "id": "260",
-               "name": "aoc2021/solution.ex at main · joegiralt/aoc2021",
-               "type": "url",
-               "url": "https://github.com/joegiralt/aoc2021/blob/main/lib/day9/solution.ex"
-            }, {
                "date_added": "13283769299145735",
                "guid": "bf0d3056-9ad4-4e42-93c5-966ce44cf97f",
                "id": "262",
                "name": "rofi/CONFIG.md at next · davatorium/rofi",
                "type": "url",
                "url": "https://github.com/davatorium/rofi/blob/next/CONFIG.md"
-            }, {
-               "date_added": "13284237308852213",
-               "guid": "455514bb-f006-42c5-ab74-6286c056c4eb",
-               "id": "264",
-               "name": "[CF-569] Save currency exchange rates for USD by railsfactory-bhimsen · Pull Request #8729 · tunecore/tc-www",
-               "type": "url",
-               "url": "https://github.com/tunecore/tc-www/pull/8729/files"
             } ],
             "date_added": "13268888229973647",
-            "date_modified": "13284237308852213",
+            "date_modified": "13284698087530201",
             "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
             "id": "86",
             "name": "Graphics / Design",
@@ -664,9 +636,16 @@
                "name": "Why algebraic data types are important - Bartosz Milewski",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=LkqTLJK2API"
+            }, {
+               "date_added": "13284698656280616",
+               "guid": "c77383e4-d19f-4983-9560-9a36ac4b040e",
+               "id": "270",
+               "name": "Functional programming books overview",
+               "type": "url",
+               "url": "http://alexott.net/en/fp/books/"
             } ],
             "date_added": "13280023696257688",
-            "date_modified": "13280026111266099",
+            "date_modified": "13284698669237737",
             "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
             "id": "214",
             "name": "FunctionalProgramming",
@@ -940,9 +919,65 @@
             "name": "The Web’s Best Remote Jobs | Dynamite Jobs",
             "type": "url",
             "url": "https://dynamitejobs.com/?utm_source=old-home-redirect"
+         }, {
+            "date_added": "13284698087530201",
+            "guid": "bb21144d-89a8-4799-a6c2-fe6e0e08fd3d",
+            "id": "265",
+            "name": "Sourcegraph",
+            "type": "url",
+            "url": "https://sourcegraph.com/search"
+         }, {
+            "date_added": "13284698177990373",
+            "guid": "f8971d57-efc7-4fe4-80b8-206bf22325cb",
+            "id": "266",
+            "name": "https://www.gnu.org/software/emacs/manual/html_mono/calc.html",
+            "type": "url",
+            "url": "https://www.gnu.org/software/emacs/manual/html_mono/calc.html"
+         }, {
+            "date_added": "13284698604640027",
+            "guid": "d365c09f-f3d0-444c-bcf1-8dcaa64b070b",
+            "id": "267",
+            "name": "Bell Labs Technical Journal - Nokia Bell Labs",
+            "type": "url",
+            "url": "https://www.bell-labs.com/about/history/innovation-stories/bell-labs-technical-journal/"
+         }, {
+            "date_added": "13284698614897361",
+            "guid": "0b731b92-57c8-472c-97a1-939eb4c14fcf",
+            "id": "268",
+            "name": "Best paper awards at AAAI, ACL, CHI, CIKM, CVPR, FOCS, FSE, ICCV, ICML, ICSE, IJCAI, INFOCOM, KDD, MOBICOM, NEURIPS, NSDI, OSDI, PLDI, PODS, S&P, SIGCOMM, SIGIR, SIGMETRICS, SIGMOD, SODA, SOSP, STOC, UIST, VLDB, WWW",
+            "type": "url",
+            "url": "https://jeffhuang.com/best_paper_awards/"
+         }, {
+            "date_added": "13284698643301883",
+            "guid": "4f119f2a-6f3d-4939-aa66-4c993744e4a6",
+            "id": "269",
+            "name": "Publications - Meta Research",
+            "type": "url",
+            "url": "https://research.facebook.com/publications/"
+         }, {
+            "date_added": "13284698669237737",
+            "guid": "b9700aa0-abf3-412b-8e2f-63d36fa40792",
+            "id": "271",
+            "name": "Search - Microsoft Research",
+            "type": "url",
+            "url": "https://www.microsoft.com/en-us/research/search/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fcatalog%2Fdefault.aspx%3Ft%3Dpublications"
+         }, {
+            "date_added": "13284698674219594",
+            "guid": "93659bb6-2bf3-4339-b86b-706efbc65dd4",
+            "id": "272",
+            "name": "Engineering & Computer Science - Google Scholar Metrics",
+            "type": "url",
+            "url": "https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng"
+         }, {
+            "date_added": "13284698698239770",
+            "guid": "9c86dd9c-581c-4037-858c-9418004e110e",
+            "id": "273",
+            "name": "the morning paper | a random walk through Computer Science research, by Adrian Colyer",
+            "type": "url",
+            "url": "https://blog.acolyer.org/"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13282944921267123",
+         "date_modified": "13284698698239770",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
