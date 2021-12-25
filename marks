@@ -1,5 +1,5 @@
 {
-   "checksum": "91c91fa1b888752d506d5e16f2b694bb",
+   "checksum": "c87ca3181899e104b98d9ecb9ba6fea6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -643,9 +643,16 @@
                "name": "Functional programming books overview",
                "type": "url",
                "url": "http://alexott.net/en/fp/books/"
+            }, {
+               "date_added": "13284777044010544",
+               "guid": "414f75ec-6277-4e43-b6d4-cbd612f6979f",
+               "id": "276",
+               "name": "OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful",
+               "type": "url",
+               "url": "https://cs3110.github.io/textbook/cover.html"
             } ],
             "date_added": "13280023696257688",
-            "date_modified": "13284698669237737",
+            "date_modified": "13284777046960282",
             "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
             "id": "214",
             "name": "FunctionalProgramming",
@@ -984,7 +991,7 @@
             "url": "https://carbon.now.sh/"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13284721326212220",
+         "date_modified": "13284777044010544",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

@@ -94,6 +94,7 @@
   [Category Theory Illustated - Github](https://github.com/boris-marinov/category-theory-illustrated)  
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
   [Functional programming books overview](http://alexott.net/en/fp/books/)  
+  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
 ## Languages
   [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
