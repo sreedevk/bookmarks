@@ -17,8 +17,6 @@
  [Kendryte Drone Project](https://github.com/ConnorChristie/kendryte-drone-ai)  
  [Awesome K210](https://github.com/elloza/awesome-k210)  
  [K210 Memory Mapping](https://github.com/laanwj/k210-sdk-stuff/blob/master/doc/memory_map.md)  
- [Kendryte Standalone Programming Guide](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_standalone_programming_guide_20190311144158_en.pdf)  
- [MaixBit Datasheet](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.yahboom.net/xiazai/Maix_Bit/Download/MaixBit_Datasheet.pdf)  
  [U8G2](https://github.com/olikraus/u8g2/)  
  [Maixduino ILI9341 Driver](https://github.com/marwask/maixduino-ili9341)  
 ### ESP IDF

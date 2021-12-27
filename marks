@@ -1,5 +1,5 @@
 {
-   "checksum": "c87ca3181899e104b98d9ecb9ba6fea6",
+   "checksum": "e42507f2e6b894bdfe0e0296eea2ee11",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -89,20 +89,6 @@
                   "name": "K210 Memory Mapping",
                   "type": "url",
                   "url": "https://github.com/laanwj/k210-sdk-stuff/blob/master/doc/memory_map.md"
-               }, {
-                  "date_added": "13260125256421848",
-                  "guid": "bae0b37c-fe50-4566-a0a5-c165ec42399b",
-                  "id": "38",
-                  "name": "Kendryte Standalone Programming Guide",
-                  "type": "url",
-                  "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_standalone_programming_guide_20190311144158_en.pdf"
-               }, {
-                  "date_added": "13260205968268422",
-                  "guid": "d5095063-d021-4b6e-b9b7-0a1f9e25ddc0",
-                  "id": "40",
-                  "name": "MaixBit Datasheet",
-                  "type": "url",
-                  "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://www.yahboom.net/xiazai/Maix_Bit/Download/MaixBit_Datasheet.pdf"
                }, {
                   "date_added": "13260810293814806",
                   "guid": "5ed1d572-5393-4031-8563-b49751571fbf",
