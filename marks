@@ -1,5 +1,5 @@
 {
-   "checksum": "e42507f2e6b894bdfe0e0296eea2ee11",
+   "checksum": "c576f8bb63e50940091ae6ebfb62f55b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -807,13 +807,6 @@
             "name": "The Art of AST",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=C06MohLG_3s"
-         }, {
-            "date_added": "13279384464763480",
-            "guid": "dbcade03-7978-4db6-b51d-5dcfb83fcadf",
-            "id": "203",
-            "name": "Tarkalabs | Internal Wiki",
-            "type": "url",
-            "url": "https://sites.google.com/tarkalabs.com/wiki/home"
          }, {
             "date_added": "13279592886045269",
             "guid": "18157122-aa62-4eb8-aafc-d49ce50fb5c1",

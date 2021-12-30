@@ -116,7 +116,6 @@
  [The Julia Language](https://docs.julialang.org/en/v1/base/base/)  
  [ncurses - Rust](https://docs.rs/ncurses/5.101.0/ncurses/index.html)  
  [The Art of AST](https://www.youtube.com/watch?v=C06MohLG_3s)  
- [Tarkalabs | Internal Wiki](https://sites.google.com/tarkalabs.com/wiki/home)  
  [Free SVG Patterns](https://www.heropatterns.com/)  
  [Julia Program Project Template](https://github.com/Enforcer007/Algorithms-Julia/)  
  [Lessons in Life](https://twitter.com/SahilBloom/status/1449339851124445185)  
