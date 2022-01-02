@@ -1,5 +1,5 @@
 {
-   "checksum": "c576f8bb63e50940091ae6ebfb62f55b",
+   "checksum": "08d433af4538a3dce38949440a3e6a98",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -352,9 +352,16 @@
                "name": "rofi/CONFIG.md at next · davatorium/rofi",
                "type": "url",
                "url": "https://github.com/davatorium/rofi/blob/next/CONFIG.md"
+            }, {
+               "date_added": "13285590257057746",
+               "guid": "7f8da8c6-9245-487f-bcef-5a98f2cf9a9d",
+               "id": "282",
+               "name": "Homegrown rendering with Rust. In this post, Embark software engineer… | by Tomasz Stachowiak | Embark Studios | Dec, 2021 | Medium",
+               "type": "url",
+               "url": "https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7"
             } ],
             "date_added": "13268888229973647",
-            "date_modified": "13284698087530201",
+            "date_modified": "13285590264429533",
             "guid": "6e5bec91-8b01-4e33-8984-466cae1af65d",
             "id": "86",
             "name": "Graphics / Design",
@@ -636,9 +643,16 @@
                "name": "OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful",
                "type": "url",
                "url": "https://cs3110.github.io/textbook/cover.html"
+            }, {
+               "date_added": "13285431871744486",
+               "guid": "21583c52-c36f-430a-9f8e-af62f75ee0a6",
+               "id": "278",
+               "name": "PDF Viewer",
+               "type": "url",
+               "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://index-of.es/Varios/Sam%20Newman-Building%20Microservices-O%27Reilly%20Media%20(2015).pdf"
             } ],
             "date_added": "13280023696257688",
-            "date_modified": "13284777046960282",
+            "date_modified": "13285590240431881",
             "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
             "id": "214",
             "name": "FunctionalProgramming",
@@ -968,9 +982,37 @@
             "name": "Carbon | Create and share beautiful images of your source code",
             "type": "url",
             "url": "https://carbon.now.sh/"
+         }, {
+            "date_added": "13285590240431881",
+            "guid": "354d7828-f439-457d-af5b-efe430f56291",
+            "id": "279",
+            "name": "List of build automation software - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/List_of_build_automation_software"
+         }, {
+            "date_added": "13285590247337735",
+            "guid": "6a1e50f2-17dd-4deb-b05e-e9b6274bbadb",
+            "id": "280",
+            "name": "gRPC",
+            "type": "url",
+            "url": "https://grpc.io/"
+         }, {
+            "date_added": "13285590252361649",
+            "guid": "0bcf92a5-6f00-4c89-aade-a9ab6c28edd8",
+            "id": "281",
+            "name": "Svelte • Cybernetically enhanced web apps",
+            "type": "url",
+            "url": "https://svelte.dev/"
+         }, {
+            "date_added": "13285590264429533",
+            "guid": "83fdac6f-cd4d-4d48-af14-0ea18f938027",
+            "id": "283",
+            "name": "Extract, transform, load - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Extract,_transform,_load"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13284777044010544",
+         "date_modified": "13285590268185510",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

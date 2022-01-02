@@ -53,6 +53,7 @@
   [Bevy - A data-driven game engine built in Rust](https://bevyengine.org/)  
   [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)  
   [rofi/CONFIG.md at next · davatorium/rofi](https://github.com/davatorium/rofi/blob/next/CONFIG.md)  
+  [Homegrown rendering with Rust. In this post, Embark software engineer… | by Tomasz Stachowiak | Embark Studios | Dec, 2021 | Medium](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)  
 ## Datasets
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -93,6 +94,7 @@
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
   [Functional programming books overview](http://alexott.net/en/fp/books/)  
   [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
+  [PDF Viewer](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://index-of.es/Varios/Sam%20Newman-Building%20Microservices-O%27Reilly%20Media%20(2015).pdf)  
 ## Languages
   [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
@@ -139,4 +141,8 @@
  [Engineering & Computer Science - Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)  
  [the morning paper | a random walk through Computer Science research, by Adrian Colyer](https://blog.acolyer.org/)  
  [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)  
+ [List of build automation software - Wikipedia](https://en.wikipedia.org/wiki/List_of_build_automation_software)  
+ [gRPC](https://grpc.io/)  
+ [Svelte • Cybernetically enhanced web apps](https://svelte.dev/)  
+ [Extract, transform, load - Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)  
 # Mobile bookmarks
