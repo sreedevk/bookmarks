@@ -145,4 +145,8 @@
  [gRPC](https://grpc.io/)  
  [Svelte • Cybernetically enhanced web apps](https://svelte.dev/)  
  [Extract, transform, load - Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)  
+ [Devhints — TL;DR for developer documentation](https://devhints.io/)  
+ [How does Audio Fingerprinting work - Emysound](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)  
+ [Learn Elixir and Phoenix - ElixirCasts](https://elixircasts.io/)  
+ [The Thinner Book: Atomic Habits by James Clear](https://www.chrisbehan.ca/posts/atomic-habits)  
 # Mobile bookmarks

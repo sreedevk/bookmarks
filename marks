@@ -1,5 +1,5 @@
 {
-   "checksum": "08d433af4538a3dce38949440a3e6a98",
+   "checksum": "8bfda50d0374134e6ad2cd2949932a8e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1010,9 +1010,37 @@
             "name": "Extract, transform, load - Wikipedia",
             "type": "url",
             "url": "https://en.wikipedia.org/wiki/Extract,_transform,_load"
+         }, {
+            "date_added": "13285596476951418",
+            "guid": "b5430f45-f247-470e-adb2-b06dd3435d1a",
+            "id": "284",
+            "name": "Devhints — TL;DR for developer documentation",
+            "type": "url",
+            "url": "https://devhints.io/"
+         }, {
+            "date_added": "13285620078582777",
+            "guid": "fb376b7c-63f8-4a8b-9d3c-62fba32df95d",
+            "id": "286",
+            "name": "How does Audio Fingerprinting work - Emysound",
+            "type": "url",
+            "url": "https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html"
+         }, {
+            "date_added": "13285651620585016",
+            "guid": "2392df9d-9239-488b-acf5-736d9604a3ec",
+            "id": "287",
+            "name": "Learn Elixir and Phoenix - ElixirCasts",
+            "type": "url",
+            "url": "https://elixircasts.io/"
+         }, {
+            "date_added": "13285686656229897",
+            "guid": "63205885-619b-416d-b024-5b1f5bc8d94a",
+            "id": "290",
+            "name": "The Thinner Book: Atomic Habits by James Clear",
+            "type": "url",
+            "url": "https://www.chrisbehan.ca/posts/atomic-habits"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13285590268185510",
+         "date_modified": "13285686656229897",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
