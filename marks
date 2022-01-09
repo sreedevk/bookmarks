@@ -1,5 +1,5 @@
 {
-   "checksum": "8bfda50d0374134e6ad2cd2949932a8e",
+   "checksum": "c1301dd9b4630a0297792f5c3294c56a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -691,7 +691,7 @@
          "date_modified": "13280023922290313",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
-         "name": "Bookmarks",
+         "name": "Bookmarks bar",
          "type": "folder"
       },
       "other": {
@@ -1038,9 +1038,16 @@
             "name": "The Thinner Book: Atomic Habits by James Clear",
             "type": "url",
             "url": "https://www.chrisbehan.ca/posts/atomic-habits"
+         }, {
+            "date_added": "13286117934098837",
+            "guid": "5db9fa2f-544b-4e71-86db-aaeeb671ee99",
+            "id": "292",
+            "name": "Introduction | Nushell",
+            "type": "url",
+            "url": "https://www.nushell.sh/book/"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13285686656229897",
+         "date_modified": "13286117934098837",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

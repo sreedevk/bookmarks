@@ -2,7 +2,7 @@
 ## Bookmarks Exported Using Bkmrq  
 ![](https://user-images.githubusercontent.com/36154121/137836028-8dfe3001-4626-47a0-880f-d3dc7b719e27.jpeg)  
       This file was auto generated using the [bkmrq](https://github.com/sreedevk/bkmrq) gem.
-# Bookmarks
+# Bookmarks bar
 ## IPSec
   [ExploitDB](https://www.exploit-db.com/)  
   [Common Security Vulnerability DB](https://www.cvedetails.com/)  
@@ -149,4 +149,5 @@
  [How does Audio Fingerprinting work - Emysound](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)  
  [Learn Elixir and Phoenix - ElixirCasts](https://elixircasts.io/)  
  [The Thinner Book: Atomic Habits by James Clear](https://www.chrisbehan.ca/posts/atomic-habits)  
+ [Introduction | Nushell](https://www.nushell.sh/book/)  
 # Mobile bookmarks
