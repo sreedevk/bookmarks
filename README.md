@@ -99,6 +99,9 @@
   [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
   [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
+## Finance & Investing
+  [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
+  [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
@@ -150,4 +153,6 @@
  [Learn Elixir and Phoenix - ElixirCasts](https://elixircasts.io/)  
  [The Thinner Book: Atomic Habits by James Clear](https://www.chrisbehan.ca/posts/atomic-habits)  
  [Introduction | Nushell](https://www.nushell.sh/book/)  
+ [Distributed Systems Safety Research](https://jepsen.io/)  
+ [martinfowler.com](https://martinfowler.com/)  
 # Mobile bookmarks
