@@ -1,5 +1,5 @@
 {
-   "checksum": "1bcfbe463fd2b9a500d048e0292759ec",
+   "checksum": "4f51921266411373314cc442f2141e65",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -388,12 +388,19 @@
                "name": "Kaggle",
                "type": "url",
                "url": "https://www.kaggle.com/datasets"
+            }, {
+               "date_added": "13286355617070761",
+               "guid": "b7e24664-6565-4c8d-9609-f4b4c5f14ca8",
+               "id": "299",
+               "name": "Introduction to dplyr • dplyr",
+               "type": "url",
+               "url": "https://dplyr.tidyverse.org/articles/dplyr.html"
             } ],
             "date_added": "13269985231212090",
-            "date_modified": "13279059436379704",
+            "date_modified": "13286355646780856",
             "guid": "5a5251c7-2242-4e35-9bfb-2521ddee7e9e",
             "id": "90",
-            "name": "Datasets",
+            "name": "Data & Analytics",
             "type": "folder"
          }, {
             "children": [ {
@@ -643,13 +650,6 @@
                "name": "OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful",
                "type": "url",
                "url": "https://cs3110.github.io/textbook/cover.html"
-            }, {
-               "date_added": "13285431871744486",
-               "guid": "21583c52-c36f-430a-9f8e-af62f75ee0a6",
-               "id": "278",
-               "name": "PDF Viewer",
-               "type": "url",
-               "url": "chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://index-of.es/Varios/Sam%20Newman-Building%20Microservices-O%27Reilly%20Media%20(2015).pdf"
             } ],
             "date_added": "13280023696257688",
             "date_modified": "13285590240431881",
@@ -1081,9 +1081,16 @@
             "name": "martinfowler.com",
             "type": "url",
             "url": "https://martinfowler.com/"
+         }, {
+            "date_added": "13286272415327898",
+            "guid": "fc46986e-3c5c-4ab0-980f-94a113eafdfa",
+            "id": "298",
+            "name": "Hidden Brain : NPR",
+            "type": "url",
+            "url": "https://www.npr.org/series/423302056/hidden-brain"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13286252528118015",
+         "date_modified": "13286355617070761",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

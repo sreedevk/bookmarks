@@ -54,10 +54,11 @@
   [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)  
   [rofi/CONFIG.md at next · davatorium/rofi](https://github.com/davatorium/rofi/blob/next/CONFIG.md)  
   [Homegrown rendering with Rust. In this post, Embark software engineer… | by Tomasz Stachowiak | Embark Studios | Dec, 2021 | Medium](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)  
-## Datasets
+## Data & Analytics
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  
   [Kaggle](https://www.kaggle.com/datasets)  
+  [Introduction to dplyr • dplyr](https://dplyr.tidyverse.org/articles/dplyr.html)  
 ## Elixir / BEAM / Erlang
   [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
   [Elixir Livebook](https://github.com/livebook-dev/livebook)  
@@ -94,7 +95,6 @@
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
   [Functional programming books overview](http://alexott.net/en/fp/books/)  
   [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
-  [PDF Viewer](chrome-extension://gfbliohnnapiefjpjlpjnehglfpaknnc/pages/pdf_viewer.html?r=http://index-of.es/Varios/Sam%20Newman-Building%20Microservices-O%27Reilly%20Media%20(2015).pdf)  
 ## Languages
   [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
@@ -155,4 +155,5 @@
  [Introduction | Nushell](https://www.nushell.sh/book/)  
  [Distributed Systems Safety Research](https://jepsen.io/)  
  [martinfowler.com](https://martinfowler.com/)  
+ [Hidden Brain : NPR](https://www.npr.org/series/423302056/hidden-brain)  
 # Mobile bookmarks
