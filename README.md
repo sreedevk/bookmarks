@@ -95,6 +95,9 @@
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
   [Functional programming books overview](http://alexott.net/en/fp/books/)  
   [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
+  [Parser combinator - Wikipedia](https://en.wikipedia.org/wiki/Parser_combinator)  
+  [27 Unhelpful Facts About Category Theory - YouTube](https://www.youtube.com/watch?v=H0Ek86IH-3Y)  
+  [Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials](https://freecomputerbooks.com/)  
 ## Languages
   [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
@@ -156,4 +159,5 @@
  [Distributed Systems Safety Research](https://jepsen.io/)  
  [martinfowler.com](https://martinfowler.com/)  
  [Hidden Brain : NPR](https://www.npr.org/series/423302056/hidden-brain)  
+ [Bayesian probability - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_probability)  
 # Mobile bookmarks

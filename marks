@@ -1,5 +1,5 @@
 {
-   "checksum": "4f51921266411373314cc442f2141e65",
+   "checksum": "c0db5eae323a6690df2069aedbad07e6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -397,7 +397,7 @@
                "url": "https://dplyr.tidyverse.org/articles/dplyr.html"
             } ],
             "date_added": "13269985231212090",
-            "date_modified": "13286355646780856",
+            "date_modified": "13286388532585432",
             "guid": "5a5251c7-2242-4e35-9bfb-2521ddee7e9e",
             "id": "90",
             "name": "Data & Analytics",
@@ -650,9 +650,30 @@
                "name": "OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful",
                "type": "url",
                "url": "https://cs3110.github.io/textbook/cover.html"
+            }, {
+               "date_added": "13286388532585432",
+               "guid": "b99233f0-712d-4cc8-916c-daeb43abe26a",
+               "id": "300",
+               "name": "Parser combinator - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Parser_combinator"
+            }, {
+               "date_added": "13286400913477399",
+               "guid": "a8e3de76-a461-4273-9769-65ac606d6f39",
+               "id": "301",
+               "name": "27 Unhelpful Facts About Category Theory - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=H0Ek86IH-3Y"
+            }, {
+               "date_added": "13286402388426607",
+               "guid": "fa9d652d-995d-435d-9fc3-2c93ca965046",
+               "id": "302",
+               "name": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials",
+               "type": "url",
+               "url": "https://freecomputerbooks.com/"
             } ],
             "date_added": "13280023696257688",
-            "date_modified": "13285590240431881",
+            "date_modified": "13286403112014332",
             "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
             "id": "214",
             "name": "FunctionalProgramming",
@@ -1088,9 +1109,16 @@
             "name": "Hidden Brain : NPR",
             "type": "url",
             "url": "https://www.npr.org/series/423302056/hidden-brain"
+         }, {
+            "date_added": "13286403112014332",
+            "guid": "e2a5512d-a951-442c-81d8-dc7ab2476a3e",
+            "id": "303",
+            "name": "Bayesian probability - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Bayesian_probability"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13286355617070761",
+         "date_modified": "13286403117415515",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
