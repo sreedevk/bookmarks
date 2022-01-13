@@ -1,5 +1,5 @@
 {
-   "checksum": "c0db5eae323a6690df2069aedbad07e6",
+   "checksum": "3f1770118a26d94d226ecf327a1f5e60",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1116,9 +1116,37 @@
             "name": "Bayesian probability - Wikipedia",
             "type": "url",
             "url": "https://en.wikipedia.org/wiki/Bayesian_probability"
+         }, {
+            "date_added": "13286469839205758",
+            "guid": "baef7850-08f9-47c1-bbd1-efd874584762",
+            "id": "305",
+            "name": "the Fennel programming language",
+            "type": "url",
+            "url": "https://fennel-lang.org/"
+         }, {
+            "date_added": "13286482169069783",
+            "guid": "ca71461b-fa8a-4225-8e72-7659751cd7fd",
+            "id": "306",
+            "name": "In MySQL, never use “utf8”. Use “utf8mb4”. | by Adam Hooper | Medium",
+            "type": "url",
+            "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434"
+         }, {
+            "date_added": "13286482198021519",
+            "guid": "2b850ae0-e7f4-4f38-a19e-40be69ae09c5",
+            "id": "307",
+            "name": "Writing a Game Boy Emulator in OCaml - The Linoscope Machine",
+            "type": "url",
+            "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/"
+         }, {
+            "date_added": "13286556733811000",
+            "guid": "2a6078e1-3917-42e1-8ff7-2e15fb7b690f",
+            "id": "308",
+            "name": "Events, Event Sourcing, and the Path Forward – Repeatable Systems",
+            "type": "url",
+            "url": "https://relistan.com/event-sourcing-and-event-bus"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13286403117415515",
+         "date_modified": "13286556733811000",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

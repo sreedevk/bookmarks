@@ -160,4 +160,8 @@
  [martinfowler.com](https://martinfowler.com/)  
  [Hidden Brain : NPR](https://www.npr.org/series/423302056/hidden-brain)  
  [Bayesian probability - Wikipedia](https://en.wikipedia.org/wiki/Bayesian_probability)  
+ [the Fennel programming language](https://fennel-lang.org/)  
+ [In MySQL, never use “utf8”. Use “utf8mb4”. | by Adam Hooper | Medium](https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434)  
+ [Writing a Game Boy Emulator in OCaml - The Linoscope Machine](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)  
+ [Events, Event Sourcing, and the Path Forward – Repeatable Systems](https://relistan.com/event-sourcing-and-event-bus)  
 # Mobile bookmarks
