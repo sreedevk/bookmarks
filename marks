@@ -1,5 +1,5 @@
 {
-   "checksum": "3f1770118a26d94d226ecf327a1f5e60",
+   "checksum": "5560a293615738976190ae4c73ccb18a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1144,9 +1144,16 @@
             "name": "Events, Event Sourcing, and the Path Forward – Repeatable Systems",
             "type": "url",
             "url": "https://relistan.com/event-sourcing-and-event-bus"
+         }, {
+            "date_added": "13286645850319870",
+            "guid": "97de87b9-41e8-432a-8794-eab39dbe2807",
+            "id": "310",
+            "name": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
+            "type": "url",
+            "url": "https://parceljs.org/blog/parcel-css/"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13286556733811000",
+         "date_modified": "13286645850319870",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
