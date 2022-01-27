@@ -98,6 +98,7 @@
   [Parser combinator - Wikipedia](https://en.wikipedia.org/wiki/Parser_combinator)  
   [27 Unhelpful Facts About Category Theory - YouTube](https://www.youtube.com/watch?v=H0Ek86IH-3Y)  
   [Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials](https://freecomputerbooks.com/)  
+  [Event Driven Elixir – TKTheTechie](https://tkthetechie.io/event-driven-elixir/)  
 ## Languages
   [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
   [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
@@ -165,4 +166,5 @@
  [Writing a Game Boy Emulator in OCaml - The Linoscope Machine](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)  
  [Events, Event Sourcing, and the Path Forward – Repeatable Systems](https://relistan.com/event-sourcing-and-event-bus)  
  [Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!](https://parceljs.org/blog/parcel-css/)  
+ [TypeScript 4.4 Cheat Sheet - SitePen](https://www.sitepen.com/blog/typescript-cheat-sheet)  
 # Mobile bookmarks

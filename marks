@@ -1,5 +1,5 @@
 {
-   "checksum": "5560a293615738976190ae4c73ccb18a",
+   "checksum": "19b9f8922a5a67ecffafe069a66ae4b8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -671,9 +671,16 @@
                "name": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials",
                "type": "url",
                "url": "https://freecomputerbooks.com/"
+            }, {
+               "date_added": "13287769751923496",
+               "guid": "f124af83-3b5c-4303-bed6-d5fb6becd504",
+               "id": "313",
+               "name": "Event Driven Elixir – TKTheTechie",
+               "type": "url",
+               "url": "https://tkthetechie.io/event-driven-elixir/"
             } ],
             "date_added": "13280023696257688",
-            "date_modified": "13286403112014332",
+            "date_modified": "13287769760184105",
             "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
             "id": "214",
             "name": "FunctionalProgramming",
@@ -1151,9 +1158,16 @@
             "name": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
             "type": "url",
             "url": "https://parceljs.org/blog/parcel-css/"
+         }, {
+            "date_added": "13287558201386541",
+            "guid": "c896bd10-e69e-40ed-b2a3-bb9a272b540e",
+            "id": "312",
+            "name": "TypeScript 4.4 Cheat Sheet - SitePen",
+            "type": "url",
+            "url": "https://www.sitepen.com/blog/typescript-cheat-sheet"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13286645850319870",
+         "date_modified": "13287769751923496",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
