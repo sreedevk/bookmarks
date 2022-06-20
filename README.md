@@ -2,14 +2,11 @@
 ## Bookmarks Exported Using Bkmrq  
 ![](https://user-images.githubusercontent.com/36154121/137836028-8dfe3001-4626-47a0-880f-d3dc7b719e27.jpeg)  
       This file was auto generated using the [bkmrq](https://github.com/sreedevk/bkmrq) gem.
-# Bookmarks bar
-## IPSec
-  [ExploitDB](https://www.exploit-db.com/)  
-  [Common Security Vulnerability DB](https://www.cvedetails.com/)  
+# Bookmarks
 ## Systems Dev
   [OS From Scratch](https://github.com/cfenollosa/os-tutorial)  
   [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4)  
-  [C Programming Language Under A Microscope](https://www.slideshare.net/olvemaudal/deep-c/274)  
+  [ExploitDB](https://www.exploit-db.com/)  
 ### Kendryte SDK
  [Kendryte FreeRTOS SDK](https://github.com/loboris/K210_FreeRTOS_SDK)  
  [Kendryte Docs](https://github.com/kendryte/kendryte-doc-standalone-programming-guide/blob/master/en/FPIOA.md)  
@@ -19,6 +16,7 @@
  [K210 Memory Mapping](https://github.com/laanwj/k210-sdk-stuff/blob/master/doc/memory_map.md)  
  [U8G2](https://github.com/olikraus/u8g2/)  
  [Maixduino ILI9341 Driver](https://github.com/marwask/maixduino-ili9341)  
+  [Common Security Vulnerability DB](https://www.cvedetails.com/)  
 ### ESP IDF
  [ESP32 Camera](https://github.com/espressif/esp32-camera/blob/master/examples/take_picture.c)  
  [NodeMCU U8G2 Docs](https://nodemcu.readthedocs.io/en/dev-esp32/modules/u8g2/)  
@@ -26,17 +24,56 @@
  [ESP32 A1S Audio HAL](https://github.com/phkehl/esp32-a1s-audio_hal)  
  [ESP8266 -WiFi Deauther](https://github.com/SpacehuhnTech/esp8266_deauther)  
   [RISC V - ASM - Manual](https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md)  
-  [Algorithms in C](https://github.com/TheAlgorithms/C)  
-  [Algorithms in Rust](https://github.com/TheAlgorithms/Rust)  
   [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)  
   [thibmaek/awesome-raspberry-pi: 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)  
   [rust-embedded/rust-raspberrypi-OS-tutorials: Learn to write an embedded OS in Rust](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)  
   [nhivp/Awesome-Embedded: A curated list of awesome embedded programming.](https://github.com/nhivp/Awesome-Embedded)  
   [basic_wm/window_manager.cpp at master · jichu4n/basic_wm](https://github.com/jichu4n/basic_wm/blob/master/window_manager.cpp)  
   [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/)  
-  [Table in tui::widgets - Rust](https://docs.rs/tui/0.16.0/tui/widgets/struct.Table.html)  
   [A Deep Dive Into V8 | AppSignal Blog](https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html#:~:text=A%20big%20part%20of%20its,Yes%2C%20V8%20is%20very%20fast.&text=In%20other%20words%2C%20V8%20is,start%20seeing%20things%20more%20clearly)  
   [advent-of-code/aoc at master · sreedevk/advent-of-code](https://github.com/sreedevk/advent-of-code/blob/master/ruby/bin/aoc)  
+## Programming
+### Elixir / BEAM / Erlang
+ [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
+ [Elixir Livebook](https://github.com/livebook-dev/livebook)  
+ [Numerical Elixir](https://github.com/elixir-nx/)  
+ [Elixir Tips](https://github.com/blackode/elixir-tips)  
+ [Elixir Libcluster - Automatic Cluster Formation / Healing](https://github.com/bitwalker/libcluster)  
+ [Blockscout: Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.](https://github.com/blockscout/blockscout)  
+ [Elixir CLI Node / Process Visualizer](https://github.com/zhongwencool/observer_cli)  
+ [Witchcraft: Monads and other dark magic for Elixir](https://github.com/witchcrafters/witchcraft)  
+ [Enigma: An Erlang VM implementation in Rust](https://github.com/archseer/enigma)  
+ [axon: Nx-powered Neural Networks](https://github.com/elixir-nx/axon)  
+ [Honeydew: Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈](https://github.com/koudelka/honeydew)  
+ [Tangram: Machine Learning Models Manager](https://github.com/tangramdotdev/tangram)  
+ [Awesome Elixir](https://github.com/h4cc/awesome-elixir#audio-and-sounds)  
+ [Elixir Beam Node Visualizer](https://github.com/koudelka/visualixir#visualixir)  
+ [ElixirConf 2017 - Thinking In Ecto - Darin Wilson](https://www.youtube.com/watch?v=YQxopjai0CU)  
+ [BEAM VM ELI5](http://beam-wisdoms.clau.se/en/latest/eli5-vm.html)  
+ [Rete Algorithm](https://www.youtube.com/watch?v=MOOdJG7BiUw)  
+ [Programming Ecto: Build Database Apps in Elixir for Scalability and Performance by Darin Wilson and Eric Meadows-Jönsson](https://pragprog.com/titles/wmecto/programming-ecto/)  
+ [Event Driven Elixir – TKTheTechie](https://tkthetechie.io/event-driven-elixir/)  
+ [Ash](https://www.ash-elixir.org/)  
+### Rust
+ [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
+ [Algorithms in Rust](https://github.com/TheAlgorithms/Rust)  
+ [Table in tui::widgets - Rust](https://docs.rs/tui/0.16.0/tui/widgets/struct.Table.html)  
+### Lua
+ [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
+### Julia
+ [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
+### Haskell
+ [Haskell Course](https://www.futurelearn.com/courses/functional-programming-haskell/9/steps/1103451)  
+ [Awesome Haskell](https://github.com/krispo/awesome-haskell#basics)  
+ [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)  
+### Ruby
+ [Monad laws in Ruby](https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html)  
+  [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
+### OCaml
+ [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
+### C
+ [C Programming Language Under A Microscope](https://www.slideshare.net/olvemaudal/deep-c/274)  
+ [Algorithms in C](https://github.com/TheAlgorithms/C)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -44,6 +81,8 @@
   [PostGIS — Spatial and Geographic Objects for PostgreSQL](https://postgis.net/)  
   [Latitutde & Longitude Calculations](https://www.sisense.com/blog/latitude-longitude-distance-calculation-explained/)  
   [Lat Long Calculations](http://www.m0nwk.co.uk/how-to-calculate-distance-between-two-points-using-latitude-and-longitude/)  
+## Amateur Radio
+  [Welcome to the AA9PW Radio Exam practice page! - AA9PW](http://aa9pw.com/)  
 ## Graphics / Design
   [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)  
   [Interface Design Projects](https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353)  
@@ -59,53 +98,30 @@
   [Public Open APIs](https://github.com/public-apis/public-apis)  
   [Kaggle](https://www.kaggle.com/datasets)  
   [Introduction to dplyr • dplyr](https://dplyr.tidyverse.org/articles/dplyr.html)  
-## Elixir / BEAM / Erlang
-  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
-  [Elixir Livebook](https://github.com/livebook-dev/livebook)  
-  [Numerical Elixir](https://github.com/elixir-nx/)  
-  [Elixir Tips](https://github.com/blackode/elixir-tips)  
-  [Elixir Libcluster - Automatic Cluster Formation / Healing](https://github.com/bitwalker/libcluster)  
-  [Blockscout: Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.](https://github.com/blockscout/blockscout)  
-  [Elixir CLI Node / Process Visualizer](https://github.com/zhongwencool/observer_cli)  
-  [Witchcraft: Monads and other dark magic for Elixir](https://github.com/witchcrafters/witchcraft)  
-  [Enigma: An Erlang VM implementation in Rust](https://github.com/archseer/enigma)  
-  [axon: Nx-powered Neural Networks](https://github.com/elixir-nx/axon)  
-  [Honeydew: Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈](https://github.com/koudelka/honeydew)  
-  [Tangram: Machine Learning Models Manager](https://github.com/tangramdotdev/tangram)  
-  [Awesome Elixir](https://github.com/h4cc/awesome-elixir#audio-and-sounds)  
-  [Elixir Beam Node Visualizer](https://github.com/koudelka/visualixir#visualixir)  
-  [ElixirConf 2017 - Thinking In Ecto - Darin Wilson](https://www.youtube.com/watch?v=YQxopjai0CU)  
-  [BEAM VM ELI5](http://beam-wisdoms.clau.se/en/latest/eli5-vm.html)  
-  [Rete Algorithm](https://www.youtube.com/watch?v=MOOdJG7BiUw)  
 ## Math
   [Category Theory Illustration](https://boris-marinov.github.io/category-theory-illustrated/00_about/)  
   [Monad - Wikipedia](https://en.wikipedia.org/wiki/Monad)  
   [The Algebra of Types](https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html)  
   [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)  
-## FunctionalProgramming
-  [Haskell Course](https://www.futurelearn.com/courses/functional-programming-haskell/9/steps/1103451)  
-  [Monad laws in Ruby](https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html)  
+## Functional Programming
   [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)  
   [Cassilda and Carcosa](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
-  [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
-  [Awesome Haskell](https://github.com/krispo/awesome-haskell#basics)  
-  [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)  
   [Functional Programming With Professor Frisby](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)  
   [Category Theory Illustated - Github](https://github.com/boris-marinov/category-theory-illustrated)  
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
   [Functional programming books overview](http://alexott.net/en/fp/books/)  
-  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
   [Parser combinator - Wikipedia](https://en.wikipedia.org/wiki/Parser_combinator)  
   [27 Unhelpful Facts About Category Theory - YouTube](https://www.youtube.com/watch?v=H0Ek86IH-3Y)  
   [Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials](https://freecomputerbooks.com/)  
-  [Event Driven Elixir – TKTheTechie](https://tkthetechie.io/event-driven-elixir/)  
-## Languages
-  [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
-  [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)  
-  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
+  [Railway Oriented Programming - YouTube](https://www.youtube.com/watch?v=XFagoINwzHo)  
+  [The Uncarved Blog: Partial Function Application is not Currying](https://web.archive.org/web/20161023205431/http://www.uncarved.com/articles/not_currying)  
 ## Finance & Investing
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
+  [(6) How to pick high quality stocks in India - Saurabh Mukherjea | Thrive India@75 - YouTube](https://www.youtube.com/watch?v=D_8imNmCXsg)  
+  [(6) How to Invest with Data Science - YouTube](https://www.youtube.com/watch?v=4jaBKXDqg9U)  
+  [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)  
+ [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
@@ -167,4 +183,12 @@
  [Events, Event Sourcing, and the Path Forward – Repeatable Systems](https://relistan.com/event-sourcing-and-event-bus)  
  [Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!](https://parceljs.org/blog/parcel-css/)  
  [TypeScript 4.4 Cheat Sheet - SitePen](https://www.sitepen.com/blog/typescript-cheat-sheet)  
+ [Sreedev Kodichath - One on One - Google Docs](https://docs.google.com/document/d/1INs73YtI65oJpRkNMc_U2oqOOJSGD6WbFxSc2Ga1JPs/edit)  
+ [Rails and its Ruby dialect | solnic.codes](https://solnic.codes/2022/02/02/rails-and-its-ruby-dialect/)  
+ [Hydra / Query Postgres, Route to any Database](https://hydras.io/)  
+ [Amateur radio in India - Wikipedia](https://en.wikipedia.org/wiki/Amateur_radio_in_India)  
+ [GRMS BLR](http://106.51.131.254:8073/)  
+ [Dashboard - Groww](https://groww.in/stocks/user/investments)  
+ [Civic Center, Lower East Side, Chinatown, Fort Greene, Brooklyn Heights, Boerum Hill, DUMBO, Park Slope, Gowanus, and Carroll Gardens Apartments for Rent | StreetEasy](https://streeteasy.com/for-rent/nyc/area:306,305,321,364,322,307,304,320,319,326,110,103,109)  
+ [Futures Nostalgia](https://fasterthanli.me/articles/futures-nostalgia)  
 # Mobile bookmarks

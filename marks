@@ -1,30 +1,8 @@
 {
-   "checksum": "19b9f8922a5a67ecffafe069a66ae4b8",
+   "checksum": "48a5f71d452f7abf88561618a43d97e3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
-            "children": [ {
-               "date_added": "13255334615374098",
-               "guid": "10023a49-6ea1-46ef-a336-14d0b2d9a22e",
-               "id": "17",
-               "name": "ExploitDB",
-               "type": "url",
-               "url": "https://www.exploit-db.com/"
-            }, {
-               "date_added": "13255334631408671",
-               "guid": "b65656a9-ab47-40ee-9837-fd26fa193e6b",
-               "id": "18",
-               "name": "Common Security Vulnerability DB",
-               "type": "url",
-               "url": "https://www.cvedetails.com/"
-            } ],
-            "date_added": "13260125168448777",
-            "date_modified": "13260125176786797",
-            "guid": "4073121c-c0ee-4149-9ec6-c494fada3e77",
-            "id": "30",
-            "name": "IPSec",
-            "type": "folder"
-         }, {
             "children": [ {
                "date_added": "13266890922844096",
                "guid": "05e211c7-f206-4590-8c64-5aaf01da664f",
@@ -40,12 +18,12 @@
                "type": "url",
                "url": "http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4"
             }, {
-               "date_added": "13274557616777835",
-               "guid": "1410017d-1d39-4224-b582-6f152e2d353a",
-               "id": "114",
-               "name": "C Programming Language Under A Microscope",
+               "date_added": "13255334615374098",
+               "guid": "10023a49-6ea1-46ef-a336-14d0b2d9a22e",
+               "id": "17",
+               "name": "ExploitDB",
                "type": "url",
-               "url": "https://www.slideshare.net/olvemaudal/deep-c/274"
+               "url": "https://www.exploit-db.com/"
             }, {
                "children": [ {
                   "date_added": "13260125108517027",
@@ -111,6 +89,13 @@
                "name": "Kendryte SDK",
                "type": "folder"
             }, {
+               "date_added": "13255334631408671",
+               "guid": "b65656a9-ab47-40ee-9837-fd26fa193e6b",
+               "id": "18",
+               "name": "Common Security Vulnerability DB",
+               "type": "url",
+               "url": "https://www.cvedetails.com/"
+            }, {
                "children": [ {
                   "date_added": "13257377776397915",
                   "guid": "28f3eebc-ba2e-4836-a7fa-c42f0bbfd02b",
@@ -161,20 +146,6 @@
                "type": "url",
                "url": "https://github.com/riscv/riscv-asm-manual/blob/master/riscv-asm.md"
             }, {
-               "date_added": "13276151880830121",
-               "guid": "4aaa8f91-c6b2-4086-95e8-54a078f903c2",
-               "id": "141",
-               "name": "Algorithms in C",
-               "type": "url",
-               "url": "https://github.com/TheAlgorithms/C"
-            }, {
-               "date_added": "13276151903812032",
-               "guid": "f38d2dd2-4e3f-49d0-b1db-31279aace945",
-               "id": "142",
-               "name": "Algorithms in Rust",
-               "type": "url",
-               "url": "https://github.com/TheAlgorithms/Rust"
-            }, {
                "date_added": "13280026129362923",
                "guid": "2a34c1cf-b2e6-4d62-b0c7-421e2cf1fea0",
                "id": "218",
@@ -217,13 +188,6 @@
                "type": "url",
                "url": "https://cstack.github.io/db_tutorial/"
             }, {
-               "date_added": "13282187508779382",
-               "guid": "86e577e4-67c7-4151-85da-6ca1d3fd2b93",
-               "id": "244",
-               "name": "Table in tui::widgets - Rust",
-               "type": "url",
-               "url": "https://docs.rs/tui/0.16.0/tui/widgets/struct.Table.html"
-            }, {
                "date_added": "13282289941551594",
                "guid": "a394c526-9b19-441c-8c09-58fbf7cffa81",
                "id": "246",
@@ -239,10 +203,313 @@
                "url": "https://github.com/sreedevk/advent-of-code/blob/master/ruby/bin/aoc"
             } ],
             "date_added": "13266890914175791",
-            "date_modified": "13282942970638011",
+            "date_modified": "13298357993898744",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
             "name": "Systems Dev",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13298358012936231",
+                  "guid": "e4cf26b5-790c-43c4-a394-579826b118bd",
+                  "id": "349",
+                  "name": "Phoenix Framework Migrations",
+                  "type": "url",
+                  "url": "https://devhints.io/phoenix-migrations"
+               }, {
+                  "date_added": "13298358012936496",
+                  "guid": "a0612a6c-69f5-4358-93de-5e0569de21c8",
+                  "id": "350",
+                  "name": "Elixir Livebook",
+                  "type": "url",
+                  "url": "https://github.com/livebook-dev/livebook"
+               }, {
+                  "date_added": "13298358012936734",
+                  "guid": "275c78c5-65f7-4667-aba8-dd34a73f15c3",
+                  "id": "351",
+                  "name": "Numerical Elixir",
+                  "type": "url",
+                  "url": "https://github.com/elixir-nx/"
+               }, {
+                  "date_added": "13298358012936966",
+                  "guid": "97a89c05-9dec-4381-932d-1ffae048c110",
+                  "id": "352",
+                  "name": "Elixir Tips",
+                  "type": "url",
+                  "url": "https://github.com/blackode/elixir-tips"
+               }, {
+                  "date_added": "13298358012937203",
+                  "guid": "4c455720-7015-47f1-a2ee-7b7dbf632341",
+                  "id": "353",
+                  "name": "Elixir Libcluster - Automatic Cluster Formation / Healing",
+                  "type": "url",
+                  "url": "https://github.com/bitwalker/libcluster"
+               }, {
+                  "date_added": "13298358012937471",
+                  "guid": "46412af7-04e0-4398-ade3-2612598c083f",
+                  "id": "354",
+                  "name": "Blockscout: Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+                  "type": "url",
+                  "url": "https://github.com/blockscout/blockscout"
+               }, {
+                  "date_added": "13298358012937760",
+                  "guid": "da77b0dd-ab07-46d4-9708-25365503d42c",
+                  "id": "355",
+                  "name": "Elixir CLI Node / Process Visualizer",
+                  "type": "url",
+                  "url": "https://github.com/zhongwencool/observer_cli"
+               }, {
+                  "date_added": "13298358012938001",
+                  "guid": "79a62e9a-6e40-4628-bb4e-bea8cf85c278",
+                  "id": "356",
+                  "name": "Witchcraft: Monads and other dark magic for Elixir",
+                  "type": "url",
+                  "url": "https://github.com/witchcrafters/witchcraft"
+               }, {
+                  "date_added": "13298358012938285",
+                  "guid": "86055043-3f0c-4a78-b137-9b156c1d9e7f",
+                  "id": "357",
+                  "name": "Enigma: An Erlang VM implementation in Rust",
+                  "type": "url",
+                  "url": "https://github.com/archseer/enigma"
+               }, {
+                  "date_added": "13298358012938561",
+                  "guid": "9a1bbbd9-ed41-4898-b40e-0a172a21721e",
+                  "id": "358",
+                  "name": "axon: Nx-powered Neural Networks",
+                  "type": "url",
+                  "url": "https://github.com/elixir-nx/axon"
+               }, {
+                  "date_added": "13298358012938798",
+                  "guid": "09bcf58c-6371-4a3a-bc66-2c7c2d14aed9",
+                  "id": "359",
+                  "name": "Honeydew: Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈",
+                  "type": "url",
+                  "url": "https://github.com/koudelka/honeydew"
+               }, {
+                  "date_added": "13298358012938989",
+                  "guid": "473e2129-61ba-4e75-b277-6e046bbd5d68",
+                  "id": "360",
+                  "name": "Tangram: Machine Learning Models Manager",
+                  "type": "url",
+                  "url": "https://github.com/tangramdotdev/tangram"
+               }, {
+                  "date_added": "13298358012939144",
+                  "guid": "2ddcdefe-01a8-4ea8-9811-cdce80956fc9",
+                  "id": "361",
+                  "name": "Awesome Elixir",
+                  "type": "url",
+                  "url": "https://github.com/h4cc/awesome-elixir#audio-and-sounds"
+               }, {
+                  "date_added": "13298358012939293",
+                  "guid": "55d726cf-6f7a-49d7-937e-f5c6727faeb0",
+                  "id": "362",
+                  "name": "Elixir Beam Node Visualizer",
+                  "type": "url",
+                  "url": "https://github.com/koudelka/visualixir#visualixir"
+               }, {
+                  "date_added": "13298358012939440",
+                  "guid": "9a1974b1-acf8-4743-8865-9fd4812370b7",
+                  "id": "363",
+                  "name": "ElixirConf 2017 - Thinking In Ecto - Darin Wilson",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=YQxopjai0CU"
+               }, {
+                  "date_added": "13298358012939607",
+                  "guid": "cc08acab-b984-42a1-b948-98841be090b3",
+                  "id": "364",
+                  "name": "BEAM VM ELI5",
+                  "type": "url",
+                  "url": "http://beam-wisdoms.clau.se/en/latest/eli5-vm.html"
+               }, {
+                  "date_added": "13298358012939767",
+                  "guid": "57703510-69f0-4155-a175-3b422a08b560",
+                  "id": "365",
+                  "name": "Rete Algorithm",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=MOOdJG7BiUw"
+               }, {
+                  "date_added": "13288472197292741",
+                  "guid": "123657c7-104c-4790-833f-95d1525aa73b",
+                  "id": "315",
+                  "name": "Programming Ecto: Build Database Apps in Elixir for Scalability and Performance by Darin Wilson and Eric Meadows-Jönsson",
+                  "type": "url",
+                  "url": "https://pragprog.com/titles/wmecto/programming-ecto/"
+               }, {
+                  "date_added": "13287769751923496",
+                  "guid": "f124af83-3b5c-4303-bed6-d5fb6becd504",
+                  "id": "313",
+                  "name": "Event Driven Elixir – TKTheTechie",
+                  "type": "url",
+                  "url": "https://tkthetechie.io/event-driven-elixir/"
+               }, {
+                  "date_added": "13299357466201580",
+                  "guid": "bf7f4a7f-233b-444f-9c05-d75ad65b0d60",
+                  "id": "374",
+                  "name": "Ash",
+                  "type": "url",
+                  "url": "https://www.ash-elixir.org/"
+               } ],
+               "date_added": "13298358012935981",
+               "date_modified": "13299357473061360",
+               "guid": "70352a6a-abb8-4608-abee-e259ec245ab9",
+               "id": "348",
+               "name": "Elixir / BEAM / Erlang",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276153607917715",
+                  "guid": "b835861a-e65b-49b9-8718-cb68999cbc85",
+                  "id": "151",
+                  "name": "RustConf 2021",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=pLdCcolQsxA"
+               }, {
+                  "date_added": "13276151903812032",
+                  "guid": "f38d2dd2-4e3f-49d0-b1db-31279aace945",
+                  "id": "142",
+                  "name": "Algorithms in Rust",
+                  "type": "url",
+                  "url": "https://github.com/TheAlgorithms/Rust"
+               }, {
+                  "date_added": "13282187508779382",
+                  "guid": "86e577e4-67c7-4151-85da-6ca1d3fd2b93",
+                  "id": "244",
+                  "name": "Table in tui::widgets - Rust",
+                  "type": "url",
+                  "url": "https://docs.rs/tui/0.16.0/tui/widgets/struct.Table.html"
+               } ],
+               "date_added": "13298358049932018",
+               "date_modified": "13299357466201580",
+               "guid": "cc264fb3-855c-4f15-8886-8b5223cc78ae",
+               "id": "366",
+               "name": "Rust",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13279951033004503",
+                  "guid": "5e0196ae-4290-421e-9c91-7a2a3242eb0d",
+                  "id": "211",
+                  "name": "Learn Lua in Y Minutes",
+                  "type": "url",
+                  "url": "https://learnxinyminutes.com/docs/lua/"
+               } ],
+               "date_added": "13298358063823188",
+               "date_modified": "13298358068111935",
+               "guid": "2ccacec1-60ac-45cf-9513-e056a7f93c02",
+               "id": "367",
+               "name": "Lua",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13279085103268269",
+                  "guid": "872803ba-bc4d-47b2-bf39-d9bfc687a376",
+                  "id": "196",
+                  "name": "The Fast Track to Julia",
+                  "type": "url",
+                  "url": "https://juliadocs.github.io/Julia-Cheat-Sheet/"
+               } ],
+               "date_added": "13298358073867019",
+               "date_modified": "13298358078378079",
+               "guid": "f86f818e-c95b-433b-94ea-defb67fdd15e",
+               "id": "368",
+               "name": "Julia",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13279084871899752",
+                  "guid": "362340b2-070b-4a29-a517-74a4c0a270c7",
+                  "id": "184",
+                  "name": "Haskell Course",
+                  "type": "url",
+                  "url": "https://www.futurelearn.com/courses/functional-programming-haskell/9/steps/1103451"
+               }, {
+                  "date_added": "13274989401958762",
+                  "guid": "ee15b7f6-68f0-470f-b7e8-a3131721b78f",
+                  "id": "133",
+                  "name": "Awesome Haskell",
+                  "type": "url",
+                  "url": "https://github.com/krispo/awesome-haskell#basics"
+               }, {
+                  "date_added": "13279084901499687",
+                  "guid": "62d13c55-20a0-4df5-8195-543cf0e56b7a",
+                  "id": "186",
+                  "name": "Learn You a Haskell for Great Good!",
+                  "type": "url",
+                  "url": "http://learnyouahaskell.com/"
+               } ],
+               "date_added": "13298358089149954",
+               "date_modified": "13298358187348020",
+               "guid": "a47308fd-5764-4974-a16f-d67c48d45201",
+               "id": "369",
+               "name": "Haskell",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13279084912486905",
+                  "guid": "626c6f03-cbc6-415f-89f2-d1eb1d4a202e",
+                  "id": "187",
+                  "name": "Monad laws in Ruby",
+                  "type": "url",
+                  "url": "https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html"
+               } ],
+               "date_added": "13298358117805449",
+               "date_modified": "13298358123527709",
+               "guid": "6a1b9299-af29-47da-8318-9122b812ab38",
+               "id": "370",
+               "name": "Ruby",
+               "type": "folder"
+            }, {
+               "date_added": "13274557616778674",
+               "guid": "2b20ef48-6a00-4aa0-a52d-26975325eec9",
+               "id": "118",
+               "name": "MiniKanren implementation in Ruby",
+               "type": "url",
+               "url": "https://github.com/spariev/mini_kanren"
+            }, {
+               "children": [ {
+                  "date_added": "13284777044010544",
+                  "guid": "414f75ec-6277-4e43-b6d4-cbd612f6979f",
+                  "id": "276",
+                  "name": "OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful",
+                  "type": "url",
+                  "url": "https://cs3110.github.io/textbook/cover.html"
+               } ],
+               "date_added": "13298358167062707",
+               "date_modified": "13298358196475739",
+               "guid": "e6266701-8675-403e-a11b-b1a9810db137",
+               "id": "371",
+               "name": "OCaml",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274557616777835",
+                  "guid": "1410017d-1d39-4224-b582-6f152e2d353a",
+                  "id": "114",
+                  "name": "C Programming Language Under A Microscope",
+                  "type": "url",
+                  "url": "https://www.slideshare.net/olvemaudal/deep-c/274"
+               }, {
+                  "date_added": "13276151880830121",
+                  "guid": "4aaa8f91-c6b2-4086-95e8-54a078f903c2",
+                  "id": "141",
+                  "name": "Algorithms in C",
+                  "type": "url",
+                  "url": "https://github.com/TheAlgorithms/C"
+               } ],
+               "date_added": "13298358213855873",
+               "date_modified": "13298358256423677",
+               "guid": "7d8ac404-1819-4f2a-a57d-287d85c3af1b",
+               "id": "372",
+               "name": "C",
+               "type": "folder"
+            } ],
+            "date_added": "13280023922289203",
+            "date_modified": "13298358213855991",
+            "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
+            "id": "215",
+            "name": "Programming",
             "type": "folder"
          }, {
             "children": [ {
@@ -294,6 +561,21 @@
             "guid": "b2e52769-af46-4877-b2d3-1dfa0fe602fd",
             "id": "83",
             "name": "Geographic Information Systems",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13298357954961483",
+               "guid": "4058034a-681d-44b7-96e9-968b34f95377",
+               "id": "346",
+               "name": "Welcome to the AA9PW Radio Exam practice page! - AA9PW",
+               "type": "url",
+               "url": "http://aa9pw.com/"
+            } ],
+            "date_added": "13298357976315522",
+            "date_modified": "13298357976315920",
+            "guid": "57035b00-18c8-4d24-82bb-eb8517b32215",
+            "id": "347",
+            "name": "Amateur Radio",
             "type": "folder"
          }, {
             "children": [ {
@@ -404,133 +686,6 @@
             "type": "folder"
          }, {
             "children": [ {
-               "date_added": "13274556459551953",
-               "guid": "897d5ea0-a46d-48ea-8fd2-e0ba871843a7",
-               "id": "103",
-               "name": "Phoenix Framework Migrations",
-               "type": "url",
-               "url": "https://devhints.io/phoenix-migrations"
-            }, {
-               "date_added": "13274808363509569",
-               "guid": "2111800b-e953-463d-bdf4-45ed4db23756",
-               "id": "127",
-               "name": "Elixir Livebook",
-               "type": "url",
-               "url": "https://github.com/livebook-dev/livebook"
-            }, {
-               "date_added": "13274808370302383",
-               "guid": "42561af4-2bf0-4380-855b-880efeb9a867",
-               "id": "128",
-               "name": "Numerical Elixir",
-               "type": "url",
-               "url": "https://github.com/elixir-nx/"
-            }, {
-               "date_added": "13274953170968501",
-               "guid": "b591af96-d5c8-4bb7-bd6a-92b6028831ef",
-               "id": "129",
-               "name": "Elixir Tips",
-               "type": "url",
-               "url": "https://github.com/blackode/elixir-tips"
-            }, {
-               "date_added": "13276152169599445",
-               "guid": "5a97832d-2838-432f-b7ad-7e9a92495bad",
-               "id": "143",
-               "name": "Elixir Libcluster - Automatic Cluster Formation / Healing",
-               "type": "url",
-               "url": "https://github.com/bitwalker/libcluster"
-            }, {
-               "date_added": "13276152277369706",
-               "guid": "03b709ac-a8be-46a3-9a10-ad0a1733ccc3",
-               "id": "144",
-               "name": "Blockscout: Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-               "type": "url",
-               "url": "https://github.com/blockscout/blockscout"
-            }, {
-               "date_added": "13276152300588121",
-               "guid": "7e908cbd-6090-496d-b0cc-d8ae5843df37",
-               "id": "145",
-               "name": "Elixir CLI Node / Process Visualizer",
-               "type": "url",
-               "url": "https://github.com/zhongwencool/observer_cli"
-            }, {
-               "date_added": "13276153009433849",
-               "guid": "97129024-ca82-4e84-b689-054d5dc58122",
-               "id": "146",
-               "name": "Witchcraft: Monads and other dark magic for Elixir",
-               "type": "url",
-               "url": "https://github.com/witchcrafters/witchcraft"
-            }, {
-               "date_added": "13276153120212929",
-               "guid": "80ba2f5c-29ee-4d14-a508-1c3c8ac4f308",
-               "id": "147",
-               "name": "Enigma: An Erlang VM implementation in Rust",
-               "type": "url",
-               "url": "https://github.com/archseer/enigma"
-            }, {
-               "date_added": "13276153206454946",
-               "guid": "b5829aed-7775-459f-b9b2-0709d7ae6278",
-               "id": "148",
-               "name": "axon: Nx-powered Neural Networks",
-               "type": "url",
-               "url": "https://github.com/elixir-nx/axon"
-            }, {
-               "date_added": "13276153315797684",
-               "guid": "8c54b4e9-603d-44fc-a37a-1d7f1abafeb4",
-               "id": "149",
-               "name": "Honeydew: Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈",
-               "type": "url",
-               "url": "https://github.com/koudelka/honeydew"
-            }, {
-               "date_added": "13276153359689585",
-               "guid": "99309282-87df-47aa-9c0a-da5e81896475",
-               "id": "150",
-               "name": "Tangram: Machine Learning Models Manager",
-               "type": "url",
-               "url": "https://github.com/tangramdotdev/tangram"
-            }, {
-               "date_added": "13279059809156592",
-               "guid": "33192d16-21ea-42d1-a573-ca17df5d3d86",
-               "id": "177",
-               "name": "Awesome Elixir",
-               "type": "url",
-               "url": "https://github.com/h4cc/awesome-elixir#audio-and-sounds"
-            }, {
-               "date_added": "13279059809157056",
-               "guid": "743b9f48-614d-44b4-8aab-0342c8d10815",
-               "id": "178",
-               "name": "Elixir Beam Node Visualizer",
-               "type": "url",
-               "url": "https://github.com/koudelka/visualixir#visualixir"
-            }, {
-               "date_added": "13279059817358697",
-               "guid": "8039bc32-7326-43c1-9f31-d24227a1ea7a",
-               "id": "179",
-               "name": "ElixirConf 2017 - Thinking In Ecto - Darin Wilson",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=YQxopjai0CU"
-            }, {
-               "date_added": "13279084857985157",
-               "guid": "557fbced-2991-4fc9-91b6-7b1a58414aef",
-               "id": "183",
-               "name": "BEAM VM ELI5",
-               "type": "url",
-               "url": "http://beam-wisdoms.clau.se/en/latest/eli5-vm.html"
-            }, {
-               "date_added": "13279085026256968",
-               "guid": "462d3a4d-8fb0-4db1-b218-6ef4279cdc98",
-               "id": "192",
-               "name": "Rete Algorithm",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=MOOdJG7BiUw"
-            } ],
-            "date_added": "13274557588740498",
-            "date_modified": "13279085046942323",
-            "guid": "032b162e-2676-494b-bfd8-38b8073de2c9",
-            "id": "104",
-            "name": "Elixir / BEAM / Erlang",
-            "type": "folder"
-         }, {
-            "children": [ {
                "date_added": "13277631518866138",
                "guid": "b1cd78e7-930f-49d7-8cd7-433de7f50e0f",
                "id": "156",
@@ -567,20 +722,6 @@
             "type": "folder"
          }, {
             "children": [ {
-               "date_added": "13279084871899752",
-               "guid": "362340b2-070b-4a29-a517-74a4c0a270c7",
-               "id": "184",
-               "name": "Haskell Course",
-               "type": "url",
-               "url": "https://www.futurelearn.com/courses/functional-programming-haskell/9/steps/1103451"
-            }, {
-               "date_added": "13279084912486905",
-               "guid": "626c6f03-cbc6-415f-89f2-d1eb1d4a202e",
-               "id": "187",
-               "name": "Monad laws in Ruby",
-               "type": "url",
-               "url": "https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html"
-            }, {
                "date_added": "13279084971897627",
                "guid": "17e9973c-600f-4cf8-b9f8-4996e2a37be2",
                "id": "188",
@@ -594,27 +735,6 @@
                "name": "Cassilda and Carcosa",
                "type": "url",
                "url": "https://soundcloud.com/cassilda_and_carcosa/sets/birds"
-            }, {
-               "date_added": "13274557616778674",
-               "guid": "2b20ef48-6a00-4aa0-a52d-26975325eec9",
-               "id": "118",
-               "name": "MiniKanren implementation in Ruby",
-               "type": "url",
-               "url": "https://github.com/spariev/mini_kanren"
-            }, {
-               "date_added": "13274989401958762",
-               "guid": "ee15b7f6-68f0-470f-b7e8-a3131721b78f",
-               "id": "133",
-               "name": "Awesome Haskell",
-               "type": "url",
-               "url": "https://github.com/krispo/awesome-haskell#basics"
-            }, {
-               "date_added": "13279084901499687",
-               "guid": "62d13c55-20a0-4df5-8195-543cf0e56b7a",
-               "id": "186",
-               "name": "Learn You a Haskell for Great Good!",
-               "type": "url",
-               "url": "http://learnyouahaskell.com/"
             }, {
                "date_added": "13279372698271773",
                "guid": "eaa691a4-576b-4791-b6b4-5d9663018a55",
@@ -644,13 +764,6 @@
                "type": "url",
                "url": "http://alexott.net/en/fp/books/"
             }, {
-               "date_added": "13284777044010544",
-               "guid": "414f75ec-6277-4e43-b6d4-cbd612f6979f",
-               "id": "276",
-               "name": "OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful",
-               "type": "url",
-               "url": "https://cs3110.github.io/textbook/cover.html"
-            }, {
                "date_added": "13286388532585432",
                "guid": "b99233f0-712d-4cc8-916c-daeb43abe26a",
                "id": "300",
@@ -672,47 +785,25 @@
                "type": "url",
                "url": "https://freecomputerbooks.com/"
             }, {
-               "date_added": "13287769751923496",
-               "guid": "f124af83-3b5c-4303-bed6-d5fb6becd504",
-               "id": "313",
-               "name": "Event Driven Elixir – TKTheTechie",
+               "date_added": "13288619361142491",
+               "guid": "884a89a5-01d5-4e8f-8ff2-83e4ae483d7f",
+               "id": "317",
+               "name": "Railway Oriented Programming - YouTube",
                "type": "url",
-               "url": "https://tkthetechie.io/event-driven-elixir/"
+               "url": "https://www.youtube.com/watch?v=XFagoINwzHo"
+            }, {
+               "date_added": "13288807054549212",
+               "guid": "d0f45c41-10f9-4ff9-980e-2894696b5d8d",
+               "id": "319",
+               "name": "The Uncarved Blog: Partial Function Application is not Currying",
+               "type": "url",
+               "url": "https://web.archive.org/web/20161023205431/http://www.uncarved.com/articles/not_currying"
             } ],
             "date_added": "13280023696257688",
-            "date_modified": "13287769760184105",
+            "date_modified": "13289075741893077",
             "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
             "id": "214",
-            "name": "FunctionalProgramming",
-            "type": "folder"
-         }, {
-            "children": [ {
-               "date_added": "13276153607917715",
-               "guid": "b835861a-e65b-49b9-8718-cb68999cbc85",
-               "id": "151",
-               "name": "RustConf 2021",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=pLdCcolQsxA"
-            }, {
-               "date_added": "13279085103268269",
-               "guid": "872803ba-bc4d-47b2-bf39-d9bfc687a376",
-               "id": "196",
-               "name": "The Fast Track to Julia",
-               "type": "url",
-               "url": "https://juliadocs.github.io/Julia-Cheat-Sheet/"
-            }, {
-               "date_added": "13279951033004503",
-               "guid": "5e0196ae-4290-421e-9c91-7a2a3242eb0d",
-               "id": "211",
-               "name": "Learn Lua in Y Minutes",
-               "type": "url",
-               "url": "https://learnxinyminutes.com/docs/lua/"
-            } ],
-            "date_added": "13280023922289203",
-            "date_modified": "13280026088486162",
-            "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
-            "id": "215",
-            "name": "Languages",
+            "name": "Functional Programming",
             "type": "folder"
          }, {
             "children": [ {
@@ -729,19 +820,47 @@
                "name": "Learn by Tickertape - Learn by Tickertape",
                "type": "url",
                "url": "https://www.tickertape.in/learn/"
+            }, {
+               "date_added": "13291101732312715",
+               "guid": "9ecf6c15-6ab5-4b12-879d-29ef8187ead2",
+               "id": "326",
+               "name": "(6) How to pick high quality stocks in India - Saurabh Mukherjea | Thrive India@75 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=D_8imNmCXsg"
+            }, {
+               "date_added": "13291101738211115",
+               "guid": "d94f546e-ea6a-4515-829c-c8206ac1aa02",
+               "id": "327",
+               "name": "(6) How to Invest with Data Science - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4jaBKXDqg9U"
+            }, {
+               "date_added": "13291101743725174",
+               "guid": "ecda6b1f-125b-45d4-ba55-9babe0f5d790",
+               "id": "328",
+               "name": "API Documentation | Alpha Vantage",
+               "type": "url",
+               "url": "https://www.alphavantage.co/documentation/"
             } ],
             "date_added": "13286184427695371",
-            "date_modified": "13286216050442821",
+            "date_modified": "13291497127668043",
             "guid": "fd4149b1-1c4a-4d6e-b5b8-182fa4b4c8cb",
             "id": "293",
             "name": "Finance & Investing",
             "type": "folder"
+         }, {
+            "date_added": "13294833029296636",
+            "guid": "0de03b55-88be-4861-8977-b71d0a5adfd5",
+            "id": "337",
+            "name": "Devbox Transmission Client",
+            "type": "url",
+            "url": "http://192.168.50.206:9091/transmission/web/#cancel"
          } ],
          "date_added": "13246877992587460",
-         "date_modified": "13286184430224582",
+         "date_modified": "13298358248117313",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
-         "name": "Bookmarks bar",
+         "name": "Bookmarks",
          "type": "folder"
       },
       "other": {
@@ -1165,9 +1284,65 @@
             "name": "TypeScript 4.4 Cheat Sheet - SitePen",
             "type": "url",
             "url": "https://www.sitepen.com/blog/typescript-cheat-sheet"
+         }, {
+            "date_added": "13288728557748714",
+            "guid": "25ecbe0f-74cc-4228-98b4-a396cf9c8676",
+            "id": "318",
+            "name": "Sreedev Kodichath - One on One - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1INs73YtI65oJpRkNMc_U2oqOOJSGD6WbFxSc2Ga1JPs/edit"
+         }, {
+            "date_added": "13289075741893077",
+            "guid": "379f3344-3748-4ad5-b59a-7409841db94c",
+            "id": "320",
+            "name": "Rails and its Ruby dialect | solnic.codes",
+            "type": "url",
+            "url": "https://solnic.codes/2022/02/02/rails-and-its-ruby-dialect/"
+         }, {
+            "date_added": "13290192275975631",
+            "guid": "47a72d48-81ab-41af-9fec-986c33a230b4",
+            "id": "322",
+            "name": "Hydra / Query Postgres, Route to any Database",
+            "type": "url",
+            "url": "https://hydras.io/"
+         }, {
+            "date_added": "13290435736791659",
+            "guid": "8dea0796-382b-487c-9da5-e6e0a29b262a",
+            "id": "324",
+            "name": "Amateur radio in India - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Amateur_radio_in_India"
+         }, {
+            "date_added": "13291497127668043",
+            "guid": "d35cafe7-e6ee-4f55-a86d-1a3998d41575",
+            "id": "330",
+            "name": "GRMS BLR",
+            "type": "url",
+            "url": "http://106.51.131.254:8073/"
+         }, {
+            "date_added": "13291794060073671",
+            "guid": "fd569817-e0d4-4c6a-96ce-496bb1d02701",
+            "id": "331",
+            "name": "Dashboard - Groww",
+            "type": "url",
+            "url": "https://groww.in/stocks/user/investments"
+         }, {
+            "date_added": "13292447159859712",
+            "guid": "e0d97f2d-bbb0-4537-9a2b-a929e78e1d6e",
+            "id": "333",
+            "name": "Civic Center, Lower East Side, Chinatown, Fort Greene, Brooklyn Heights, Boerum Hill, DUMBO, Park Slope, Gowanus, and Carroll Gardens Apartments for Rent | StreetEasy",
+            "type": "url",
+            "url": "https://streeteasy.com/for-rent/nyc/area:306,305,321,364,322,307,304,320,319,326,110,103,109"
+         }, {
+            "date_added": "13293576138215711",
+            "guid": "627a6d57-5280-47ce-a5c3-89e9afcd9147",
+            "id": "335",
+            "name": "Futures Nostalgia",
+            "type": "url",
+            "url": "https://fasterthanli.me/articles/futures-nostalgia"
          } ],
          "date_added": "13246877992587463",
-         "date_modified": "13287769751923496",
+         "date_modified": "13294833029296636",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
