@@ -86,7 +86,6 @@
   [Lat Long Calculations](http://www.m0nwk.co.uk/how-to-calculate-distance-between-two-points-using-latitude-and-longitude/)  
 ## Amateur Radio
   [Welcome to the AA9PW Radio Exam practice page! - AA9PW](http://aa9pw.com/)  
-  [Gift Ideas](https://www.amazon.in/gcx/-/gfhz/?ref_=nav_cs_giftfinder)  
 ## Graphics / Design
   [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)  
   [Interface Design Projects](https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353)  
@@ -132,7 +131,6 @@
   [(6) How to Invest with Data Science - YouTube](https://www.youtube.com/watch?v=4jaBKXDqg9U)  
   [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)  
   [Amateur Radio Exam](http://www.arrl.org/find-an-amateur-radio-license-exam-session)  
-  [Discover](https://discover.passportindex.org/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
@@ -203,7 +201,6 @@
  [Dashboard - Groww](https://groww.in/stocks/user/investments)  
  [Civic Center, Lower East Side, Chinatown, Fort Greene, Brooklyn Heights, Boerum Hill, DUMBO, Park Slope, Gowanus, and Carroll Gardens Apartments for Rent | StreetEasy](https://streeteasy.com/for-rent/nyc/area:306,305,321,364,322,307,304,320,319,326,110,103,109)  
  [Futures Nostalgia](https://fasterthanli.me/articles/futures-nostalgia)  
- [DB Refresh](http://dropkloud-jenkins.tunecore.com/job/dbrefresh-ec2/)  
  [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)  
  [The XY Problem](https://xyproblem.info/)  
  [Good First Issue: Issues for your first open-source contribution](https://goodfirstissue.dev/)  
