@@ -58,6 +58,9 @@
  [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
  [Algorithms in Rust](https://github.com/TheAlgorithms/Rust)  
  [Table in tui::widgets - Rust](https://docs.rs/tui/0.16.0/tui/widgets/struct.Table.html)  
+ [trunk/Trunk.toml at master · thedodd/trunk](https://github.com/thedodd/trunk/blob/master/Trunk.toml)  
+ [Container attributes · Serde](https://serde.rs/container-attrs.html)  
+ [Enum representations · Serde](https://serde.rs/enum-representations.html)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -83,6 +86,7 @@
   [Lat Long Calculations](http://www.m0nwk.co.uk/how-to-calculate-distance-between-two-points-using-latitude-and-longitude/)  
 ## Amateur Radio
   [Welcome to the AA9PW Radio Exam practice page! - AA9PW](http://aa9pw.com/)  
+  [Gift Ideas](https://www.amazon.in/gcx/-/gfhz/?ref_=nav_cs_giftfinder)  
 ## Graphics / Design
   [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)  
   [Interface Design Projects](https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353)  
@@ -106,7 +110,6 @@
 ## Functional Programming
   [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)  
   [Cassilda and Carcosa](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
-  [Functional Programming With Professor Frisby](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)  
   [Category Theory Illustated - Github](https://github.com/boris-marinov/category-theory-illustrated)  
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
   [Functional programming books overview](http://alexott.net/en/fp/books/)  
@@ -115,12 +118,21 @@
   [Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials](https://freecomputerbooks.com/)  
   [Railway Oriented Programming - YouTube](https://www.youtube.com/watch?v=XFagoINwzHo)  
   [The Uncarved Blog: Partial Function Application is not Currying](https://web.archive.org/web/20161023205431/http://www.uncarved.com/articles/not_currying)  
+  [Professor Frisby Introduces Composable Functional JavaScript | egghead.io](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)  
+  [Class Roster - Spring 2021 - CS 3110](https://classes.cornell.edu/browse/roster/SP21/class/CS/3110)  
+  [My Future with Elixir: set-theoretic types - The Elixir programming language](https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/)  
+  [Baby Steps](https://smallcultfollowing.com/babysteps/)  
+  [Complex Analysis](https://complex-analysis.com/)  
+  [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/#bqn-finally-an-apl-for-your-flying-saucer)  
+  [Parens of the Dead](https://www.parens-of-the-dead.com/)  
 ## Finance & Investing
-  [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
+  [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
   [(6) How to pick high quality stocks in India - Saurabh Mukherjea | Thrive India@75 - YouTube](https://www.youtube.com/watch?v=D_8imNmCXsg)  
   [(6) How to Invest with Data Science - YouTube](https://www.youtube.com/watch?v=4jaBKXDqg9U)  
   [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)  
+  [Amateur Radio Exam](http://www.arrl.org/find-an-amateur-radio-license-exam-session)  
+  [Discover](https://discover.passportindex.org/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
@@ -191,4 +203,14 @@
  [Dashboard - Groww](https://groww.in/stocks/user/investments)  
  [Civic Center, Lower East Side, Chinatown, Fort Greene, Brooklyn Heights, Boerum Hill, DUMBO, Park Slope, Gowanus, and Carroll Gardens Apartments for Rent | StreetEasy](https://streeteasy.com/for-rent/nyc/area:306,305,321,364,322,307,304,320,319,326,110,103,109)  
  [Futures Nostalgia](https://fasterthanli.me/articles/futures-nostalgia)  
+ [DB Refresh](http://dropkloud-jenkins.tunecore.com/job/dbrefresh-ec2/)  
+ [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)  
+ [The XY Problem](https://xyproblem.info/)  
+ [Good First Issue: Issues for your first open-source contribution](https://goodfirstissue.dev/)  
+ [Generate unique SVG design assets | Haikei](https://haikei.app/)  
+ [Compiler Explorer](https://godbolt.org/)  
+ [atsepkov/awesome-awesome-wm: A curated list of awesome tools/scripts/configs for Awesome Window Manager.](https://github.com/atsepkov/awesome-awesome-wm)  
+ [(2) Add Tailwind CSS to your Yew project - YouTube](https://www.youtube.com/watch?v=DEWoizX96k8)  
+ [Emacs Configuration - config.daviwil.com](https://config.daviwil.com/emacs)  
+ [The Development Hell Podcast - /dev/hell](https://devhell.info/)  
 # Mobile bookmarks
