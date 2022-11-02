@@ -210,4 +210,5 @@
  [(2) Add Tailwind CSS to your Yew project - YouTube](https://www.youtube.com/watch?v=DEWoizX96k8)  
  [Emacs Configuration - config.daviwil.com](https://config.daviwil.com/emacs)  
  [The Development Hell Podcast - /dev/hell](https://devhell.info/)  
+ [nom/choosing_a_combinator.md at main · Geal/nom](https://github.com/Geal/nom/blob/main/doc/choosing_a_combinator.md)  
 # Mobile bookmarks
