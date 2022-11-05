@@ -32,6 +32,7 @@
   [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/)  
   [A Deep Dive Into V8 | AppSignal Blog](https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html#:~:text=A%20big%20part%20of%20its,Yes%2C%20V8%20is%20very%20fast.&text=In%20other%20words%2C%20V8%20is,start%20seeing%20things%20more%20clearly)  
   [advent-of-code/aoc at master · sreedevk/advent-of-code](https://github.com/sreedevk/advent-of-code/blob/master/ruby/bin/aoc)  
+  [(3) Writing an Embedded Operating System in Rust - YouTube](https://www.youtube.com/watch?v=l1ujHfWoiOU)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -61,6 +62,9 @@
  [trunk/Trunk.toml at master · thedodd/trunk](https://github.com/thedodd/trunk/blob/master/Trunk.toml)  
  [Container attributes · Serde](https://serde.rs/container-attrs.html)  
  [Enum representations · Serde](https://serde.rs/enum-representations.html)  
+ [Type system - The Rust Reference](https://doc.rust-lang.org/reference/type-system.html)  
+ [The Rust Programming Language: Subtyping and Variance - YouTube](https://www.youtube.com/watch?v=6Vbrw9cNb9A)  
+ [Introduction - Polars - User Guide](https://pola-rs.github.io/polars-book/user-guide/index.html)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -96,6 +100,7 @@
   [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)  
   [rofi/CONFIG.md at next · davatorium/rofi](https://github.com/davatorium/rofi/blob/next/CONFIG.md)  
   [Homegrown rendering with Rust. In this post, Embark software engineer… | by Tomasz Stachowiak | Embark Studios | Dec, 2021 | Medium](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)  
+  [Introduction - Computer Graphics from Scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html)  
 ## Data & Analytics
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -124,6 +129,10 @@
   [Complex Analysis](https://complex-analysis.com/)  
   [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/#bqn-finally-an-apl-for-your-flying-saucer)  
   [Parens of the Dead](https://www.parens-of-the-dead.com/)  
+  [Type theory - Wikipedia](https://en.wikipedia.org/wiki/Type_theory#Basics)  
+  [(3) Type Theory Foundations 1.0 — Robert Harper - YouTube](https://www.youtube.com/watch?v=9SnefrwBIDc&list=PLGCr8P_YncjXRzdGq2SjKv5F2J8HUFeqN)  
+  [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)  
+  [insou22/typing-the-technical-interview-rust: https://aphyr.com/posts/342-typing-the-technical-interview translated from Haskell to Rust](https://github.com/insou22/typing-the-technical-interview-rust)  
 ## Finance & Investing
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
