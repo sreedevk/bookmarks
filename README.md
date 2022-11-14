@@ -65,6 +65,9 @@
  [Type system - The Rust Reference](https://doc.rust-lang.org/reference/type-system.html)  
  [The Rust Programming Language: Subtyping and Variance - YouTube](https://www.youtube.com/watch?v=6Vbrw9cNb9A)  
  [Introduction - Polars - User Guide](https://pola-rs.github.io/polars-book/user-guide/index.html)  
+ [dji](https://doc.rust-lang.org/stable/std/collections/struct.BinaryHeap.html)  
+ [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)  
+ [rayon - Rust](https://docs.rs/rayon/latest/rayon/)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -220,4 +223,5 @@
  [Emacs Configuration - config.daviwil.com](https://config.daviwil.com/emacs)  
  [The Development Hell Podcast - /dev/hell](https://devhell.info/)  
  [nom/choosing_a_combinator.md at main · Geal/nom](https://github.com/Geal/nom/blob/main/doc/choosing_a_combinator.md)  
+ [Galactic Puzzle Hunt](https://2022.galacticpuzzlehunt.com/)  
 # Mobile bookmarks
