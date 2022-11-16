@@ -68,6 +68,7 @@
  [dji](https://doc.rust-lang.org/stable/std/collections/struct.BinaryHeap.html)  
  [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)  
  [rayon - Rust](https://docs.rs/rayon/latest/rayon/)  
+ [johnthagen/min-sized-rust: 🦀 How to minimize Rust binary size 📦](https://github.com/johnthagen/min-sized-rust)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -114,6 +115,7 @@
   [Monad - Wikipedia](https://en.wikipedia.org/wiki/Monad)  
   [The Algebra of Types](https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html)  
   [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)  
+  [mbrandonw/my-math-notes: All of my math stuff from grad school.](https://github.com/mbrandonw/my-math-notes)  
 ## Functional Programming
   [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)  
   [Cassilda and Carcosa](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
@@ -136,6 +138,7 @@
   [(3) Type Theory Foundations 1.0 — Robert Harper - YouTube](https://www.youtube.com/watch?v=9SnefrwBIDc&list=PLGCr8P_YncjXRzdGq2SjKv5F2J8HUFeqN)  
   [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)  
   [insou22/typing-the-technical-interview-rust: https://aphyr.com/posts/342-typing-the-technical-interview translated from Haskell to Rust](https://github.com/insou22/typing-the-technical-interview-rust)  
+  [dry-rb - dry-monads v1.3 - Introduction](https://dry-rb.org/gems/dry-monads/1.3/)  
 ## Finance & Investing
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
