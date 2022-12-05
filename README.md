@@ -69,6 +69,7 @@
  [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)  
  [rayon - Rust](https://docs.rs/rayon/latest/rayon/)  
  [johnthagen/min-sized-rust: 🦀 How to minimize Rust binary size 📦](https://github.com/johnthagen/min-sized-rust)  
+ [Implementing Terminal I/O in Rust | by Packt | Medium](https://packt.medium.com/implementing-terminal-i-o-in-rust-4a44652b0f11)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -79,7 +80,7 @@
  [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)  
 ### Ruby
  [Monad laws in Ruby](https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html)  
-  [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
+ [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
 ### OCaml
  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
 ### C
@@ -139,6 +140,8 @@
   [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)  
   [insou22/typing-the-technical-interview-rust: https://aphyr.com/posts/342-typing-the-technical-interview translated from Haskell to Rust](https://github.com/insou22/typing-the-technical-interview-rust)  
   [dry-rb - dry-monads v1.3 - Introduction](https://dry-rb.org/gems/dry-monads/1.3/)  
+  [emacs-from-scratch/init.el at 500370fa06889dad313e60473d73090fcfbe106d · daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch/blob/500370fa06889dad313e60473d73090fcfbe106d/init.el)  
+  [Learn APL with Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM)  
 ## Finance & Investing
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
