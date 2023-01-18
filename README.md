@@ -81,6 +81,7 @@
 ### Ruby
  [Monad laws in Ruby](https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html)  
  [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
+ [Elixir-style Pipelines in 9 Lines of Ruby | Greg Navis](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)  
 ### OCaml
  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
 ### C
@@ -142,6 +143,10 @@
   [dry-rb - dry-monads v1.3 - Introduction](https://dry-rb.org/gems/dry-monads/1.3/)  
   [emacs-from-scratch/init.el at 500370fa06889dad313e60473d73090fcfbe106d · daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch/blob/500370fa06889dad313e60473d73090fcfbe106d/init.el)  
   [Learn APL with Neural Networks - YouTube](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM)  
+  [Introduction - PureScript by Example](https://book.purescript.org/chapter1.html)  
+  [JordanMartinez/purescript-jordans-reference: Learn PureScript with this "clone and play" repository](https://github.com/jordanmartinez/purescript-jordans-reference)  
+  [Pursuit](https://pursuit.purescript.org/)  
+  [JordanMartinez/purescript-cookbook: An unofficial Cookbook for PureScript](https://github.com/JordanMartinez/purescript-cookbook)  
 ## Finance & Investing
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
@@ -230,4 +235,7 @@
  [The Development Hell Podcast - /dev/hell](https://devhell.info/)  
  [nom/choosing_a_combinator.md at main · Geal/nom](https://github.com/Geal/nom/blob/main/doc/choosing_a_combinator.md)  
  [Galactic Puzzle Hunt](https://2022.galacticpuzzlehunt.com/)  
+ [Signals and Threads | What is an Operating System?](https://signalsandthreads.com/what-is-an-operating-system/)  
+ [Sidekiq Enterprise](https://studio.tunecore.com/admin/worker_queues/busy)  
+ [NYC Slice – Liam Quigley](https://elkue.com/nyc-slice/)  
 # Mobile bookmarks
