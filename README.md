@@ -70,6 +70,7 @@
  [rayon - Rust](https://docs.rs/rayon/latest/rayon/)  
  [johnthagen/min-sized-rust: 🦀 How to minimize Rust binary size 📦](https://github.com/johnthagen/min-sized-rust)  
  [Implementing Terminal I/O in Rust | by Packt | Medium](https://packt.medium.com/implementing-terminal-i-o-in-rust-4a44652b0f11)  
+ [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
