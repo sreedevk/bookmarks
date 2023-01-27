@@ -71,6 +71,8 @@
  [johnthagen/min-sized-rust: 🦀 How to minimize Rust binary size 📦](https://github.com/johnthagen/min-sized-rust)  
  [Implementing Terminal I/O in Rust | by Packt | Medium](https://packt.medium.com/implementing-terminal-i-o-in-rust-4a44652b0f11)  
  [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)  
+ [chaosprint/glicol: Graph-oriented live coding language and music DSP library written in Rust](https://github.com/chaosprint/glicol)  
+ [rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -88,6 +90,14 @@
 ### C
  [C Programming Language Under A Microscope](https://www.slideshare.net/olvemaudal/deep-c/274)  
  [Algorithms in C](https://github.com/TheAlgorithms/C)  
+  [system-design-primer/README.md at master · donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)  
+  [gracco/sysadmin-interview-questions](https://github.com/gracco/sysadmin-interview-questions)  
+  [mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)  
+  [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/)  
+  [kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.](https://github.com/kamranahmedse/developer-roadmap)  
+  [Sairyss/domain-driven-hexagon: Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included](https://github.com/Sairyss/domain-driven-hexagon)  
+  [Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)  
+  [practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning#ruby)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
