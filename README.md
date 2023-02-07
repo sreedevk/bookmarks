@@ -73,6 +73,8 @@
  [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)  
  [chaosprint/glicol: Graph-oriented live coding language and music DSP library written in Rust](https://github.com/chaosprint/glicol)  
  [rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust)  
+ [s](https://tailwindcss.com/docs/list-style-type)  
+ [a detailed image explaining the internals of a soc chip | DALL·E](https://labs.openai.com/e/NBsVHZGC8OSd7z6StPD4OItZ)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
