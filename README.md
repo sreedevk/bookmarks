@@ -76,6 +76,8 @@
  [s](https://tailwindcss.com/docs/list-style-type)  
  [a detailed image explaining the internals of a soc chip | DALL·E](https://labs.openai.com/e/NBsVHZGC8OSd7z6StPD4OItZ)  
  [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)  
+ [Esther: Name Meaning and Origin - SheKnows](https://www.sheknows.com/baby-names/name/esther/)  
+ [From Zero to main(): Bare metal Rust](https://interrupt.memfault.com/blog/zero-to-main-rust-1)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
