@@ -33,6 +33,9 @@
   [A Deep Dive Into V8 | AppSignal Blog](https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html#:~:text=A%20big%20part%20of%20its,Yes%2C%20V8%20is%20very%20fast.&text=In%20other%20words%2C%20V8%20is,start%20seeing%20things%20more%20clearly)  
   [advent-of-code/aoc at master · sreedevk/advent-of-code](https://github.com/sreedevk/advent-of-code/blob/master/ruby/bin/aoc)  
   [(3) Writing an Embedded Operating System in Rust - YouTube](https://www.youtube.com/watch?v=l1ujHfWoiOU)  
+  [A Guide to ARM64 / AArch64 Assembly on Linux with Shellcodes and Cryptography | modexp](https://modexp.wordpress.com/2018/10/30/arm64-assembly/#arch)  
+  [Introduction | Nushell](https://nushell.sh/book/)  
+  [MAIX — Das U-Boot unknown version documentation](https://u-boot.readthedocs.io/en/latest/board/sipeed/maix.html)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -78,6 +81,7 @@
  [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)  
  [Esther: Name Meaning and Origin - SheKnows](https://www.sheknows.com/baby-names/name/esther/)  
  [From Zero to main(): Bare metal Rust](https://interrupt.memfault.com/blog/zero-to-main-rust-1)  
+ [Writing an OS in Rust to run on RISC-V](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -112,6 +116,7 @@
   [Lat Long Calculations](http://www.m0nwk.co.uk/how-to-calculate-distance-between-two-points-using-latitude-and-longitude/)  
 ## Amateur Radio
   [Welcome to the AA9PW Radio Exam practice page! - AA9PW](http://aa9pw.com/)  
+  [Learn Morse Code in 20 minutes: Classic US Army Training (1966) - YouTube](https://www.youtube.com/watch?v=waIFtVodHHM)  
 ## Graphics / Design
   [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)  
   [Interface Design Projects](https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353)  
