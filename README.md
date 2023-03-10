@@ -260,4 +260,5 @@
  [Signals and Threads | What is an Operating System?](https://signalsandthreads.com/what-is-an-operating-system/)  
  [Sidekiq Enterprise](https://studio.tunecore.com/admin/worker_queues/busy)  
  [NYC Slice – Liam Quigley](https://elkue.com/nyc-slice/)  
+ [jbyuki/venn.nvim: Draw ASCII diagrams in Neovim](https://github.com/jbyuki/venn.nvim)  
 # Mobile bookmarks
