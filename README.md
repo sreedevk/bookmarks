@@ -94,6 +94,7 @@
  [Monad laws in Ruby](https://www.morozov.is/2018/09/08/monad-laws-in-ruby.html)  
  [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
  [Elixir-style Pipelines in 9 Lines of Ruby | Greg Navis](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)  
+ [Arbre | HTML Views in Ruby](https://activeadmin.github.io/arbre/)  
 ### OCaml
  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
 ### C
