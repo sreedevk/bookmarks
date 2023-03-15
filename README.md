@@ -142,7 +142,6 @@
   [mbrandonw/my-math-notes: All of my math stuff from grad school.](https://github.com/mbrandonw/my-math-notes)  
 ## Functional Programming
   [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)  
-  [Cassilda and Carcosa](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
   [Category Theory Illustated - Github](https://github.com/boris-marinov/category-theory-illustrated)  
   [Why algebraic data types are important - Bartosz Milewski](https://www.youtube.com/watch?v=LkqTLJK2API)  
   [Functional programming books overview](http://alexott.net/en/fp/books/)  
@@ -169,6 +168,7 @@
   [JordanMartinez/purescript-jordans-reference: Learn PureScript with this "clone and play" repository](https://github.com/jordanmartinez/purescript-jordans-reference)  
   [Pursuit](https://pursuit.purescript.org/)  
   [JordanMartinez/purescript-cookbook: An unofficial Cookbook for PureScript](https://github.com/JordanMartinez/purescript-cookbook)  
+  [Introduction - mostly-adequate-guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)  
 ## Finance & Investing
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
@@ -258,7 +258,8 @@
  [nom/choosing_a_combinator.md at main · Geal/nom](https://github.com/Geal/nom/blob/main/doc/choosing_a_combinator.md)  
  [Galactic Puzzle Hunt](https://2022.galacticpuzzlehunt.com/)  
  [Signals and Threads | What is an Operating System?](https://signalsandthreads.com/what-is-an-operating-system/)  
- [Sidekiq Enterprise](https://studio.tunecore.com/admin/worker_queues/busy)  
  [NYC Slice – Liam Quigley](https://elkue.com/nyc-slice/)  
  [jbyuki/venn.nvim: Draw ASCII diagrams in Neovim](https://github.com/jbyuki/venn.nvim)  
+ [lists.sh -- a microblog for lists](https://lists.sh/)  
+ [Cassilda and Carcosa](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
 # Mobile bookmarks
