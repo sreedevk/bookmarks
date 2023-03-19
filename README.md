@@ -36,6 +36,7 @@
   [A Guide to ARM64 / AArch64 Assembly on Linux with Shellcodes and Cryptography | modexp](https://modexp.wordpress.com/2018/10/30/arm64-assembly/#arch)  
   [Introduction | Nushell](https://nushell.sh/book/)  
   [MAIX — Das U-Boot unknown version documentation](https://u-boot.readthedocs.io/en/latest/board/sipeed/maix.html)  
+  [Learning Parser Combinators With Rust : Bodil dot lol](https://bodil.lol/parser-combinators/)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -129,6 +130,7 @@
   [rofi/CONFIG.md at next · davatorium/rofi](https://github.com/davatorium/rofi/blob/next/CONFIG.md)  
   [Homegrown rendering with Rust. In this post, Embark software engineer… | by Tomasz Stachowiak | Embark Studios | Dec, 2021 | Medium](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)  
   [Introduction - Computer Graphics from Scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html)  
+  [Home · Kenney](https://kenney.nl/)  
 ## Data & Analytics
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -169,6 +171,7 @@
   [Pursuit](https://pursuit.purescript.org/)  
   [JordanMartinez/purescript-cookbook: An unofficial Cookbook for PureScript](https://github.com/JordanMartinez/purescript-cookbook)  
   [Introduction - mostly-adequate-guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)  
+  [The Evolution of a Haskell Programmer](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)  
 ## Finance & Investing
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
