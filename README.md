@@ -59,6 +59,7 @@
  [Programming Ecto: Build Database Apps in Elixir for Scalability and Performance by Darin Wilson and Eric Meadows-Jönsson](https://pragprog.com/titles/wmecto/programming-ecto/)  
  [Event Driven Elixir – TKTheTechie](https://tkthetechie.io/event-driven-elixir/)  
  [Ash](https://www.ash-elixir.org/)  
+ [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/)  
 ### Rust
  [RustConf 2021](https://www.youtube.com/watch?v=pLdCcolQsxA)  
  [Algorithms in Rust](https://github.com/TheAlgorithms/Rust)  
@@ -172,6 +173,7 @@
   [JordanMartinez/purescript-cookbook: An unofficial Cookbook for PureScript](https://github.com/JordanMartinez/purescript-cookbook)  
   [Introduction - mostly-adequate-guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)  
   [The Evolution of a Haskell Programmer](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)  
+  [Richard Towers | Typescripting the technical interview](https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html)  
 ## Finance & Investing
   [Learn by Tickertape - Learn by Tickertape](https://www.tickertape.in/learn/)  
   [Stock Analysis & Best Financial Tools for Indian Stock Market Evaluation | Tickertape](https://www.tickertape.in/)  
@@ -265,4 +267,6 @@
  [jbyuki/venn.nvim: Draw ASCII diagrams in Neovim](https://github.com/jbyuki/venn.nvim)  
  [lists.sh -- a microblog for lists](https://lists.sh/)  
  [Cassilda and Carcosa](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
+ [What is the distinction between a blockchain and a distributed ledger?](https://www.finra.org/sites/default/files/2017_BC_Byte.pdf)  
+ [bugswriter's website](https://bugswriter.com/)  
 # Mobile bookmarks
