@@ -269,4 +269,5 @@
  [Cassilda and Carcosa](https://soundcloud.com/cassilda_and_carcosa/sets/birds)  
  [What is the distinction between a blockchain and a distributed ledger?](https://www.finra.org/sites/default/files/2017_BC_Byte.pdf)  
  [bugswriter's website](https://bugswriter.com/)  
+ [The home of engineering leadership | LeadDev](https://leaddev.com/)  
 # Mobile bookmarks
