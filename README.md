@@ -77,7 +77,7 @@
  [Implementing Terminal I/O in Rust | by Packt | Medium](https://packt.medium.com/implementing-terminal-i-o-in-rust-4a44652b0f11)  
  [rauljordan::blog](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)  
  [chaosprint/glicol: Graph-oriented live coding language and music DSP library written in Rust](https://github.com/chaosprint/glicol)  
- [rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust)  
+ [ata](https://github.com/rust-unofficial/awesome-rust)  
  [s](https://tailwindcss.com/docs/list-style-type)  
  [a detailed image explaining the internals of a soc chip | DALL·E](https://labs.openai.com/e/NBsVHZGC8OSd7z6StPD4OItZ)  
  [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)  
@@ -270,4 +270,6 @@
  [What is the distinction between a blockchain and a distributed ledger?](https://www.finra.org/sites/default/files/2017_BC_Byte.pdf)  
  [bugswriter's website](https://bugswriter.com/)  
  [The home of engineering leadership | LeadDev](https://leaddev.com/)  
+ [Plain Text Accounting portal - plaintextaccounting.org](https://plaintextaccounting.org/)  
+ [Home - hledger](https://hledger.org/index.html)  
 # Mobile bookmarks
