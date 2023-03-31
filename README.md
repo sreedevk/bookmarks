@@ -272,4 +272,6 @@
  [The home of engineering leadership | LeadDev](https://leaddev.com/)  
  [Plain Text Accounting portal - plaintextaccounting.org](https://plaintextaccounting.org/)  
  [Home - hledger](https://hledger.org/index.html)  
+ [fasterthanli.me](https://fasterthanli.me/)  
+ ["Simple Made Easy" - Rich Hickey (2011) - YouTube](https://www.youtube.com/watch?v=SxdOUGdseq4)  
 # Mobile bookmarks
