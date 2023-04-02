@@ -5,12 +5,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     bkmrq (0.0.6)
+    rake (13.0.6)
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
   bkmrq!
+  rake!
 
 BUNDLED WITH
    2.2.22
