@@ -37,6 +37,7 @@
   [Introduction | Nushell](https://nushell.sh/book/)  
   [MAIX — Das U-Boot unknown version documentation](https://u-boot.readthedocs.io/en/latest/board/sipeed/maix.html)  
   [Learning Parser Combinators With Rust : Bodil dot lol](https://bodil.lol/parser-combinators/)  
+  [Building a database in the 2020s - me.0xffff.me](https://me.0xffff.me/build-database-in-2020s.html)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -84,6 +85,7 @@
  [Esther: Name Meaning and Origin - SheKnows](https://www.sheknows.com/baby-names/name/esther/)  
  [From Zero to main(): Bare metal Rust](https://interrupt.memfault.com/blog/zero-to-main-rust-1)  
  [Writing an OS in Rust to run on RISC-V](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)  
+ [Using C libraries in Rust: make a sys crate](https://kornel.ski/rust-sys-crate)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -97,6 +99,7 @@
  [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
  [Elixir-style Pipelines in 9 Lines of Ruby | Greg Navis](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)  
  [Arbre | HTML Views in Ruby](https://activeadmin.github.io/arbre/)  
+ [arbox/machine-learning-with-ruby: Curated list: Resources for machine learning in Ruby](https://github.com/arbox/machine-learning-with-ruby#sparkles-tutorials)  
 ### OCaml
  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
 ### C
@@ -110,6 +113,7 @@
   [Sairyss/domain-driven-hexagon: Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included](https://github.com/Sairyss/domain-driven-hexagon)  
   [Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)  
   [practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning#ruby)  
+  [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -120,6 +124,7 @@
 ## Amateur Radio
   [Welcome to the AA9PW Radio Exam practice page! - AA9PW](http://aa9pw.com/)  
   [Learn Morse Code in 20 minutes: Classic US Army Training (1966) - YouTube](https://www.youtube.com/watch?v=waIFtVodHHM)  
+  [Gift Ideas](https://www.amazon.in/gcx/-/gfhz/?ref_=nav_cs_giftfinder)  
 ## Graphics / Design
   [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)  
   [Interface Design Projects](https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353)  
@@ -181,6 +186,7 @@
   [(6) How to Invest with Data Science - YouTube](https://www.youtube.com/watch?v=4jaBKXDqg9U)  
   [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)  
   [Amateur Radio Exam](http://www.arrl.org/find-an-amateur-radio-license-exam-session)  
+  [Discover](https://discover.passportindex.org/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
@@ -275,4 +281,10 @@
  [fasterthanli.me](https://fasterthanli.me/)  
  ["Simple Made Easy" - Rich Hickey (2011) - YouTube](https://www.youtube.com/watch?v=SxdOUGdseq4)  
  [Allocator Designs | Writing an OS in Rust](https://os.phil-opp.com/allocator-designs/)  
+ [does obs use gtk - Google Search](https://www.google.com/search?q=does+obs+use+gtk&oq=does+obs+use+gtk&aqs=chrome..69i57.2540j0j4&sourceid=chrome&ie=UTF-8)  
+ [Faster and enjoyable ZSH (maybe) • htr3n's](https://htr3n.github.io/2018/07/faster-zsh/)  
+ [DB Refresh](http://dropkloud-jenkins.tunecore.com/job/dbrefresh-ec2/)  
+ [Gogh - Color Scheme](https://gogh-co.github.io/Gogh/)  
+ [How To Get Started In Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)  
+ [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)  
 # Mobile bookmarks
