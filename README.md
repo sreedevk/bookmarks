@@ -188,6 +188,8 @@
   [Amateur Radio Exam](http://www.arrl.org/find-an-amateur-radio-license-exam-session)  
   [Discover](https://discover.passportindex.org/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
+## Machine Learning
+  [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
@@ -287,4 +289,5 @@
  [Gogh - Color Scheme](https://gogh-co.github.io/Gogh/)  
  [How To Get Started In Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)  
  [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)  
+ [matklad](https://matklad.github.io/)  
 # Mobile bookmarks
