@@ -290,4 +290,6 @@
  [How To Get Started In Soldering for Beginners](https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/)  
  [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)  
  [matklad](https://matklad.github.io/)  
+ [Lists created by @TiffanyJachja / Twitter](https://twitter.com/TiffanyJachja/lists)  
+ [Luca's literate Emacs config](https://www.lucacambiaghi.com/vanilla-emacs/readme.html)  
 # Mobile bookmarks
