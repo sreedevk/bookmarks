@@ -115,6 +115,7 @@
   [practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning#ruby)  
   [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
   [Learn C • Build Your Own Lisp](https://buildyourownlisp.com/)  
+  [A Programmer's Introduction to Mathematics](https://pimbook.org/)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
