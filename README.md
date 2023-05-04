@@ -116,6 +116,7 @@
   [MiniKanren implementation in Ruby](https://github.com/spariev/mini_kanren)  
   [Learn C • Build Your Own Lisp](https://buildyourownlisp.com/)  
   [A Programmer's Introduction to Mathematics](https://pimbook.org/)  
+  [🔴 Livestream - Fugget About It | Full Episode Live Stream 🔴 - YouTube](https://www.youtube.com/watch?v=GLU42LImnOA)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
