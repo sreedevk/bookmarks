@@ -117,6 +117,7 @@
   [Learn C • Build Your Own Lisp](https://buildyourownlisp.com/)  
   [A Programmer's Introduction to Mathematics](https://pimbook.org/)  
   [🔴 Livestream - Fugget About It | Full Episode Live Stream 🔴 - YouTube](https://www.youtube.com/watch?v=GLU42LImnOA)  
+  [Laurence Tratt: Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -193,6 +194,9 @@
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 ## Machine Learning
   [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)  
+  [Home](https://norvig.github.io/paip-lisp/#/)  
+## Linux
+  [If Not True Then False](https://www.if-not-true-then-false.com/)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
