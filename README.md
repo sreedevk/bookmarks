@@ -195,6 +195,9 @@
 ## Machine Learning
   [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)  
   [Home](https://norvig.github.io/paip-lisp/#/)  
+  [What is a Vector Database? | Pinecone](https://www.pinecone.io/learn/vector-database/)  
+  [Prolog for data science - Emir's blog](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)  
+  [uck](https://typeroyale.cc/practice)  
 ## Linux
   [If Not True Then False](https://www.if-not-true-then-false.com/)  
 # Other bookmarks
