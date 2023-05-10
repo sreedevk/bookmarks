@@ -38,6 +38,8 @@
   [MAIX — Das U-Boot unknown version documentation](https://u-boot.readthedocs.io/en/latest/board/sipeed/maix.html)  
   [Learning Parser Combinators With Rust : Bodil dot lol](https://bodil.lol/parser-combinators/)  
   [Building a database in the 2020s - me.0xffff.me](https://me.0xffff.me/build-database-in-2020s.html)  
+  [Andrew Kelley](https://andrewkelley.me/)  
+  [Writing An Interpreter In Go | Thorsten Ball](https://interpreterbook.com/)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -200,6 +202,7 @@
   [uck](https://typeroyale.cc/practice)  
 ## Linux
   [If Not True Then False](https://www.if-not-true-then-false.com/)  
+  [https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
