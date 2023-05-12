@@ -120,6 +120,7 @@
   [A Programmer's Introduction to Mathematics](https://pimbook.org/)  
   [🔴 Livestream - Fugget About It | Full Episode Live Stream 🔴 - YouTube](https://www.youtube.com/watch?v=GLU42LImnOA)  
   [Laurence Tratt: Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)  
+  [50 years in filesystems: 1984 | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -203,6 +204,7 @@
 ## Linux
   [If Not True Then False](https://www.if-not-true-then-false.com/)  
   [https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
+  [Chris's Wiki :: blog/linux/FlockFcntlAndNFS](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
@@ -307,4 +309,6 @@
  [Luca's literate Emacs config](https://www.lucacambiaghi.com/vanilla-emacs/readme.html)  
  [Stack Overflow Blog - Essays, opinions, and advice on the act of computer programming from Stack Overflow.](https://stackoverflow.blog/)  
  [Transformers from Scratch](https://e2eml.school/transformers.html)  
+ [https://subtls.pages.dev](https://subtls.pages.dev/)  
+ [Twenty years of blogging - Eli Bendersky's website](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)  
 # Mobile bookmarks
