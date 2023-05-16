@@ -311,4 +311,6 @@
  [Transformers from Scratch](https://e2eml.school/transformers.html)  
  [https://subtls.pages.dev](https://subtls.pages.dev/)  
  [Twenty years of blogging - Eli Bendersky's website](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)  
+ [searx](https://searx.thegpm.org/)  
+ [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)  
 # Mobile bookmarks
