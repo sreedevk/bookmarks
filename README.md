@@ -121,6 +121,7 @@
   [🔴 Livestream - Fugget About It | Full Episode Live Stream 🔴 - YouTube](https://www.youtube.com/watch?v=GLU42LImnOA)  
   [Laurence Tratt: Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)  
   [50 years in filesystems: 1984 | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)  
+  [Free Programming Books – GoalKicker.com](https://goalkicker.com/)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -205,6 +206,7 @@
   [If Not True Then False](https://www.if-not-true-then-false.com/)  
   [https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
   [Chris's Wiki :: blog/linux/FlockFcntlAndNFS](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)  
+  [Xlib - C Language X Interface](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html#Overview_of_the_X_Window_System)  
 # Other bookmarks
  [Gleek - Diagram Generator](https://app.gleek.io/)  
  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
