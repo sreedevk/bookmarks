@@ -122,6 +122,7 @@
   [Laurence Tratt: Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)  
   [50 years in filesystems: 1984 | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)  
   [Free Programming Books – GoalKicker.com](https://goalkicker.com/)  
+  [Introduction to the Fourier Transform](https://www.cs.unm.edu/~brayer/vision/fourier.html)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
