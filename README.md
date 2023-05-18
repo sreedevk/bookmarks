@@ -123,6 +123,7 @@
   [50 years in filesystems: 1984 | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)  
   [Free Programming Books – GoalKicker.com](https://goalkicker.com/)  
   [Introduction to the Fourier Transform](https://www.cs.unm.edu/~brayer/vision/fourier.html)  
+  [Literate Programming - Articles](http://literateprogramming.com/articles.html)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -316,4 +317,7 @@
  [Twenty years of blogging - Eli Bendersky's website](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)  
  [searx](https://searx.thegpm.org/)  
  [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)  
+ [Beepberry by SQFMI x Beeper | Beepberry](https://beepberry.sqfmi.com/)  
+ [Downtown Doug Brown » What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)  
+ [Database Architects: The Great CPU Stagnation](https://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)  
 # Mobile bookmarks
