@@ -206,7 +206,7 @@
   [uck](https://typeroyale.cc/practice)  
 ## Linux
   [If Not True Then False](https://www.if-not-true-then-false.com/)  
-  [https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
+  [unde](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
   [Chris's Wiki :: blog/linux/FlockFcntlAndNFS](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)  
   [Xlib - C Language X Interface](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html#Overview_of_the_X_Window_System)  
 # Other bookmarks
@@ -320,4 +320,5 @@
  [Beepberry by SQFMI x Beeper | Beepberry](https://beepberry.sqfmi.com/)  
  [Downtown Doug Brown » What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)  
  [Database Architects: The Great CPU Stagnation](https://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)  
+ [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)  
 # Mobile bookmarks
