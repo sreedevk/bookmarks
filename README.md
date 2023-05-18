@@ -124,6 +124,7 @@
   [Free Programming Books – GoalKicker.com](https://goalkicker.com/)  
   [Introduction to the Fourier Transform](https://www.cs.unm.edu/~brayer/vision/fourier.html)  
   [Literate Programming - Articles](http://literateprogramming.com/articles.html)  
+  [Bitwise Binary Search: Elegant and Fast | orlp.net](https://orlp.net/blog/bitwise-binary-search/)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
