@@ -125,6 +125,7 @@
   [Introduction to the Fourier Transform](https://www.cs.unm.edu/~brayer/vision/fourier.html)  
   [Literate Programming - Articles](http://literateprogramming.com/articles.html)  
   [Bitwise Binary Search: Elegant and Fast | orlp.net](https://orlp.net/blog/bitwise-binary-search/)  
+  [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -322,4 +323,5 @@
  [Downtown Doug Brown » What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)  
  [Database Architects: The Great CPU Stagnation](https://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)  
  [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)  
+ [The DRAKON Language](https://drakonhub.com/en/drakon)  
 # Mobile bookmarks
