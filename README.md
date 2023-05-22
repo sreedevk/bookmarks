@@ -324,4 +324,7 @@
  [Database Architects: The Great CPU Stagnation](https://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)  
  [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)  
  [The DRAKON Language](https://drakonhub.com/en/drakon)  
+ [Turso | SQLite Developer Experience in an Edge Database](https://turso.tech/)  
+ [Io uring - dankwiki, the wiki of nick black](https://nick-black.com/dankwiki/index.php/Io_uring)  
+ [brr](https://brr.fyi/)  
 # Mobile bookmarks
