@@ -88,6 +88,7 @@
  [From Zero to main(): Bare metal Rust](https://interrupt.memfault.com/blog/zero-to-main-rust-1)  
  [Writing an OS in Rust to run on RISC-V](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)  
  [Using C libraries in Rust: make a sys crate](https://kornel.ski/rust-sys-crate)  
+ [Bevy - Rust Game Engine](https://github.com/bevyengine/bevy)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -102,6 +103,8 @@
  [Elixir-style Pipelines in 9 Lines of Ruby | Greg Navis](https://www.gregnavis.com/articles/elixir-style-pipelines-in-9-lines-of-ruby.html)  
  [Arbre | HTML Views in Ruby](https://activeadmin.github.io/arbre/)  
  [arbox/machine-learning-with-ruby: Curated list: Resources for machine learning in Ruby](https://github.com/arbox/machine-learning-with-ruby#sparkles-tutorials)  
+ [Ruby on Rails CMS](https://github.com/refinery/refinerycms)  
+ [Rhizome: A JIT for Ruby, implemented in pure Ruby](https://github.com/chrisseaton/rhizome)  
 ### OCaml
  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
 ### C
@@ -126,6 +129,9 @@
   [Literate Programming - Articles](http://literateprogramming.com/articles.html)  
   [Bitwise Binary Search: Elegant and Fast | orlp.net](https://orlp.net/blog/bitwise-binary-search/)  
   [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/)  
+  [File not found](https://github.com/EbookFoundation/free-programming-books)  
+  [Software Engineering Crash Course](https://github.com/jwasham/coding-interview-university)  
+  [https://sudhir.io/the-big-little-guide-to-message-queues](https://sudhir.io/the-big-little-guide-to-message-queues)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -149,6 +155,7 @@
   [Homegrown rendering with Rust. In this post, Embark software engineer… | by Tomasz Stachowiak | Embark Studios | Dec, 2021 | Medium](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)  
   [Introduction - Computer Graphics from Scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html)  
   [Home · Kenney](https://kenney.nl/)  
+  [Gleek - Diagram Generator](https://app.gleek.io/)  
 ## Data & Analytics
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -212,21 +219,14 @@
   [Chris's Wiki :: blog/linux/FlockFcntlAndNFS](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)  
   [Xlib - C Language X Interface](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html#Overview_of_the_X_Window_System)  
 # Other bookmarks
- [Gleek - Diagram Generator](https://app.gleek.io/)  
- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c)  
- [Software Engineering Crash Course](https://github.com/jwasham/coding-interview-university)  
  [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
  [Brian Cohen's Portfolio](http://bcdesignspace.com/)  
- [Rhizome: A JIT for Ruby, implemented in pure Ruby](https://github.com/chrisseaton/rhizome)  
  [FOAAS](https://www.foaas.com/)  
  [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  
- [Bevy - Rust Game Engine](https://github.com/bevyengine/bevy)  
- [Ruby on Rails CMS](https://github.com/refinery/refinerycms)  
  [microsoft/QuantumKatas: Q# & Quantum Computing  ](https://github.com/microsoft/QuantumKatas#install)  
  [Awesome Lists](https://github.com/sindresorhus/awesome#computer-science)  
  [Papers We Love](https://github.com/papers-we-love/papers-we-love)  
  [Multi-Language REPL](https://tio.run/#io)  
- [Scala Tutorial](https://www.tutorialspoint.com/scala/)  
  [The Julia Language](https://docs.julialang.org/en/v1/base/base/)  
  [ncurses - Rust](https://docs.rs/ncurses/5.101.0/ncurses/index.html)  
  [The Art of AST](https://www.youtube.com/watch?v=C06MohLG_3s)  
