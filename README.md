@@ -327,4 +327,6 @@
  [Turso | SQLite Developer Experience in an Edge Database](https://turso.tech/)  
  [Io uring - dankwiki, the wiki of nick black](https://nick-black.com/dankwiki/index.php/Io_uring)  
  [brr](https://brr.fyi/)  
+ [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)  
+ [Emacs web badges](https://erkin.party/emacs/)  
 # Mobile bookmarks
