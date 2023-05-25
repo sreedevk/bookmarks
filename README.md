@@ -132,6 +132,8 @@
   [File not found](https://github.com/EbookFoundation/free-programming-books)  
   [Software Engineering Crash Course](https://github.com/jwasham/coding-interview-university)  
   [https://sudhir.io/the-big-little-guide-to-message-queues](https://sudhir.io/the-big-little-guide-to-message-queues)  
+  [Introduction - Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)  
+  [xorvoid](https://xorvoid.com/sectorc.html)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
