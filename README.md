@@ -40,6 +40,7 @@
   [Building a database in the 2020s - me.0xffff.me](https://me.0xffff.me/build-database-in-2020s.html)  
   [Andrew Kelley](https://andrewkelley.me/)  
   [Writing An Interpreter In Go | Thorsten Ball](https://interpreterbook.com/)  
+  [The Mysterious 50 Ohm Impedance: Where It Came From and Why We Use It | Blog | Altium Designer](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -89,6 +90,7 @@
  [Writing an OS in Rust to run on RISC-V](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)  
  [Using C libraries in Rust: make a sys crate](https://kornel.ski/rust-sys-crate)  
  [Bevy - Rust Game Engine](https://github.com/bevyengine/bevy)  
+ [I Am No Longer Speaking at RustConf 2023 | The Pasture](https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023)  
 ### Lua
  [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)  
 ### Julia
@@ -134,6 +136,7 @@
   [https://sudhir.io/the-big-little-guide-to-message-queues](https://sudhir.io/the-big-little-guide-to-message-queues)  
   [Introduction - Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)  
   [xorvoid](https://xorvoid.com/sectorc.html)  
+  [Functional Programming in Lean - Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -158,6 +161,7 @@
   [Introduction - Computer Graphics from Scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html)  
   [Home · Kenney](https://kenney.nl/)  
   [Gleek - Diagram Generator](https://app.gleek.io/)  
+  [daisyUI — Tailwind CSS Components](https://daisyui.com/)  
 ## Data & Analytics
   [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
   [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -331,4 +335,7 @@
  [brr](https://brr.fyi/)  
  [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)  
  [Emacs web badges](https://erkin.party/emacs/)  
+ [How to Get Started with Tree-Sitter - Mastering Emacs](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)  
+ [Escape from Big Publishing - by Bruce Davie](https://systemsapproach.substack.com/p/escape-from-big-publishing)  
+ [A Coder in Courierland || kuro5hin.org](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)  
 # Mobile bookmarks
