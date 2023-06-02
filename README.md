@@ -338,4 +338,5 @@
  [How to Get Started with Tree-Sitter - Mastering Emacs](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)  
  [Escape from Big Publishing - by Bruce Davie](https://systemsapproach.substack.com/p/escape-from-big-publishing)  
  [A Coder in Courierland || kuro5hin.org](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)  
+ [What is Jobs to be Done (JTBD)?. Upgrade your user, not your product… | by Alan Klement | Jobs to be Done](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)  
 # Mobile bookmarks
