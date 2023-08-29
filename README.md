@@ -41,6 +41,7 @@
   [Andrew Kelley](https://andrewkelley.me/)  
   [Writing An Interpreter In Go | Thorsten Ball](https://interpreterbook.com/)  
   [The Mysterious 50 Ohm Impedance: Where It Came From and Why We Use It | Blog | Altium Designer](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)  
+  [Types of Parsing in Compiler Design: The Full Explanation in Plain English - History-Computer](https://history-computer.com/types-of-parsing-in-compiler-design/#:~:text=of%20compiler%20design.-,It%20allows%20the%20compiler%20to%20verify%20that%20the%20source%20code,with%20long%20left%2Drecursive%20rules.)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -109,6 +110,7 @@
  [Rhizome: A JIT for Ruby, implemented in pure Ruby](https://github.com/chrisseaton/rhizome)  
 ### OCaml
  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
+ [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)  
 ### C
  [C Programming Language Under A Microscope](https://www.slideshare.net/olvemaudal/deep-c/274)  
  [Algorithms in C](https://github.com/TheAlgorithms/C)  
@@ -131,7 +133,7 @@
   [Literate Programming - Articles](http://literateprogramming.com/articles.html)  
   [Bitwise Binary Search: Elegant and Fast | orlp.net](https://orlp.net/blog/bitwise-binary-search/)  
   [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/split/)  
-  [File not found](https://github.com/EbookFoundation/free-programming-books)  
+  [free books](https://github.com/EbookFoundation/free-programming-books)  
   [Software Engineering Crash Course](https://github.com/jwasham/coding-interview-university)  
   [https://sudhir.io/the-big-little-guide-to-message-queues](https://sudhir.io/the-big-little-guide-to-message-queues)  
   [Introduction - Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)  
@@ -147,7 +149,6 @@
 ## Amateur Radio
   [Welcome to the AA9PW Radio Exam practice page! - AA9PW](http://aa9pw.com/)  
   [Learn Morse Code in 20 minutes: Classic US Army Training (1966) - YouTube](https://www.youtube.com/watch?v=waIFtVodHHM)  
-  [Gift Ideas](https://www.amazon.in/gcx/-/gfhz/?ref_=nav_cs_giftfinder)  
 ## Graphics / Design
   [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html)  
   [Interface Design Projects](https://webdesign.tutsplus.com/articles/9-recommended-github-repos-for-interface-design--cms-29353)  
@@ -173,6 +174,7 @@
   [The Algebra of Types](https://miklos-martin.github.io//learn/fp/category-theory/2018/02/01/adventures-in-category-theory-the-algebra-of-types.html)  
   [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)  
   [mbrandonw/my-math-notes: All of my math stuff from grad school.](https://github.com/mbrandonw/my-math-notes)  
+  [Monomorphisms vs Epimorphisms - Cronokirby](https://cronokirby.com/posts/2020/06/monomorphisms-vs-epimorphisms/#:~:text=Put%20briefly%2C%20a%20monomorphism%20is,very%20important%20in%20Category%20Theory.)  
 ## Functional Programming
   [Category Theory - Bartosz Milewski](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)  
   [Category Theory Illustated - Github](https://github.com/boris-marinov/category-theory-illustrated)  
@@ -212,6 +214,7 @@
   [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)  
   [Amateur Radio Exam](http://www.arrl.org/find-an-amateur-radio-license-exam-session)  
   [Discover](https://discover.passportindex.org/)  
+  [Investment research for everyone](https://openbb.co/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 ## Machine Learning
   [No Black Box Machine Learning Course – Learn Without Libraries - YouTube](https://www.youtube.com/watch?v=vDDjtwQDw2k)  
