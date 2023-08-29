@@ -1,5 +1,5 @@
 {
-   "checksum": "4d0865b75531410c1ff264a7c66c2abb",
+   "checksum": "4fb3e4f75e50bb1640a00e9c69fb13af",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -221,14 +221,6 @@
                "name": "A Deep Dive Into V8 | AppSignal Blog",
                "type": "url",
                "url": "https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html#:~:text=A%20big%20part%20of%20its,Yes%2C%20V8%20is%20very%20fast.&text=In%20other%20words%2C%20V8%20is,start%20seeing%20things%20more%20clearly"
-            }, {
-               "date_added": "13282807209502572",
-               "date_last_used": "0",
-               "guid": "43816c68-05a9-4a4a-8106-b294d1ccda06",
-               "id": "248",
-               "name": "advent-of-code/aoc at master · sreedevk/advent-of-code",
-               "type": "url",
-               "url": "https://github.com/sreedevk/advent-of-code/blob/master/ruby/bin/aoc"
             }, {
                "date_added": "13312006247071729",
                "date_last_used": "0",
@@ -699,17 +691,6 @@
                   "type": "url",
                   "url": "https://github.com/rust-unofficial/awesome-rust"
                }, {
-                  "date_added": "13319503876560427",
-                  "date_last_used": "0",
-                  "guid": "11d50c36-a67a-415b-ac99-16e148e7e5a0",
-                  "id": "466",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "s",
-                  "type": "url",
-                  "url": "https://tailwindcss.com/docs/list-style-type"
-               }, {
                   "date_added": "13319599258730918",
                   "date_last_used": "0",
                   "guid": "e567aa66-e1f1-46a2-b167-fb5cb02800da",
@@ -731,17 +712,6 @@
                   "name": "ossu/computer-science: Path to a free self-taught education in Computer Science!",
                   "type": "url",
                   "url": "https://github.com/ossu/computer-science"
-               }, {
-                  "date_added": "13320960354848127",
-                  "date_last_used": "0",
-                  "guid": "85247aa8-1a50-4414-85f8-62327e9eb61b",
-                  "id": "472",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "Esther: Name Meaning and Origin - SheKnows",
-                  "type": "url",
-                  "url": "https://www.sheknows.com/baby-names/name/esther/"
                }, {
                   "date_added": "13321300533402911",
                   "date_last_used": "0",
@@ -1117,17 +1087,6 @@
                "name": "A Programmer's Introduction to Mathematics",
                "type": "url",
                "url": "https://pimbook.org/"
-            }, {
-               "date_added": "13327653043127378",
-               "date_last_used": "13337121906741419",
-               "guid": "ed4c96e7-eaff-4d02-9703-1ba77a1bac7d",
-               "id": "539",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "🔴 Livestream - Fugget About It | Full Episode Live Stream 🔴 - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=GLU42LImnOA"
             }, {
                "date_added": "13327764894113312",
                "date_last_used": "0",
@@ -1929,14 +1888,6 @@
                "type": "url",
                "url": "http://www.arrl.org/find-an-amateur-radio-license-exam-session"
             }, {
-               "date_added": "13307727464061706",
-               "date_last_used": "0",
-               "guid": "ced96af9-9577-453a-ba5a-6edbba4c9e9d",
-               "id": "514",
-               "name": "Discover",
-               "type": "url",
-               "url": "https://discover.passportindex.org/"
-            }, {
                "date_added": "13337091022779610",
                "date_last_used": "0",
                "guid": "8ab786eb-4b10-4996-bc37-9b442badca09",
@@ -2008,17 +1959,6 @@
                "name": "Prolog for data science - Emir's blog",
                "type": "url",
                "url": "https://emiruz.com/post/2023-04-30-prolog-for-data-science/"
-            }, {
-               "date_added": "13327983662548582",
-               "date_last_used": "0",
-               "guid": "c6bcb0f4-4d29-4cb9-91c2-34456b758d61",
-               "id": "550",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "uck",
-               "type": "url",
-               "url": "https://typeroyale.cc/practice"
             } ],
             "date_added": "13326217689551944",
             "date_last_used": "0",
@@ -2514,14 +2454,6 @@
             "name": "TypeScript 4.4 Cheat Sheet - SitePen",
             "type": "url",
             "url": "https://www.sitepen.com/blog/typescript-cheat-sheet"
-         }, {
-            "date_added": "13288728557748714",
-            "date_last_used": "0",
-            "guid": "25ecbe0f-74cc-4228-98b4-a396cf9c8676",
-            "id": "318",
-            "name": "Sreedev Kodichath - One on One - Google Docs",
-            "type": "url",
-            "url": "https://docs.google.com/document/d/1INs73YtI65oJpRkNMc_U2oqOOJSGD6WbFxSc2Ga1JPs/edit"
          }, {
             "date_added": "13289075741893077",
             "date_last_used": "0",
