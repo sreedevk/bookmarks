@@ -1,5 +1,5 @@
 {
-   "checksum": "4fb3e4f75e50bb1640a00e9c69fb13af",
+   "checksum": "56f3bb02cb05b3be1e7205168cbcb6fb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -229,7 +229,7 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "(3) Writing an Embedded Operating System in Rust - YouTube",
+               "name": "Writing an Embedded Operating System in Rust",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=l1ujHfWoiOU"
             }, {
@@ -266,17 +266,6 @@
                "type": "url",
                "url": "https://u-boot.readthedocs.io/en/latest/board/sipeed/maix.html"
             }, {
-               "date_added": "13323652503338122",
-               "date_last_used": "0",
-               "guid": "612e4041-39bc-4c5a-8c8b-e82633e7f335",
-               "id": "489",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Learning Parser Combinators With Rust : Bodil dot lol",
-               "type": "url",
-               "url": "https://bodil.lol/parser-combinators/"
-            }, {
                "date_added": "13325483487025649",
                "date_last_used": "0",
                "guid": "0bc204cc-b4ec-4572-a400-afd3571059cd",
@@ -310,17 +299,6 @@
                "type": "url",
                "url": "https://interpreterbook.com/"
             }, {
-               "date_added": "13329783711886043",
-               "date_last_used": "0",
-               "guid": "c14d0245-4468-45ef-90a5-d8da97c73ff6",
-               "id": "594",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "The Mysterious 50 Ohm Impedance: Where It Came From and Why We Use It | Blog | Altium Designer",
-               "type": "url",
-               "url": "https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it"
-            }, {
                "date_added": "13334264634385817",
                "date_last_used": "0",
                "guid": "21240cb3-54e0-402b-848c-69994cf6b9b1",
@@ -331,13 +309,57 @@
                "name": "Types of Parsing in Compiler Design: The Full Explanation in Plain English - History-Computer",
                "type": "url",
                "url": "https://history-computer.com/types-of-parsing-in-compiler-design/#:~:text=of%20compiler%20design.-,It%20allows%20the%20compiler%20to%20verify%20that%20the%20source%20code,with%20long%20left%2Drecursive%20rules."
+            }, {
+               "date_added": "13337887630561714",
+               "date_last_used": "0",
+               "guid": "a188cfe1-f5cf-42db-a863-21b7554074da",
+               "id": "621",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Writing a package manager",
+               "type": "url",
+               "url": "https://antonz.org/writing-package-manager/"
+            }, {
+               "date_added": "13337887649756523",
+               "date_last_used": "0",
+               "guid": "72a16e05-b610-4b8a-b443-de782cd074af",
+               "id": "622",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "cpu.land | Putting the \"You\" in CPU",
+               "type": "url",
+               "url": "https://cpu.land/"
+            }, {
+               "date_added": "13337887884399461",
+               "date_last_used": "0",
+               "guid": "50981f57-bc81-43d5-8930-606a5e8eaaac",
+               "id": "626",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The Mysterious 50 Ohm Impedance: Where It Came From and Why We Use It | Blog | Altium Designer",
+               "type": "url",
+               "url": "https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it"
+            }, {
+               "date_added": "13337887987888336",
+               "date_last_used": "0",
+               "guid": "5c5c916b-38b8-4e78-bc6e-5cac09b4957f",
+               "id": "629",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Introduction - Let's build a compiler",
+               "type": "url",
+               "url": "https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html"
             } ],
             "date_added": "13266890914175791",
             "date_last_used": "0",
-            "date_modified": "13336185650607802",
+            "date_modified": "13337887987888337",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
-            "name": "Systems Dev",
+            "name": "Systems Dev / Hardware",
             "type": "folder"
          }, {
             "children": [ {
@@ -687,7 +709,7 @@
                   "meta_info": {
                      "power_bookmark_meta": ""
                   },
-                  "name": "ata",
+                  "name": "Rust Unofficial - Awesome Rust",
                   "type": "url",
                   "url": "https://github.com/rust-unofficial/awesome-rust"
                }, {
@@ -911,7 +933,7 @@
                } ],
                "date_added": "13298358117805449",
                "date_last_used": "0",
-               "date_modified": "13329255378037115",
+               "date_modified": "13337888045660404",
                "guid": "6a1b9299-af29-47da-8318-9122b812ab38",
                "id": "370",
                "name": "Ruby",
@@ -977,7 +999,7 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "system-design-primer/README.md at master · donnemartin/system-design-primer",
+               "name": "Systems Design Primer",
                "type": "url",
                "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md"
             }, {
@@ -988,7 +1010,7 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "gracco/sysadmin-interview-questions",
+               "name": "Sysadmin Interview Questions",
                "type": "url",
                "url": "https://github.com/gracco/sysadmin-interview-questions"
             }, {
@@ -999,20 +1021,9 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about",
+               "name": "Every Programmer Should Know About",
                "type": "url",
                "url": "https://github.com/mtdvio/every-programmer-should-know"
-            }, {
-               "date_added": "13319303868542480",
-               "date_last_used": "0",
-               "guid": "f41e07c0-f15d-4351-8db3-27bcdc3a06ad",
-               "id": "459",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell",
-               "type": "url",
-               "url": "https://www.bigocheatsheet.com/"
             }, {
                "date_added": "13319303876204772",
                "date_last_used": "0",
@@ -1057,14 +1068,6 @@
                "name": "practical-tutorials/project-based-learning: Curated list of project-based tutorials",
                "type": "url",
                "url": "https://github.com/practical-tutorials/project-based-learning#ruby"
-            }, {
-               "date_added": "13274557616778674",
-               "date_last_used": "0",
-               "guid": "2b20ef48-6a00-4aa0-a52d-26975325eec9",
-               "id": "511",
-               "name": "MiniKanren implementation in Ruby",
-               "type": "url",
-               "url": "https://github.com/spariev/mini_kanren"
             }, {
                "date_added": "13327328674744036",
                "date_last_used": "0",
@@ -1150,7 +1153,7 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "Bitwise Binary Search: Elegant and Fast | orlp.net",
+               "name": "Bitwise Binary Search: Elegant and Fast",
                "type": "url",
                "url": "https://orlp.net/blog/bitwise-binary-search/"
             }, {
@@ -1172,7 +1175,7 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "free books",
+               "name": "Free Programming Books",
                "type": "url",
                "url": "https://github.com/EbookFoundation/free-programming-books"
             }, {
@@ -1191,20 +1194,9 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "https://sudhir.io/the-big-little-guide-to-message-queues",
+               "name": "The Big Little Guide to Message Queues",
                "type": "url",
                "url": "https://sudhir.io/the-big-little-guide-to-message-queues"
-            }, {
-               "date_added": "13329500451091418",
-               "date_last_used": "0",
-               "guid": "31daa7cf-75ec-446a-bcb1-1f2667b03cf6",
-               "id": "589",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Introduction - Let's build a compiler",
-               "type": "url",
-               "url": "https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html"
             }, {
                "date_added": "13329500461143625",
                "date_last_used": "0",
@@ -1217,20 +1209,355 @@
                "type": "url",
                "url": "https://xorvoid.com/sectorc.html"
             }, {
-               "date_added": "13329923582700435",
+               "date_added": "13337887954246622",
                "date_last_used": "0",
-               "guid": "fc173c1b-d5a5-48f8-89a6-4344a16c1048",
-               "id": "600",
+               "guid": "3ccc2a0a-df02-4dd9-9186-2103e7087dbd",
+               "id": "627",
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "Functional Programming in Lean - Functional Programming in Lean",
+               "name": "Big-O Algorithm Complexity Cheat Sheet",
                "type": "url",
-               "url": "https://leanprover.github.io/functional_programming_in_lean/"
+               "url": "https://www.bigocheatsheet.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13337888096536951",
+                  "date_last_used": "0",
+                  "guid": "6c193ed0-257d-44f9-b194-7ae90cf1d2e7",
+                  "id": "632",
+                  "name": "Category Theory - Bartosz Milewski",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
+               }, {
+                  "date_added": "13337888096537277",
+                  "date_last_used": "0",
+                  "guid": "8410d0b2-e19c-4020-8b57-e548f0438c51",
+                  "id": "633",
+                  "name": "Category Theory Illustated - Github",
+                  "type": "url",
+                  "url": "https://github.com/boris-marinov/category-theory-illustrated"
+               }, {
+                  "date_added": "13337888096537615",
+                  "date_last_used": "0",
+                  "guid": "9c894cf2-cc80-4aca-baac-f20e8514f615",
+                  "id": "634",
+                  "name": "Why algebraic data types are important - Bartosz Milewski",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=LkqTLJK2API"
+               }, {
+                  "date_added": "13337888096537953",
+                  "date_last_used": "0",
+                  "guid": "8d2b04ad-7fc8-49c7-8608-9a5af3cd00c7",
+                  "id": "635",
+                  "name": "Functional programming books overview",
+                  "type": "url",
+                  "url": "http://alexott.net/en/fp/books/"
+               }, {
+                  "date_added": "13337888096538268",
+                  "date_last_used": "0",
+                  "guid": "2e62df02-360c-4ac1-864a-cd44295be21d",
+                  "id": "636",
+                  "name": "Parser combinator - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Parser_combinator"
+               }, {
+                  "date_added": "13337888096538622",
+                  "date_last_used": "0",
+                  "guid": "bd7ed92b-c6c8-4fc9-8573-84fadbb93bc0",
+                  "id": "637",
+                  "name": "27 Unhelpful Facts About Category Theory - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=H0Ek86IH-3Y"
+               }, {
+                  "date_added": "13337888096538955",
+                  "date_last_used": "0",
+                  "guid": "4786a1ff-99f1-4b24-b02e-38881e17a48e",
+                  "id": "638",
+                  "name": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials",
+                  "type": "url",
+                  "url": "https://freecomputerbooks.com/"
+               }, {
+                  "date_added": "13337888096539275",
+                  "date_last_used": "0",
+                  "guid": "dea2e969-a6e7-4c3b-95fb-4147451e5df0",
+                  "id": "639",
+                  "name": "Railway Oriented Programming - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=XFagoINwzHo"
+               }, {
+                  "date_added": "13337888096539582",
+                  "date_last_used": "0",
+                  "guid": "1df28441-903c-48e3-87dd-e5a67b214dd8",
+                  "id": "640",
+                  "name": "The Uncarved Blog: Partial Function Application is not Currying",
+                  "type": "url",
+                  "url": "https://web.archive.org/web/20161023205431/http://www.uncarved.com/articles/not_currying"
+               }, {
+                  "date_added": "13337888096539920",
+                  "date_last_used": "0",
+                  "guid": "6c91d5da-c8ae-49c1-937c-26b44ec92bb1",
+                  "id": "641",
+                  "name": "Professor Frisby Introduces Composable Functional JavaScript | egghead.io",
+                  "type": "url",
+                  "url": "https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript"
+               }, {
+                  "date_added": "13337888096540239",
+                  "date_last_used": "0",
+                  "guid": "733a1f8e-8f5b-49ec-9f50-3f1100e21faf",
+                  "id": "642",
+                  "name": "Class Roster - Spring 2021 - CS 3110",
+                  "type": "url",
+                  "url": "https://classes.cornell.edu/browse/roster/SP21/class/CS/3110"
+               }, {
+                  "date_added": "13337888096540554",
+                  "date_last_used": "0",
+                  "guid": "01079d8f-2807-46cf-93a9-f3f90f3a77cb",
+                  "id": "643",
+                  "name": "My Future with Elixir: set-theoretic types - The Elixir programming language",
+                  "type": "url",
+                  "url": "https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/"
+               }, {
+                  "date_added": "13337888096540903",
+                  "date_last_used": "0",
+                  "guid": "bc48abc4-1665-4bbf-b52e-d0befb4dbf4d",
+                  "id": "644",
+                  "name": "Baby Steps",
+                  "type": "url",
+                  "url": "https://smallcultfollowing.com/babysteps/"
+               }, {
+                  "date_added": "13337888096541200",
+                  "date_last_used": "0",
+                  "guid": "9301d844-fc86-4dca-b3a8-8d3344481721",
+                  "id": "645",
+                  "name": "Complex Analysis",
+                  "type": "url",
+                  "url": "https://complex-analysis.com/"
+               }, {
+                  "date_added": "13337888096541489",
+                  "date_last_used": "0",
+                  "guid": "c4235812-c2df-4670-9a0c-cc5905a9e646",
+                  "id": "646",
+                  "name": "BQN: finally, an APL for your flying saucer",
+                  "type": "url",
+                  "url": "https://mlochbaum.github.io/BQN/#bqn-finally-an-apl-for-your-flying-saucer"
+               }, {
+                  "date_added": "13337888096541844",
+                  "date_last_used": "0",
+                  "guid": "93e80858-8cd9-4307-8a59-0dca851b05af",
+                  "id": "647",
+                  "name": "Parens of the Dead",
+                  "type": "url",
+                  "url": "https://www.parens-of-the-dead.com/"
+               }, {
+                  "date_added": "13337888096541995",
+                  "date_last_used": "0",
+                  "guid": "c35ed6c1-35b8-4332-9c88-4d8395438eda",
+                  "id": "648",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Type theory - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Type_theory#Basics"
+               }, {
+                  "date_added": "13337888096542101",
+                  "date_last_used": "0",
+                  "guid": "3200f8eb-2f2e-424b-8db0-c602f228971f",
+                  "id": "649",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "(3) Type Theory Foundations 1.0 — Robert Harper - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=9SnefrwBIDc&list=PLGCr8P_YncjXRzdGq2SjKv5F2J8HUFeqN"
+               }, {
+                  "date_added": "13337888096542202",
+                  "date_last_used": "0",
+                  "guid": "b62dcb1b-948b-4d21-a4e2-378a30e2280a",
+                  "id": "650",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Typing the technical interview",
+                  "type": "url",
+                  "url": "https://aphyr.com/posts/342-typing-the-technical-interview"
+               }, {
+                  "date_added": "13337888096542296",
+                  "date_last_used": "0",
+                  "guid": "31323c51-0d77-4d94-84e1-daa5ada8ebd1",
+                  "id": "651",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "insou22/typing-the-technical-interview-rust: https://aphyr.com/posts/342-typing-the-technical-interview translated from Haskell to Rust",
+                  "type": "url",
+                  "url": "https://github.com/insou22/typing-the-technical-interview-rust"
+               }, {
+                  "date_added": "13337888096542397",
+                  "date_last_used": "0",
+                  "guid": "225ee408-feea-4133-a1b6-b73c657f7df9",
+                  "id": "652",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "dry-rb - dry-monads v1.3 - Introduction",
+                  "type": "url",
+                  "url": "https://dry-rb.org/gems/dry-monads/1.3/"
+               }, {
+                  "date_added": "13337888096542479",
+                  "date_last_used": "0",
+                  "guid": "704335de-e39a-47d0-a3db-1580262d4582",
+                  "id": "653",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "emacs-from-scratch/init.el at 500370fa06889dad313e60473d73090fcfbe106d · daviwil/emacs-from-scratch",
+                  "type": "url",
+                  "url": "https://github.com/daviwil/emacs-from-scratch/blob/500370fa06889dad313e60473d73090fcfbe106d/init.el"
+               }, {
+                  "date_added": "13337888096542545",
+                  "date_last_used": "0",
+                  "guid": "2f3fc1a4-1153-4617-bf4e-e5c5fc1f0af6",
+                  "id": "654",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Learn APL with Neural Networks - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM"
+               }, {
+                  "date_added": "13337888096542627",
+                  "date_last_used": "0",
+                  "guid": "b5133bf1-98f5-4574-9242-b22863c68ff3",
+                  "id": "655",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Introduction - PureScript by Example",
+                  "type": "url",
+                  "url": "https://book.purescript.org/chapter1.html"
+               }, {
+                  "date_added": "13337888096542722",
+                  "date_last_used": "0",
+                  "guid": "83881155-e768-4415-bd32-176cd2c02271",
+                  "id": "656",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "JordanMartinez/purescript-jordans-reference: Learn PureScript with this \"clone and play\" repository",
+                  "type": "url",
+                  "url": "https://github.com/jordanmartinez/purescript-jordans-reference"
+               }, {
+                  "date_added": "13337888096542800",
+                  "date_last_used": "0",
+                  "guid": "7b3a47b9-5fb7-4417-8832-1e893cdb4647",
+                  "id": "657",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Pursuit",
+                  "type": "url",
+                  "url": "https://pursuit.purescript.org/"
+               }, {
+                  "date_added": "13337888096542876",
+                  "date_last_used": "0",
+                  "guid": "e49dcc96-f81a-4da4-aecd-1caef3168463",
+                  "id": "658",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "JordanMartinez/purescript-cookbook: An unofficial Cookbook for PureScript",
+                  "type": "url",
+                  "url": "https://github.com/JordanMartinez/purescript-cookbook"
+               }, {
+                  "date_added": "13337888096542937",
+                  "date_last_used": "0",
+                  "guid": "5c519570-93ca-4816-96d2-3003449f299b",
+                  "id": "659",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Introduction - mostly-adequate-guide",
+                  "type": "url",
+                  "url": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/"
+               }, {
+                  "date_added": "13337888096543010",
+                  "date_last_used": "0",
+                  "guid": "de59b77a-d5ad-4da9-875e-18e3f51ae3a9",
+                  "id": "660",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "The Evolution of a Haskell Programmer",
+                  "type": "url",
+                  "url": "https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm"
+               }, {
+                  "date_added": "13337888096543072",
+                  "date_last_used": "0",
+                  "guid": "5f410d09-85aa-4594-8ccc-10e7f966b79b",
+                  "id": "661",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Richard Towers | Typescripting the technical interview",
+                  "type": "url",
+                  "url": "https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html"
+               }, {
+                  "date_added": "13337888096543135",
+                  "date_last_used": "0",
+                  "guid": "e31e1f47-787d-4e2b-86ac-49af65a2cab0",
+                  "id": "662",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Fast Parser Combinator Library from Scratch in OCaml (no dependencies) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Y5IIXUBXvLs&t=1971s"
+               }, {
+                  "date_added": "13337888096543203",
+                  "date_last_used": "0",
+                  "guid": "65e97e21-be12-47c6-b7fd-8c2b17cd311a",
+                  "id": "663",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Integrated Haskell Platform",
+                  "type": "url",
+                  "url": "https://ihp.digitallyinduced.com/Guide/index.html"
+               }, {
+                  "date_added": "13337888096543264",
+                  "date_last_used": "0",
+                  "guid": "8ee30d7b-f2a3-4a89-ba16-8eec02d48421",
+                  "id": "664",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Learning Parser Combinators With Rust : Bodil dot lol",
+                  "type": "url",
+                  "url": "https://bodil.lol/parser-combinators/"
+               }, {
+                  "date_added": "13337888096543324",
+                  "date_last_used": "0",
+                  "guid": "332fb2f3-c154-448c-8096-80f4035a38ce",
+                  "id": "665",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Functional Programming in Lean - Functional Programming in Lean",
+                  "type": "url",
+                  "url": "https://leanprover.github.io/functional_programming_in_lean/"
+               } ],
+               "date_added": "13337888096536496",
+               "date_last_used": "0",
+               "date_modified": "13337888096543324",
+               "guid": "00c9be8a-e3dd-47af-b545-265cf2e77c8f",
+               "id": "631",
+               "name": "Functional Programming",
+               "type": "folder"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13330193574469517",
+            "date_modified": "13337887954246623",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
@@ -1313,10 +1640,18 @@
                "name": "Learn Morse Code in 20 minutes: Classic US Army Training (1966) - YouTube",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=waIFtVodHHM"
+            }, {
+               "date_added": "13337888265470178",
+               "date_last_used": "0",
+               "guid": "76ee5a83-3b87-4619-824f-efe9a09fcb72",
+               "id": "672",
+               "name": "Amateur Radio Exam",
+               "type": "url",
+               "url": "http://www.arrl.org/find-an-amateur-radio-license-exam-session"
             } ],
             "date_added": "13298357976315522",
             "date_last_used": "0",
-            "date_modified": "13322337600422269",
+            "date_modified": "13337888265470178",
             "guid": "57035b00-18c8-4d24-82bb-eb8517b32215",
             "id": "347",
             "name": "Amateur Radio",
@@ -1476,13 +1811,66 @@
                "name": "Introduction to dplyr • dplyr",
                "type": "url",
                "url": "https://dplyr.tidyverse.org/articles/dplyr.html"
+            }, {
+               "children": [ {
+                  "date_added": "13337888166170646",
+                  "date_last_used": "0",
+                  "guid": "99a12309-4c48-45c9-a4c8-f74cd8a48f12",
+                  "id": "668",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "No Black Box Machine Learning Course – Learn Without Libraries - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=vDDjtwQDw2k"
+               }, {
+                  "date_added": "13337888166170960",
+                  "date_last_used": "0",
+                  "guid": "ace60e79-06e3-4182-843d-0c06f0e83273",
+                  "id": "669",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "What is a Vector Database? | Pinecone",
+                  "type": "url",
+                  "url": "https://www.pinecone.io/learn/vector-database/"
+               }, {
+                  "date_added": "13337888166171280",
+                  "date_last_used": "0",
+                  "guid": "5645a033-3a75-4996-a8c4-2a0f1881407b",
+                  "id": "670",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Prolog for data science - Emir's blog",
+                  "type": "url",
+                  "url": "https://emiruz.com/post/2023-04-30-prolog-for-data-science/"
+               }, {
+                  "date_added": "13337888166171556",
+                  "date_last_used": "0",
+                  "guid": "259804ef-35d3-4c85-82f7-68f2f908d99e",
+                  "id": "671",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Paradigms of Artificial Intelligence Programming",
+                  "type": "url",
+                  "url": "https://norvig.github.io/paip-lisp/#/"
+               } ],
+               "date_added": "13337888166170203",
+               "date_last_used": "0",
+               "date_modified": "13337888166171556",
+               "guid": "a7c12c4c-fc33-42c7-86d3-98ac2de9592c",
+               "id": "667",
+               "name": "Machine Learning",
+               "type": "folder"
             } ],
             "date_added": "13269985231212090",
             "date_last_used": "0",
             "date_modified": "13286388532585432",
             "guid": "5a5251c7-2242-4e35-9bfb-2521ddee7e9e",
             "id": "90",
-            "name": "Data & Analytics",
+            "name": "Data Science & Analytics",
             "type": "folder"
          }, {
             "children": [ {
@@ -1514,7 +1902,7 @@
                "date_last_used": "0",
                "guid": "cf7f2a34-3e92-41bb-9837-55cc5b5113fa",
                "id": "240",
-               "name": "rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib",
+               "name": "Scientific Visualization",
                "type": "url",
                "url": "https://github.com/rougier/scientific-visualization-book"
             }, {
@@ -1525,7 +1913,7 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "mbrandonw/my-math-notes: All of my math stuff from grad school.",
+               "name": "mbrandonw's Math Notes",
                "type": "url",
                "url": "https://github.com/mbrandonw/my-math-notes"
             }, {
@@ -1542,301 +1930,10 @@
             } ],
             "date_added": "13279058958563720",
             "date_last_used": "0",
-            "date_modified": "13337795140000765",
+            "date_modified": "13337887630561714",
             "guid": "80f0b610-da37-48a5-aba7-0bd77d5fc44c",
             "id": "171",
             "name": "Math",
-            "type": "folder"
-         }, {
-            "children": [ {
-               "date_added": "13279084971897627",
-               "date_last_used": "13337583820807857",
-               "guid": "17e9973c-600f-4cf8-b9f8-4996e2a37be2",
-               "id": "188",
-               "name": "Category Theory - Bartosz Milewski",
-               "type": "url",
-               "url": "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
-            }, {
-               "date_added": "13279085046942323",
-               "date_last_used": "13337583420444363",
-               "guid": "fd956ff5-1979-461c-8415-4c305dd71c76",
-               "id": "193",
-               "name": "Category Theory Illustated - Github",
-               "type": "url",
-               "url": "https://github.com/boris-marinov/category-theory-illustrated"
-            }, {
-               "date_added": "13280026088486162",
-               "date_last_used": "0",
-               "guid": "278422d3-060f-486e-8d02-79aef65def91",
-               "id": "216",
-               "name": "Why algebraic data types are important - Bartosz Milewski",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=LkqTLJK2API"
-            }, {
-               "date_added": "13284698656280616",
-               "date_last_used": "0",
-               "guid": "c77383e4-d19f-4983-9560-9a36ac4b040e",
-               "id": "270",
-               "name": "Functional programming books overview",
-               "type": "url",
-               "url": "http://alexott.net/en/fp/books/"
-            }, {
-               "date_added": "13286388532585432",
-               "date_last_used": "13337583891714526",
-               "guid": "b99233f0-712d-4cc8-916c-daeb43abe26a",
-               "id": "300",
-               "name": "Parser combinator - Wikipedia",
-               "type": "url",
-               "url": "https://en.wikipedia.org/wiki/Parser_combinator"
-            }, {
-               "date_added": "13286400913477399",
-               "date_last_used": "13337572053942297",
-               "guid": "a8e3de76-a461-4273-9769-65ac606d6f39",
-               "id": "301",
-               "name": "27 Unhelpful Facts About Category Theory - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=H0Ek86IH-3Y"
-            }, {
-               "date_added": "13286402388426607",
-               "date_last_used": "0",
-               "guid": "fa9d652d-995d-435d-9fc3-2c93ca965046",
-               "id": "302",
-               "name": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials",
-               "type": "url",
-               "url": "https://freecomputerbooks.com/"
-            }, {
-               "date_added": "13288619361142491",
-               "date_last_used": "0",
-               "guid": "884a89a5-01d5-4e8f-8ff2-83e4ae483d7f",
-               "id": "317",
-               "name": "Railway Oriented Programming - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=XFagoINwzHo"
-            }, {
-               "date_added": "13288807054549212",
-               "date_last_used": "0",
-               "guid": "d0f45c41-10f9-4ff9-980e-2894696b5d8d",
-               "id": "319",
-               "name": "The Uncarved Blog: Partial Function Application is not Currying",
-               "type": "url",
-               "url": "https://web.archive.org/web/20161023205431/http://www.uncarved.com/articles/not_currying"
-            }, {
-               "date_added": "13308672139987675",
-               "date_last_used": "0",
-               "guid": "10b14e30-4390-4330-ba15-71726e19ce5b",
-               "id": "386",
-               "name": "Professor Frisby Introduces Composable Functional JavaScript | egghead.io",
-               "type": "url",
-               "url": "https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript"
-            }, {
-               "date_added": "13309456644981357",
-               "date_last_used": "13337583968233739",
-               "guid": "cc90eaf6-47bd-4de1-8fc9-ef59553e3808",
-               "id": "392",
-               "name": "Class Roster - Spring 2021 - CS 3110",
-               "type": "url",
-               "url": "https://classes.cornell.edu/browse/roster/SP21/class/CS/3110"
-            }, {
-               "date_added": "13309466511576046",
-               "date_last_used": "13337572831701258",
-               "guid": "a0f2ccfb-0a6e-4aa8-80c8-dc239813c627",
-               "id": "393",
-               "name": "My Future with Elixir: set-theoretic types - The Elixir programming language",
-               "type": "url",
-               "url": "https://elixir-lang.org/blog/2022/10/05/my-future-with-elixir-set-theoretic-types/"
-            }, {
-               "date_added": "13309728188424060",
-               "date_last_used": "13337583948762716",
-               "guid": "927216a2-9690-451c-ae4b-5346721091e4",
-               "id": "395",
-               "name": "Baby Steps",
-               "type": "url",
-               "url": "https://smallcultfollowing.com/babysteps/"
-            }, {
-               "date_added": "13310072750020286",
-               "date_last_used": "0",
-               "guid": "3ae046c3-bb6f-4812-85ad-e11d535fdeb5",
-               "id": "398",
-               "name": "Complex Analysis",
-               "type": "url",
-               "url": "https://complex-analysis.com/"
-            }, {
-               "date_added": "13310160740595034",
-               "date_last_used": "0",
-               "guid": "38e11332-28d7-4978-8df0-1546817e530d",
-               "id": "400",
-               "name": "BQN: finally, an APL for your flying saucer",
-               "type": "url",
-               "url": "https://mlochbaum.github.io/BQN/#bqn-finally-an-apl-for-your-flying-saucer"
-            }, {
-               "date_added": "13311484768938480",
-               "date_last_used": "0",
-               "guid": "3fcfaa05-3bb1-4839-a239-a8f5ef779e8b",
-               "id": "410",
-               "name": "Parens of the Dead",
-               "type": "url",
-               "url": "https://www.parens-of-the-dead.com/"
-            }, {
-               "date_added": "13312006264642254",
-               "date_last_used": "13337572770941409",
-               "guid": "26f8eca5-55b0-42c0-af9e-d13e63692e04",
-               "id": "417",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Type theory - Wikipedia",
-               "type": "url",
-               "url": "https://en.wikipedia.org/wiki/Type_theory#Basics"
-            }, {
-               "date_added": "13312006273039298",
-               "date_last_used": "0",
-               "guid": "3f70b7ec-f624-41a4-a17e-daebe799f9d9",
-               "id": "418",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "(3) Type Theory Foundations 1.0 — Robert Harper - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=9SnefrwBIDc&list=PLGCr8P_YncjXRzdGq2SjKv5F2J8HUFeqN"
-            }, {
-               "date_added": "13312006286335075",
-               "date_last_used": "0",
-               "guid": "bcde9f5d-68b1-4134-a6ce-e95cd3a56366",
-               "id": "419",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Typing the technical interview",
-               "type": "url",
-               "url": "https://aphyr.com/posts/342-typing-the-technical-interview"
-            }, {
-               "date_added": "13312006294706372",
-               "date_last_used": "13336155893144155",
-               "guid": "af87b7ea-e1fe-4250-9579-d18144a7937f",
-               "id": "420",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "insou22/typing-the-technical-interview-rust: https://aphyr.com/posts/342-typing-the-technical-interview translated from Haskell to Rust",
-               "type": "url",
-               "url": "https://github.com/insou22/typing-the-technical-interview-rust"
-            }, {
-               "date_added": "13313007329197219",
-               "date_last_used": "0",
-               "guid": "daccb2f4-49df-4a89-9e92-cf698d90a51b",
-               "id": "433",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "dry-rb - dry-monads v1.3 - Introduction",
-               "type": "url",
-               "url": "https://dry-rb.org/gems/dry-monads/1.3/"
-            }, {
-               "date_added": "13313558585343032",
-               "date_last_used": "0",
-               "guid": "5a9c530f-9f07-40b1-b8ac-541df9339e6d",
-               "id": "435",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "emacs-from-scratch/init.el at 500370fa06889dad313e60473d73090fcfbe106d · daviwil/emacs-from-scratch",
-               "type": "url",
-               "url": "https://github.com/daviwil/emacs-from-scratch/blob/500370fa06889dad313e60473d73090fcfbe106d/init.el"
-            }, {
-               "date_added": "13313733449224552",
-               "date_last_used": "0",
-               "guid": "3fdec351-afc6-420f-800e-9fbb13268390",
-               "id": "436",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Learn APL with Neural Networks - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM"
-            }, {
-               "date_added": "13314687827215339",
-               "date_last_used": "13336157544685754",
-               "guid": "b9a009ff-0d57-4373-a35b-2e82df512776",
-               "id": "440",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Introduction - PureScript by Example",
-               "type": "url",
-               "url": "https://book.purescript.org/chapter1.html"
-            }, {
-               "date_added": "13314687834134204",
-               "date_last_used": "0",
-               "guid": "c28172a8-c95e-4c5c-8472-9ece75b1901e",
-               "id": "441",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "JordanMartinez/purescript-jordans-reference: Learn PureScript with this \"clone and play\" repository",
-               "type": "url",
-               "url": "https://github.com/jordanmartinez/purescript-jordans-reference"
-            }, {
-               "date_added": "13314687840519671",
-               "date_last_used": "0",
-               "guid": "7c2ada57-ae3f-4d15-958e-96210287a444",
-               "id": "442",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Pursuit",
-               "type": "url",
-               "url": "https://pursuit.purescript.org/"
-            }, {
-               "date_added": "13314687845222601",
-               "date_last_used": "13336156205359763",
-               "guid": "1e911844-219a-4a3d-b4f1-9c8decf5abbe",
-               "id": "443",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "JordanMartinez/purescript-cookbook: An unofficial Cookbook for PureScript",
-               "type": "url",
-               "url": "https://github.com/JordanMartinez/purescript-cookbook"
-            }, {
-               "date_added": "13323305245093599",
-               "date_last_used": "0",
-               "guid": "9c4cd1c1-21b0-4d70-83dc-c7ac0ed237f0",
-               "id": "486",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Introduction - mostly-adequate-guide",
-               "type": "url",
-               "url": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/"
-            }, {
-               "date_added": "13323650198490915",
-               "date_last_used": "13337587622584733",
-               "guid": "016e4707-ee72-4fa4-9819-afe541485fb2",
-               "id": "488",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "The Evolution of a Haskell Programmer",
-               "type": "url",
-               "url": "https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm"
-            }, {
-               "date_added": "13323980052311116",
-               "date_last_used": "13337808365370290",
-               "guid": "eaf3c196-4950-4f84-a024-91ae30bb483a",
-               "id": "495",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Richard Towers | Typescripting the technical interview",
-               "type": "url",
-               "url": "https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html"
-            } ],
-            "date_added": "13280023696257688",
-            "date_last_used": "0",
-            "date_modified": "13324077783741734",
-            "guid": "7b53331d-108c-4a6b-b2dc-605012c96645",
-            "id": "214",
-            "name": "Functional Programming",
             "type": "folder"
          }, {
             "children": [ {
@@ -1844,7 +1941,7 @@
                "date_last_used": "0",
                "guid": "e6f6b300-2203-4474-9fdb-446e315eabc9",
                "id": "295",
-               "name": "Learn by Tickertape - Learn by Tickertape",
+               "name": "Learn by Tickertape",
                "type": "url",
                "url": "https://www.tickertape.in/learn/"
             }, {
@@ -1860,7 +1957,7 @@
                "date_last_used": "0",
                "guid": "9ecf6c15-6ab5-4b12-879d-29ef8187ead2",
                "id": "326",
-               "name": "(6) How to pick high quality stocks in India - Saurabh Mukherjea | Thrive India@75 - YouTube",
+               "name": "How to pick high quality stocks in India - Saurabh Mukherjea",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=D_8imNmCXsg"
             }, {
@@ -1868,7 +1965,7 @@
                "date_last_used": "0",
                "guid": "d94f546e-ea6a-4515-829c-c8206ac1aa02",
                "id": "327",
-               "name": "(6) How to Invest with Data Science - YouTube",
+               "name": "How to Invest with Data Science - YouTube",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=4jaBKXDqg9U"
             }, {
@@ -1879,14 +1976,6 @@
                "name": "API Documentation | Alpha Vantage",
                "type": "url",
                "url": "https://www.alphavantage.co/documentation/"
-            }, {
-               "date_added": "13301256515618520",
-               "date_last_used": "0",
-               "guid": "df29adf7-e57d-4a14-93cf-ab5572877ba4",
-               "id": "376",
-               "name": "Amateur Radio Exam",
-               "type": "url",
-               "url": "http://www.arrl.org/find-an-amateur-radio-license-exam-session"
             }, {
                "date_added": "13337091022779610",
                "date_last_used": "0",
@@ -1914,59 +2003,6 @@
             "name": "Devbox Transmission Client",
             "type": "url",
             "url": "http://192.168.50.206:9091/transmission/web/#cancel"
-         }, {
-            "children": [ {
-               "date_added": "13326217652689419",
-               "date_last_used": "0",
-               "guid": "62efdb57-1397-4856-a00d-cc292d1c58a1",
-               "id": "522",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "No Black Box Machine Learning Course – Learn Without Libraries - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=vDDjtwQDw2k"
-            }, {
-               "date_added": "13327764928353463",
-               "date_last_used": "0",
-               "guid": "85e4ad62-26c6-47cb-81cb-734f427ed18e",
-               "id": "546",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Home",
-               "type": "url",
-               "url": "https://norvig.github.io/paip-lisp/#/"
-            }, {
-               "date_added": "13327768556034831",
-               "date_last_used": "0",
-               "guid": "3c081c0c-c5be-4873-9166-9abc3b846459",
-               "id": "547",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "What is a Vector Database? | Pinecone",
-               "type": "url",
-               "url": "https://www.pinecone.io/learn/vector-database/"
-            }, {
-               "date_added": "13327975274937809",
-               "date_last_used": "0",
-               "guid": "cdb18fa6-449a-47e4-80a4-092831987a14",
-               "id": "549",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Prolog for data science - Emir's blog",
-               "type": "url",
-               "url": "https://emiruz.com/post/2023-04-30-prolog-for-data-science/"
-            } ],
-            "date_added": "13326217689551944",
-            "date_last_used": "0",
-            "date_modified": "13328118956480286",
-            "guid": "937ff7e9-984a-4eec-ac8c-e37e0e3b1b66",
-            "id": "523",
-            "name": "Machine Learning",
-            "type": "folder"
          }, {
             "children": [ {
                "date_added": "13327724320333685",
