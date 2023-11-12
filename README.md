@@ -224,6 +224,8 @@
   [unde](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
   [Chris's Wiki :: blog/linux/FlockFcntlAndNFS](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)  
   [Xlib - C Language X Interface](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html#Overview_of_the_X_Window_System)  
+## Photography & Film
+  [Creating Vintage Video Filters with FFmpeg - zayne.io](https://zayne.io/articles/vintage-camera-filters-with-ffmpeg)  
 # Other bookmarks
  [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
  [Brian Cohen's Portfolio](http://bcdesignspace.com/)  
