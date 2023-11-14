@@ -169,6 +169,7 @@
  [Integrated Haskell Platform](https://ihp.digitallyinduced.com/Guide/index.html)  
  [Learning Parser Combinators With Rust : Bodil dot lol](https://bodil.lol/parser-combinators/)  
  [Functional Programming in Lean - Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)  
+  [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 ## Geographic Information Systems
@@ -218,6 +219,9 @@
   [How to Invest with Data Science - YouTube](https://www.youtube.com/watch?v=4jaBKXDqg9U)  
   [API Documentation | Alpha Vantage](https://www.alphavantage.co/documentation/)  
   [Investment research for everyone](https://openbb.co/)  
+  [Bloomberg.com](https://www.bloomberg.com/)  
+  [Barron's | Financial and Investment News](https://www.barrons.com/)  
+  [Financial Times](https://www.ft.com/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 ## Linux
   [If Not True Then False](https://www.if-not-true-then-false.com/)  
@@ -341,4 +345,5 @@
  [A Coder in Courierland || kuro5hin.org](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)  
  [What is Jobs to be Done (JTBD)?. Upgrade your user, not your product… | by Alan Klement | Jobs to be Done](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)  
  [Analyses](https://jepsen.io/analyses)  
+ [What's new | Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao](https://terrytao.wordpress.com/)  
 # Mobile bookmarks
