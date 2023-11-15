@@ -222,6 +222,8 @@
   [Bloomberg.com](https://www.bloomberg.com/)  
   [Barron's | Financial and Investment News](https://www.barrons.com/)  
   [Financial Times](https://www.ft.com/)  
+  [Hledger cheatsheet](https://devhints.io/hledger)  
+  [A User's view of Hledger – Learning about hledger](https://hledgerfan.com/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 ## Linux
   [If Not True Then False](https://www.if-not-true-then-false.com/)  
@@ -346,4 +348,5 @@
  [What is Jobs to be Done (JTBD)?. Upgrade your user, not your product… | by Alan Klement | Jobs to be Done](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca)  
  [Analyses](https://jepsen.io/analyses)  
  [What's new | Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao](https://terrytao.wordpress.com/)  
+ [Rants, Ideas, Stuff](http://rantsideasstuff.com/)  
 # Mobile bookmarks
