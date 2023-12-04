@@ -43,6 +43,7 @@
   [cpu.land | Putting the "You" in CPU](https://cpu.land/)  
   [The Mysterious 50 Ohm Impedance: Where It Came From and Why We Use It | Blog | Altium Designer](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)  
   [Introduction - Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)  
+  [A Minimum Complete Tutorial of Linux ext4 File System](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -172,6 +173,7 @@
   [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
+  [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
 ## Geographic Information Systems
   [Map algebra, mathematical functions, and conditional functions - YouTube](https://www.youtube.com/watch?v=W3ahQJ0j5fI)  
   [PostGIS — Spatial and Geographic Objects for PostgreSQL](https://postgis.net/)  
@@ -224,6 +226,7 @@
   [Financial Times](https://www.ft.com/)  
   [Hledger cheatsheet](https://devhints.io/hledger)  
   [A User's view of Hledger – Learning about hledger](https://hledgerfan.com/)  
+  [Free Stock APIs in JSON & Excel | Alpha Vantage](https://www.alphavantage.co/)  
  [Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 ## Linux
   [If Not True Then False](https://www.if-not-true-then-false.com/)  

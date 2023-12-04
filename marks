@@ -1,5 +1,5 @@
 {
-   "checksum": "4d025eebd6568159363a422c92b1aaf4",
+   "checksum": "13924623e3e7ef19f184c5fcb7bf4484",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -353,10 +353,21 @@
                "name": "Introduction - Let's build a compiler",
                "type": "url",
                "url": "https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html"
+            }, {
+               "date_added": "13346177409927962",
+               "date_last_used": "0",
+               "guid": "60c4dd1d-05ec-4deb-98fd-8f816b89ce3d",
+               "id": "692",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "A Minimum Complete Tutorial of Linux ext4 File System",
+               "type": "url",
+               "url": "https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/"
             } ],
             "date_added": "13266890914175791",
             "date_last_used": "0",
-            "date_modified": "13337887987888337",
+            "date_modified": "13346177416729755",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
             "name": "Systems Dev / Hardware",
@@ -1582,10 +1593,21 @@
                "name": "C++ Wav Audio Programming From Scratch",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=rHqkeLxAsTc"
+            }, {
+               "date_added": "13345576931733138",
+               "date_last_used": "0",
+               "guid": "c47d6262-3738-4343-b53c-b05d360f3a03",
+               "id": "687",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hackaday | Fresh Hacks Every Day",
+               "type": "url",
+               "url": "https://hackaday.com/"
             } ],
             "date_added": "13268888179191420",
             "date_last_used": "0",
-            "date_modified": "13268888183104979",
+            "date_modified": "13345774343185175",
             "guid": "9884c7a5-8967-4645-8146-b8d6e4d5f856",
             "id": "81",
             "name": "Audio",
@@ -2053,10 +2075,21 @@
                "name": "A User's view of Hledger – Learning about hledger",
                "type": "url",
                "url": "https://hledgerfan.com/"
+            }, {
+               "date_added": "13345774343185175",
+               "date_last_used": "0",
+               "guid": "2e1b1137-cdd7-4961-8c5a-d03d97e7e9bd",
+               "id": "689",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Free Stock APIs in JSON & Excel | Alpha Vantage",
+               "type": "url",
+               "url": "https://www.alphavantage.co/"
             } ],
             "date_added": "13286184427695371",
             "date_last_used": "0",
-            "date_modified": "13344557152007422",
+            "date_modified": "13346177409927962",
             "guid": "fd4149b1-1c4a-4d6e-b5b8-182fa4b4c8cb",
             "id": "293",
             "name": "Finance & Investing",
