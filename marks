@@ -1,5 +1,5 @@
 {
-   "checksum": "13924623e3e7ef19f184c5fcb7bf4484",
+   "checksum": "dad76dc023fe2f8b16a3447530b167dc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -367,7 +367,7 @@
             } ],
             "date_added": "13266890914175791",
             "date_last_used": "0",
-            "date_modified": "13346177416729755",
+            "date_modified": "13346351695301989",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
             "name": "Systems Dev / Hardware",
@@ -3248,10 +3248,32 @@
             "name": "Rants, Ideas, Stuff",
             "type": "url",
             "url": "http://rantsideasstuff.com/"
+         }, {
+            "date_added": "13346823581166622",
+            "date_last_used": "0",
+            "guid": "86613f41-a4da-4e50-b463-a84a25ee3ad0",
+            "id": "694",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "erikw/vim-keybindings-everywhere-the-ultimate-list: The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.",
+            "type": "url",
+            "url": "https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list"
+         }, {
+            "date_added": "13347244608714479",
+            "date_last_used": "0",
+            "guid": "cfbb506a-8482-415d-8aab-dd6e89855b5e",
+            "id": "696",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "A guide to technical report writing",
+            "type": "url",
+            "url": "https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf"
          } ],
          "date_added": "13246877992587463",
          "date_last_used": "0",
-         "date_modified": "13344495630955537",
+         "date_modified": "13347244608714479",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

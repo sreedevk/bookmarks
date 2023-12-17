@@ -352,4 +352,6 @@
  [Analyses](https://jepsen.io/analyses)  
  [What's new | Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao](https://terrytao.wordpress.com/)  
  [Rants, Ideas, Stuff](http://rantsideasstuff.com/)  
+ [erikw/vim-keybindings-everywhere-the-ultimate-list: The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)  
+ [A guide to technical report writing](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)  
 # Mobile bookmarks
