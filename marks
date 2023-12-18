@@ -1,5 +1,5 @@
 {
-   "checksum": "dad76dc023fe2f8b16a3447530b167dc",
+   "checksum": "a9a32d6af49b28b0fffbdcbe4fb6d5de",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -364,10 +364,21 @@
                "name": "A Minimum Complete Tutorial of Linux ext4 File System",
                "type": "url",
                "url": "https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/"
+            }, {
+               "date_added": "13347384650743506",
+               "date_last_used": "0",
+               "guid": "d1410760-562a-4cf6-a007-fa914cf36364",
+               "id": "699",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Baby’s First Garbage Collector – journal.stuffwithstuff.com",
+               "type": "url",
+               "url": "https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/"
             } ],
             "date_added": "13266890914175791",
             "date_last_used": "0",
-            "date_modified": "13346351695301989",
+            "date_modified": "13347384653823313",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
             "name": "Systems Dev / Hardware",
@@ -1576,10 +1587,32 @@
                "name": "Designing a Programming Language to Speedrun Advent of Code",
                "type": "url",
                "url": "https://blog.vero.site/post/noulith"
+            }, {
+               "date_added": "13347295460106368",
+               "date_last_used": "0",
+               "guid": "252c7262-e946-4096-8418-89d5b95923bc",
+               "id": "697",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Superconsole, a Text-based User Interface (TUI) library written in Rust",
+               "type": "url",
+               "url": "https://developers.facebook.com/blog/post/2022/07/21/superconsole/"
+            }, {
+               "date_added": "13347384645993130",
+               "date_last_used": "0",
+               "guid": "33750a04-9b6d-48f3-9bcb-7b49a17468d8",
+               "id": "698",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Rebuilding Git in Ruby",
+               "type": "url",
+               "url": "https://thoughtbot.com/blog/rebuilding-git-in-ruby"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13344433306475045",
+            "date_modified": "13347384650743506",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
@@ -3273,7 +3306,7 @@
          } ],
          "date_added": "13246877992587463",
          "date_last_used": "0",
-         "date_modified": "13347244608714479",
+         "date_modified": "13347295460106368",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",

@@ -44,6 +44,7 @@
   [The Mysterious 50 Ohm Impedance: Where It Came From and Why We Use It | Blog | Altium Designer](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)  
   [Introduction - Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)  
   [A Minimum Complete Tutorial of Linux ext4 File System](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)  
+  [Baby’s First Garbage Collector – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -171,6 +172,8 @@
  [Learning Parser Combinators With Rust : Bodil dot lol](https://bodil.lol/parser-combinators/)  
  [Functional Programming in Lean - Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)  
   [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)  
+  [Superconsole, a Text-based User Interface (TUI) library written in Rust](https://developers.facebook.com/blog/post/2022/07/21/superconsole/)  
+  [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
   [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
