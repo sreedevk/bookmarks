@@ -45,6 +45,7 @@
   [Introduction - Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)  
   [A Minimum Complete Tutorial of Linux ext4 File System](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)  
   [Baby’s First Garbage Collector – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)  
+  [Introduction - DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/introduction.html)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -174,6 +175,8 @@
   [Designing a Programming Language to Speedrun Advent of Code](https://blog.vero.site/post/noulith)  
   [Superconsole, a Text-based User Interface (TUI) library written in Rust](https://developers.facebook.com/blog/post/2022/07/21/superconsole/)  
   [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)  
+  [Learning Rust: Combinators](https://kerkour.com/rust-combinators)  
+  [Real World OCaml](https://dev.realworldocaml.org/)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
   [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
@@ -357,4 +360,5 @@
  [Rants, Ideas, Stuff](http://rantsideasstuff.com/)  
  [erikw/vim-keybindings-everywhere-the-ultimate-list: The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)  
  [A guide to technical report writing](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)  
+ [Mechanical Watch – Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/)  
 # Mobile bookmarks

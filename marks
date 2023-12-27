@@ -1,5 +1,5 @@
 {
-   "checksum": "a9a32d6af49b28b0fffbdcbe4fb6d5de",
+   "checksum": "4313fb704b5804f6e04cd517d57b9124",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -375,10 +375,21 @@
                "name": "Baby’s First Garbage Collector – journal.stuffwithstuff.com",
                "type": "url",
                "url": "https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/"
+            }, {
+               "date_added": "13347403192137323",
+               "date_last_used": "0",
+               "guid": "25fdbdd0-d333-4ebf-a535-0155d1a550bd",
+               "id": "701",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Introduction - DMG-01: How to Emulate a Game Boy",
+               "type": "url",
+               "url": "https://rylev.github.io/DMG-01/public/book/introduction.html"
             } ],
             "date_added": "13266890914175791",
             "date_last_used": "0",
-            "date_modified": "13347384653823313",
+            "date_modified": "13347560218231796",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
             "name": "Systems Dev / Hardware",
@@ -1609,10 +1620,32 @@
                "name": "Rebuilding Git in Ruby",
                "type": "url",
                "url": "https://thoughtbot.com/blog/rebuilding-git-in-ruby"
+            }, {
+               "date_added": "13347560218231796",
+               "date_last_used": "0",
+               "guid": "51968606-2314-48d1-813f-59734ed2fe60",
+               "id": "702",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Learning Rust: Combinators",
+               "type": "url",
+               "url": "https://kerkour.com/rust-combinators"
+            }, {
+               "date_added": "13347689110255203",
+               "date_last_used": "0",
+               "guid": "11f78a2d-94bc-44bd-8d1a-74e5a74138e8",
+               "id": "704",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Real World OCaml",
+               "type": "url",
+               "url": "https://dev.realworldocaml.org/"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13347384650743506",
+            "date_modified": "13347689110255203",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
@@ -3303,10 +3336,21 @@
             "name": "A guide to technical report writing",
             "type": "url",
             "url": "https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf"
+         }, {
+            "date_added": "13347394868515870",
+            "date_last_used": "0",
+            "guid": "e2cc9090-e6b8-406c-85e0-6cc394f3691b",
+            "id": "700",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mechanical Watch – Bartosz Ciechanowski",
+            "type": "url",
+            "url": "https://ciechanow.ski/mechanical-watch/"
          } ],
          "date_added": "13246877992587463",
          "date_last_used": "0",
-         "date_modified": "13347295460106368",
+         "date_modified": "13347403192137323",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
