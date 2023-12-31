@@ -46,6 +46,7 @@
   [A Minimum Complete Tutorial of Linux ext4 File System](https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/)  
   [Baby’s First Garbage Collector – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)  
   [Introduction - DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/introduction.html)  
+  [Introduction - Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)  
 ## Programming
 ### Elixir / BEAM / Erlang
  [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -113,6 +114,7 @@
 ### OCaml
  [OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)  
  [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)  
+ [OCaml From the Ground Up](https://ocamlbook.org/)  
 ### C
  [C Programming Language Under A Microscope](https://www.slideshare.net/olvemaudal/deep-c/274)  
  [Algorithms in C](https://github.com/TheAlgorithms/C)  
@@ -177,9 +179,11 @@
   [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)  
   [Learning Rust: Combinators](https://kerkour.com/rust-combinators)  
   [Real World OCaml](https://dev.realworldocaml.org/)  
+  [500 Lines or LessAn Archaeology-Inspired Database](https://aosabook.org/en/500L/an-archaeology-inspired-database.html)  
 ## Audio
   [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
   [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
+  [Glicol](https://glicol.org/)  
 ## Geographic Information Systems
   [Map algebra, mathematical functions, and conditional functions - YouTube](https://www.youtube.com/watch?v=W3ahQJ0j5fI)  
   [PostGIS — Spatial and Geographic Objects for PostgreSQL](https://postgis.net/)  
@@ -239,6 +243,7 @@
   [unde](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
   [Chris's Wiki :: blog/linux/FlockFcntlAndNFS](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)  
   [Xlib - C Language X Interface](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html#Overview_of_the_X_Window_System)  
+  [All commands](https://www.commandlinefu.com/commands/browse)  
 ## Photography & Film
   [Creating Vintage Video Filters with FFmpeg - zayne.io](https://zayne.io/articles/vintage-camera-filters-with-ffmpeg)  
 # Other bookmarks

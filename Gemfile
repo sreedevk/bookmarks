@@ -1,4 +1,6 @@
-source "https://rubygems.org" do
-  gem "bkmrq"
-  gem "rake"
-end
+source "https://rubygems.org"
+
+gem "bkmrq"
+gem "rake"
+gem 'oj'
+gem 'pandoc-ruby'

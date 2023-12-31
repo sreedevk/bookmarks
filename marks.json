@@ -1,5 +1,5 @@
 {
-   "checksum": "4313fb704b5804f6e04cd517d57b9124",
+   "checksum": "42552374af9bab134d067b6188f3819d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -386,10 +386,21 @@
                "name": "Introduction - DMG-01: How to Emulate a Game Boy",
                "type": "url",
                "url": "https://rylev.github.io/DMG-01/public/book/introduction.html"
+            }, {
+               "date_added": "13348249730875946",
+               "date_last_used": "0",
+               "guid": "1d6f2132-d3f4-40c7-9b91-0ae29f65cdcd",
+               "id": "707",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Introduction - Writing NES Emulator in Rust",
+               "type": "url",
+               "url": "https://bugzmanov.github.io/nes_ebook/"
             } ],
             "date_added": "13266890914175791",
             "date_last_used": "0",
-            "date_modified": "13347560218231796",
+            "date_modified": "13348250012458561",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
             "name": "Systems Dev / Hardware",
@@ -991,10 +1002,21 @@
                   "name": "Unix system programming in OCaml",
                   "type": "url",
                   "url": "https://ocaml.github.io/ocamlunix/"
+               }, {
+                  "date_added": "13348250012458561",
+                  "date_last_used": "0",
+                  "guid": "1824982c-e278-4e66-bc70-bd424d593197",
+                  "id": "708",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "OCaml From the Ground Up",
+                  "type": "url",
+                  "url": "https://ocamlbook.org/"
                } ],
                "date_added": "13298358167062707",
                "date_last_used": "0",
-               "date_modified": "13337091022779610",
+               "date_modified": "13348364956042436",
                "guid": "e6266701-8675-403e-a11b-b1a9810db137",
                "id": "371",
                "name": "OCaml",
@@ -1642,10 +1664,21 @@
                "name": "Real World OCaml",
                "type": "url",
                "url": "https://dev.realworldocaml.org/"
+            }, {
+               "date_added": "13348364956042436",
+               "date_last_used": "0",
+               "guid": "4b193804-7c60-4375-bd22-f2110d4b2462",
+               "id": "710",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "500 Lines or LessAn Archaeology-Inspired Database",
+               "type": "url",
+               "url": "https://aosabook.org/en/500L/an-archaeology-inspired-database.html"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13347689110255203",
+            "date_modified": "13348519003592335",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
@@ -1670,10 +1703,21 @@
                "name": "Hackaday | Fresh Hacks Every Day",
                "type": "url",
                "url": "https://hackaday.com/"
+            }, {
+               "date_added": "13348519003592335",
+               "date_last_used": "0",
+               "guid": "fb1d40a1-4577-4509-b8d7-00fbda96b891",
+               "id": "712",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Glicol",
+               "type": "url",
+               "url": "https://glicol.org/"
             } ],
             "date_added": "13268888179191420",
             "date_last_used": "0",
-            "date_modified": "13345774343185175",
+            "date_modified": "13348519009161239",
             "guid": "9884c7a5-8967-4645-8146-b8d6e4d5f856",
             "id": "81",
             "name": "Audio",
@@ -2213,10 +2257,21 @@
                "name": "Xlib - C Language X Interface",
                "type": "url",
                "url": "https://www.x.org/releases/current/doc/libX11/libX11/libX11.html#Overview_of_the_X_Window_System"
+            }, {
+               "date_added": "13348218922380380",
+               "date_last_used": "0",
+               "guid": "94144808-19aa-435e-a086-221096cc1385",
+               "id": "706",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "All commands",
+               "type": "url",
+               "url": "https://www.commandlinefu.com/commands/browse"
             } ],
             "date_added": "13327724334696377",
             "date_last_used": "0",
-            "date_modified": "13328718464361664",
+            "date_modified": "13348249730875946",
             "guid": "547a497d-b179-4086-8c2b-23495626e47f",
             "id": "543",
             "name": "Linux",

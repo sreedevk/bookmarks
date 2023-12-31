@@ -6,7 +6,7 @@ namespace :bookmarks do
     sh('rm -rf bkmrq*.md README.md')
     sh('bkmrq -B brave')
     sh('mv bkmrq*.md README.md')
-    sh("cp /home/#{ENV['USER']}/.config/BraveSoftware/Brave-Browser/Default/Bookmarks ./marks")
+    sh("cp /home/#{ENV['USER']}/.config/BraveSoftware/Brave-Browser/Default/Bookmarks ./marks.json")
   end
 
   desc 'update bookmarks'
