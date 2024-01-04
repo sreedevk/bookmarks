@@ -3,10 +3,9 @@
 namespace :bookmarks do
   desc 'generate bookmarks (no push)'
   task :generate do
-    sh('rm -rf bkmrq*.md README.md')
-    sh('bkmrq -B brave')
-    sh('mv bkmrq*.md README.md')
-    sh("cp /home/#{ENV['USER']}/.config/BraveSoftware/Brave-Browser/Default/Bookmarks ./marks.json")
+    sh('rm -rf bkmrq*.md README.md raw-bookmarks.json')
+    sh('bkmrq -b brave -f markdown -o README.md')
+    sh("cp /home/#{ENV['USER']}/.config/BraveSoftware/Brave-Browser/Default/Bookmarks ./raw-bookmarks.json")
   end
 
   desc 'update bookmarks'

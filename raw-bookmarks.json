@@ -1,5 +1,5 @@
 {
-   "checksum": "42552374af9bab134d067b6188f3819d",
+   "checksum": "c1a9362da01bed65fb9f9344866e19e0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -397,10 +397,21 @@
                "name": "Introduction - Writing NES Emulator in Rust",
                "type": "url",
                "url": "https://bugzmanov.github.io/nes_ebook/"
+            }, {
+               "date_added": "13348777267143062",
+               "date_last_used": "0",
+               "guid": "769dbba7-3577-4658-8eb0-eb9601b4ae15",
+               "id": "716",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Maestro - Introduction",
+               "type": "url",
+               "url": "https://blog.lenot.re/a/introduction"
             } ],
             "date_added": "13266890914175791",
             "date_last_used": "0",
-            "date_modified": "13348250012458561",
+            "date_modified": "13348847124703109",
             "guid": "a56734ff-54c2-4ffb-95e2-e16ccfc5dce1",
             "id": "70",
             "name": "Systems Dev / Hardware",
@@ -1675,6 +1686,26 @@
                "name": "500 Lines or LessAn Archaeology-Inspired Database",
                "type": "url",
                "url": "https://aosabook.org/en/500L/an-archaeology-inspired-database.html"
+            }, {
+               "children": [ {
+                  "date_added": "13348729868708376",
+                  "date_last_used": "0",
+                  "guid": "340ebce4-8f28-48bb-adbb-bc0b135940e2",
+                  "id": "714",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Easy EdgeDB - The illustrated textbook | EdgeDB",
+                  "type": "url",
+                  "url": "https://www.edgedb.com/easy-edgedb"
+               } ],
+               "date_added": "13348729885913740",
+               "date_last_used": "0",
+               "date_modified": "13348777267143062",
+               "guid": "5ae8daf2-b871-4a21-af93-d58a1905f438",
+               "id": "715",
+               "name": "Databases",
+               "type": "folder"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
@@ -1717,7 +1748,7 @@
             } ],
             "date_added": "13268888179191420",
             "date_last_used": "0",
-            "date_modified": "13348519009161239",
+            "date_modified": "13348682690006658",
             "guid": "9884c7a5-8967-4645-8146-b8d6e4d5f856",
             "id": "81",
             "name": "Audio",
@@ -2268,10 +2299,21 @@
                "name": "All commands",
                "type": "url",
                "url": "https://www.commandlinefu.com/commands/browse"
+            }, {
+               "date_added": "13348847124703109",
+               "date_last_used": "0",
+               "guid": "8b9d5714-0353-4bec-9aff-c677d2371f34",
+               "id": "718",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "System and Service Manager",
+               "type": "url",
+               "url": "https://systemd.io/"
             } ],
             "date_added": "13327724334696377",
             "date_last_used": "0",
-            "date_modified": "13348249730875946",
+            "date_modified": "13348847130036897",
             "guid": "547a497d-b179-4086-8c2b-23495626e47f",
             "id": "543",
             "name": "Linux",
@@ -2296,10 +2338,21 @@
             "id": "675",
             "name": "Photography & Film",
             "type": "folder"
+         }, {
+            "date_added": "13348682690006658",
+            "date_last_used": "0",
+            "guid": "ac6bea81-21a5-4d0d-b3f8-eff2c76450da",
+            "id": "713",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.",
+            "type": "url",
+            "url": "https://standardebooks.org/"
          } ],
          "date_added": "13246877992587460",
          "date_last_used": "0",
-         "date_modified": "13344495043516775",
+         "date_modified": "13348729868708376",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
