@@ -182,10 +182,13 @@
 [500 Lines or LessAn Archaeology-Inspired Database](https://aosabook.org/en/500L/an-archaeology-inspired-database.html)  
 #### Databases
 [Easy EdgeDB - The illustrated textbook | EdgeDB](https://www.edgedb.com/easy-edgedb)  
+[SIMD in Pure Python | Blog](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)  
+[looo.lol - a binary math site](https://looo.lol/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
 [Glicol](https://glicol.org/)  
+[Pulse-code modulation - Wikipedia](https://en.wikipedia.org/wiki/Pulse-code_modulation)  
 ### Geographic Information Systems
 [Map algebra, mathematical functions, and conditional functions - YouTube](https://www.youtube.com/watch?v=W3ahQJ0j5fI)  
 [PostGIS — Spatial and Geographic Objects for PostgreSQL](https://postgis.net/)  
