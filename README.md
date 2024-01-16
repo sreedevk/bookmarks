@@ -47,6 +47,11 @@
 [Introduction - DMG-01: How to Emulate a Game Boy](https://rylev.github.io/DMG-01/public/book/introduction.html)  
 [Introduction - Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)  
 [Maestro - Introduction](https://blog.lenot.re/a/introduction)  
+#### Heltec esp32 v3
+[Wifi kit 32 V3 I2C - ESP Arduino(ESP8266,ESP32) - Heltec Automation Technical Community](http://community.heltec.cn/t/wifi-kit-32-v3-i2c/12544)  
+[HTIT-WB32LA(F)_V3.png (3074×2379)](https://resource.heltec.cn/download/WiFi_LoRa_32_V3/HTIT-WB32LA(F)_V3.png)  
+[HelTecAutomation/Heltec_ESP32: Arduino library for Heltec ESP32 (or ESP32+LoRa) based boards](https://github.com/HelTecAutomation/Heltec_ESP32/tree/master)  
+[WiFi LoRa 32(V3) – Heltec Automation](https://heltec.org/project/wifi-lora-32-v3/)  
 ### Programming
 #### Elixir / BEAM / Erlang
 [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
