@@ -52,6 +52,7 @@
 [HTIT-WB32LA(F)_V3.png (3074×2379)](https://resource.heltec.cn/download/WiFi_LoRa_32_V3/HTIT-WB32LA(F)_V3.png)  
 [HelTecAutomation/Heltec_ESP32: Arduino library for Heltec ESP32 (or ESP32+LoRa) based boards](https://github.com/HelTecAutomation/Heltec_ESP32/tree/master)  
 [WiFi LoRa 32(V3) – Heltec Automation](https://heltec.org/project/wifi-lora-32-v3/)  
+[Heltec WiFi LoRa 32 (V3) Development Board (HTIT-WB32LA_V3) Configuration for Tasmota](https://templates.blakadder.com/heltec_HTIT-WB32LA_V3.html)  
 ### Programming
 #### Elixir / BEAM / Erlang
 [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -190,6 +191,8 @@
 [SIMD in Pure Python | Blog](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)  
 [The Architecture of Open Source Applications (Volume 1)Sendmail](https://aosabook.org/en/v1/sendmail.html)  
 [the morning paper | a random walk through Computer Science research, by Adrian Colyer](https://blog.acolyer.org/)  
+[Willow Specifications - Willow](https://willowprotocol.org/)  
+[Babashka book](https://book.babashka.org/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
@@ -227,6 +230,7 @@
 [AST explorer](https://astexplorer.net/)  
 [TLS, byte by byte](https://bytebybyte.dev/)  
 [Multi-Language REPL](https://tio.run/#io)  
+[Mosh: the mobile shell](https://mosh.org/#usage)  
 ### Data Science & Analytics
 [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
 [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -268,6 +272,8 @@
 ### Photography & Film
 [Creating Vintage Video Filters with FFmpeg - zayne.io](https://zayne.io/articles/vintage-camera-filters-with-ffmpeg)  
 [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)  
+### Lit & Art
+[The Girls in Their Summer Dresses--Irwin Shaw (1913-1984)](https://www.classicshorts.com/stories/dresses.html)  
 ## Other bookmarks
 [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
 [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  
