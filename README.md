@@ -193,6 +193,9 @@
 [the morning paper | a random walk through Computer Science research, by Adrian Colyer](https://blog.acolyer.org/)  
 [Willow Specifications - Willow](https://willowprotocol.org/)  
 [Babashka book](https://book.babashka.org/)  
+[Microsoft Word - ISMIR-2003-Shazam-rev2.doc](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)  
+[flat assembler](https://flatassembler.net/)  
+[Guido van Rossum. Reflections on the asyncio.Semaphore class - Prog.World](https://prog.world/guido-van-rossum-reflections-on-the-asyncio-semaphore-class/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
@@ -269,6 +272,7 @@
 [Xlib - C Language X Interface](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html#Overview_of_the_X_Window_System)  
 [All commands](https://www.commandlinefu.com/commands/browse)  
 [System and Service Manager](https://systemd.io/)  
+[mkinitcpio - ArchWiki](https://wiki.archlinux.org/title/Mkinitcpio#Possibly_missing_firmware_for_module_XXXX)  
 ### Photography & Film
 [Creating Vintage Video Filters with FFmpeg - zayne.io](https://zayne.io/articles/vintage-camera-filters-with-ffmpeg)  
 [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)  
