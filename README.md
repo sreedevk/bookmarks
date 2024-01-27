@@ -244,6 +244,7 @@
 [What is a Vector Database? | Pinecone](https://www.pinecone.io/learn/vector-database/)  
 [Prolog for data science - Emir's blog](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)  
 [Paradigms of Artificial Intelligence Programming](https://norvig.github.io/paip-lisp/#/)  
+[Run LLMs on Your CPU with Llama.cpp: A Step-by-Step Guide](https://awinml.github.io/llm-ggml-python/)  
 ### Math
 [Category Theory Illustration](https://boris-marinov.github.io/category-theory-illustrated/00_about/)  
 [Monad - Wikipedia](https://en.wikipedia.org/wiki/Monad)  
@@ -396,3 +397,4 @@
 [Are we Automata?](https://psychclassics.yorku.ca/James/automata.htm)  
 [Tenderlove Making | Engineering Blog By Aaron Patterson](https://tenderlovemaking.com/)  
 [Useful utilities and toys over DNS](https://www.dns.toys/)  
+[David Mills - Creator of Network Time Protocol](https://www.eecis.udel.edu/~mills/david.html)  
