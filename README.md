@@ -196,6 +196,7 @@
 [Microsoft Word - ISMIR-2003-Shazam-rev2.doc](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)  
 [flat assembler](https://flatassembler.net/)  
 [Guido van Rossum. Reflections on the asyncio.Semaphore class - Prog.World](https://prog.world/guido-van-rossum-reflections-on-the-asyncio-semaphore-class/)  
+[poor.dev](https://poor.dev/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
@@ -234,6 +235,7 @@
 [TLS, byte by byte](https://bytebybyte.dev/)  
 [Multi-Language REPL](https://tio.run/#io)  
 [Mosh: the mobile shell](https://mosh.org/#usage)  
+[teropa.info/harmonics-explorer/](https://teropa.info/harmonics-explorer/)  
 ### Data Science & Analytics
 [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets#climate-weather)  
 [Public Open APIs](https://github.com/public-apis/public-apis)  
@@ -245,6 +247,7 @@
 [Prolog for data science - Emir's blog](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)  
 [Paradigms of Artificial Intelligence Programming](https://norvig.github.io/paip-lisp/#/)  
 [Run LLMs on Your CPU with Llama.cpp: A Step-by-Step Guide](https://awinml.github.io/llm-ggml-python/)  
+[Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)  
 ### Math
 [Category Theory Illustration](https://boris-marinov.github.io/category-theory-illustrated/00_about/)  
 [Monad - Wikipedia](https://en.wikipedia.org/wiki/Monad)  
@@ -274,11 +277,16 @@
 [All commands](https://www.commandlinefu.com/commands/browse)  
 [System and Service Manager](https://systemd.io/)  
 [mkinitcpio - ArchWiki](https://wiki.archlinux.org/title/Mkinitcpio#Possibly_missing_firmware_for_module_XXXX)  
+[Sxmo: Simple X Mobile](https://sxmo.org/)  
 ### Photography & Film
 [Creating Vintage Video Filters with FFmpeg - zayne.io](https://zayne.io/articles/vintage-camera-filters-with-ffmpeg)  
 [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)  
 ### Lit & Art
 [The Girls in Their Summer Dresses--Irwin Shaw (1913-1984)](https://www.classicshorts.com/stories/dresses.html)  
+[CNC Lasers (cutters, engravers) · Jacques Mattheij](https://jacquesmattheij.com/cnc-lasers/)  
+[The Ur Programming Language Family](http://impredicative.com/ur/)  
+[Pikchr: Documentation](https://pikchr.org/home/doc/trunk/homepage.md)  
+[Home - The Retro Web](https://theretroweb.com/)  
 ## Other bookmarks
 [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
 [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  

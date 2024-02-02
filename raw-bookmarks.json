@@ -1,5 +1,5 @@
 {
-   "checksum": "aa0bb1851409737d5767daf97883fcae",
+   "checksum": "4945ef2bb3f7b0ef029e5104e983c5ed",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -422,7 +422,7 @@
                   "url": "http://community.heltec.cn/t/wifi-kit-32-v3-i2c/12544"
                }, {
                   "date_added": "13349676065636846",
-                  "date_last_used": "13350182338408780",
+                  "date_last_used": "0",
                   "guid": "d69b08a0-6ee1-4aec-b2e9-a9ed17810c55",
                   "id": "739",
                   "meta_info": {
@@ -433,7 +433,7 @@
                   "url": "https://resource.heltec.cn/download/WiFi_LoRa_32_V3/HTIT-WB32LA(F)_V3.png"
                }, {
                   "date_added": "13349676071246281",
-                  "date_last_used": "13350182353153851",
+                  "date_last_used": "0",
                   "guid": "197372d5-0c3e-4bf8-89df-e482cf3620be",
                   "id": "740",
                   "meta_info": {
@@ -455,7 +455,7 @@
                   "url": "https://heltec.org/project/wifi-lora-32-v3/"
                }, {
                   "date_added": "13350022948517006",
-                  "date_last_used": "13350024410842951",
+                  "date_last_used": "0",
                   "guid": "944abd87-3cdb-4a4a-8054-24b9e1392ec9",
                   "id": "748",
                   "meta_info": {
@@ -1299,7 +1299,7 @@
                "url": "https://beej.us/guide/bgnet/html/split/"
             }, {
                "date_added": "13329255311700962",
-               "date_last_used": "13335979733788741",
+               "date_last_used": "0",
                "guid": "7ee273f2-5064-400c-9674-1edadc38774d",
                "id": "583",
                "meta_info": {
@@ -1794,7 +1794,7 @@
                "url": "https://aosabook.org/en/v1/sendmail.html"
             }, {
                "date_added": "13284698698239770",
-               "date_last_used": "13349323861834274",
+               "date_last_used": "0",
                "guid": "9c86dd9c-581c-4037-858c-9418004e110e",
                "id": "273",
                "name": "the morning paper | a random walk through Computer Science research, by Adrian Colyer",
@@ -1855,10 +1855,21 @@
                "name": "Guido van Rossum. Reflections on the asyncio.Semaphore class - Prog.World",
                "type": "url",
                "url": "https://prog.world/guido-van-rossum-reflections-on-the-asyncio-semaphore-class/"
+            }, {
+               "date_added": "13351090827615825",
+               "date_last_used": "0",
+               "guid": "50d6db29-5b0c-43b1-aa8f-a9f093976805",
+               "id": "772",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "poor.dev",
+               "type": "url",
+               "url": "https://poor.dev/"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13350721649646864",
+            "date_modified": "13351314115450906",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
@@ -1866,7 +1877,7 @@
          }, {
             "children": [ {
                "date_added": "13268888180772428",
-               "date_last_used": "13337583804430505",
+               "date_last_used": "0",
                "guid": "7956471c-eee1-4375-84f3-81b5c9fba4d7",
                "id": "82",
                "name": "C++ Wav Audio Programming From Scratch",
@@ -1916,7 +1927,7 @@
          }, {
             "children": [ {
                "date_added": "13268888197210687",
-               "date_last_used": "13337583704381386",
+               "date_last_used": "0",
                "guid": "5fae6c83-3024-490e-9478-ae700240edb6",
                "id": "84",
                "name": "Map algebra, mathematical functions, and conditional functions - YouTube",
@@ -1932,7 +1943,7 @@
                "url": "https://postgis.net/"
             }, {
                "date_added": "13279059679693745",
-               "date_last_used": "13337572792316858",
+               "date_last_used": "0",
                "guid": "8d73635d-b356-4b8a-af36-312885d70cd2",
                "id": "175",
                "name": "Latitutde & Longitude Calculations",
@@ -1940,7 +1951,7 @@
                "url": "https://www.sisense.com/blog/latitude-longitude-distance-calculation-explained/"
             }, {
                "date_added": "13279059697695602",
-               "date_last_used": "13334862098078917",
+               "date_last_used": "0",
                "guid": "0e3f828e-7ebf-4344-90ac-024f3af040ed",
                "id": "176",
                "name": "Lat Long Calculations",
@@ -2095,7 +2106,7 @@
                "url": "https://app.gleek.io/"
             }, {
                "date_added": "13329774052613107",
-               "date_last_used": "13337391441499328",
+               "date_last_used": "0",
                "guid": "e69d802b-84ce-43c8-801d-264b9d7627cb",
                "id": "592",
                "meta_info": {
@@ -2106,7 +2117,7 @@
                "url": "https://daisyui.com/"
             }, {
                "date_added": "13279592886045269",
-               "date_last_used": "13349323951825915",
+               "date_last_used": "0",
                "guid": "18157122-aa62-4eb8-aafc-d49ce50fb5c1",
                "id": "206",
                "name": "Free SVG Patterns",
@@ -2145,7 +2156,7 @@
                "url": "https://excalidraw.com/"
             }, {
                "date_added": "13348972213802161",
-               "date_last_used": "13349323775791659",
+               "date_last_used": "0",
                "guid": "a27b33b1-190b-4aef-b98c-99cbb30a8bf3",
                "id": "721",
                "meta_info": {
@@ -2156,7 +2167,7 @@
                "url": "https://looo.lol/"
             }, {
                "date_added": "13349051458997741",
-               "date_last_used": "13349323812487178",
+               "date_last_used": "0",
                "guid": "b37ab1b2-a270-466b-8cf2-3979e425401b",
                "id": "725",
                "meta_info": {
@@ -2167,7 +2178,7 @@
                "url": "https://time.fyi/timezones"
             }, {
                "date_added": "13278962825464796",
-               "date_last_used": "13349323824382265",
+               "date_last_used": "0",
                "guid": "ee051f83-a2e1-4e43-ac72-c2f2f61c3da0",
                "id": "166",
                "name": "AST explorer",
@@ -2186,7 +2197,7 @@
                "url": "https://bytebybyte.dev/"
             }, {
                "date_added": "13279059205929424",
-               "date_last_used": "13349323935740190",
+               "date_last_used": "0",
                "guid": "f757848e-1687-412d-930d-e0cf79b62322",
                "id": "172",
                "name": "Multi-Language REPL",
@@ -2203,10 +2214,21 @@
                "name": "Mosh: the mobile shell",
                "type": "url",
                "url": "https://mosh.org/#usage"
+            }, {
+               "date_added": "13351040889189876",
+               "date_last_used": "0",
+               "guid": "9a640380-976e-4d01-8dbb-eee5c4f65722",
+               "id": "770",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "teropa.info/harmonics-explorer/",
+               "type": "url",
+               "url": "https://teropa.info/harmonics-explorer/"
             } ],
             "date_added": "13349323742840462",
             "date_last_used": "0",
-            "date_modified": "13349974391015693",
+            "date_modified": "13351090827615825",
             "guid": "d9099c22-d971-42d1-ad63-1a2a7cf64012",
             "id": "733",
             "name": "Tools",
@@ -2214,7 +2236,7 @@
          }, {
             "children": [ {
                "date_added": "13269985219427626",
-               "date_last_used": "13337716673526820",
+               "date_last_used": "0",
                "guid": "83435ff5-5943-40a2-a4cb-2eb638932530",
                "id": "89",
                "name": "Awesome Datasets",
@@ -2222,7 +2244,7 @@
                "url": "https://github.com/awesomedata/awesome-public-datasets#climate-weather"
             }, {
                "date_added": "13273411937479027",
-               "date_last_used": "13337585043395161",
+               "date_last_used": "0",
                "guid": "11c35aab-be56-4bb1-8e43-132db7a4585d",
                "id": "99",
                "name": "Public Open APIs",
@@ -2230,7 +2252,7 @@
                "url": "https://github.com/public-apis/public-apis"
             }, {
                "date_added": "13279059434474181",
-               "date_last_used": "13337572841098895",
+               "date_last_used": "0",
                "guid": "75ff9184-071d-44b5-9c09-9b87cccde639",
                "id": "173",
                "name": "Kaggle",
@@ -2238,7 +2260,7 @@
                "url": "https://www.kaggle.com/datasets"
             }, {
                "date_added": "13286355617070761",
-               "date_last_used": "13337583683575306",
+               "date_last_used": "0",
                "guid": "b7e24664-6565-4c8d-9609-f4b4c5f14ca8",
                "id": "299",
                "name": "Introduction to dplyr • dplyr",
@@ -2300,10 +2322,21 @@
                   "name": "Run LLMs on Your CPU with Llama.cpp: A Step-by-Step Guide",
                   "type": "url",
                   "url": "https://awinml.github.io/llm-ggml-python/"
+               }, {
+                  "date_added": "13351314115450906",
+                  "date_last_used": "0",
+                  "guid": "80e97588-512a-4962-877e-c0f19151616d",
+                  "id": "776",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Prompt Engineering Guide | Prompt Engineering Guide",
+                  "type": "url",
+                  "url": "https://www.promptingguide.ai/"
                } ],
                "date_added": "13337888166170203",
                "date_last_used": "0",
-               "date_modified": "13350749833649025",
+               "date_modified": "13351352542907064",
                "guid": "a7c12c4c-fc33-42c7-86d3-98ac2de9592c",
                "id": "667",
                "name": "Machine Learning",
@@ -2327,7 +2360,7 @@
                "url": "https://boris-marinov.github.io/category-theory-illustrated/00_about/"
             }, {
                "date_added": "13279228180918088",
-               "date_last_used": "13337585295901834",
+               "date_last_used": "0",
                "guid": "400b4fc9-5396-472d-b5fe-95f1888d09f7",
                "id": "200",
                "name": "Monad - Wikipedia",
@@ -2335,7 +2368,7 @@
                "url": "https://en.wikipedia.org/wiki/Monad"
             }, {
                "date_added": "13279209443718690",
-               "date_last_used": "13337583960203275",
+               "date_last_used": "0",
                "guid": "d41f0eda-55fe-43de-8d5f-39719cb93123",
                "id": "199",
                "name": "The Algebra of Types",
@@ -2351,7 +2384,7 @@
                "url": "https://github.com/rougier/scientific-visualization-book"
             }, {
                "date_added": "13313007302253654",
-               "date_last_used": "13337580826982170",
+               "date_last_used": "0",
                "guid": "0233500f-860f-4652-8854-209c83ca4541",
                "id": "431",
                "meta_info": {
@@ -2433,7 +2466,7 @@
                "url": "https://openbb.co/"
             }, {
                "date_added": "13344439394102438",
-               "date_last_used": "13344446522884291",
+               "date_last_used": "0",
                "guid": "1e35bbcc-9a9d-40f7-974e-1310af9c32c9",
                "id": "679",
                "meta_info": {
@@ -2527,7 +2560,7 @@
                "url": "https://www.if-not-true-then-false.com/"
             }, {
                "date_added": "13328188074887865",
-               "date_last_used": "13337584888112595",
+               "date_last_used": "0",
                "guid": "518d0812-2589-4371-b3b9-d60a33d35c6d",
                "id": "555",
                "meta_info": {
@@ -2591,10 +2624,21 @@
                "name": "mkinitcpio - ArchWiki",
                "type": "url",
                "url": "https://wiki.archlinux.org/title/Mkinitcpio#Possibly_missing_firmware_for_module_XXXX"
+            }, {
+               "date_added": "13350842835571175",
+               "date_last_used": "0",
+               "guid": "b4cf469c-b297-41ed-8d6d-f52155e13af4",
+               "id": "761",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Sxmo: Simple X Mobile",
+               "type": "url",
+               "url": "https://sxmo.org/"
             } ],
             "date_added": "13327724334696377",
             "date_last_used": "0",
-            "date_modified": "13350702149259045",
+            "date_modified": "13350842904112801",
             "guid": "547a497d-b179-4086-8c2b-23495626e47f",
             "id": "543",
             "name": "Linux",
@@ -2650,10 +2694,54 @@
             "id": "744",
             "name": "Lit & Art",
             "type": "folder"
+         }, {
+            "date_added": "13350842904112801",
+            "date_last_used": "0",
+            "guid": "db62f741-cb0f-4707-8aa5-95c743f04d38",
+            "id": "762",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CNC Lasers (cutters, engravers) · Jacques Mattheij",
+            "type": "url",
+            "url": "https://jacquesmattheij.com/cnc-lasers/"
+         }, {
+            "date_added": "13350849770731676",
+            "date_last_used": "0",
+            "guid": "2d724402-5f52-4f8a-8baa-5cf30c4c5b20",
+            "id": "764",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Ur Programming Language Family",
+            "type": "url",
+            "url": "http://impredicative.com/ur/"
+         }, {
+            "date_added": "13350893576945897",
+            "date_last_used": "0",
+            "guid": "69922a72-0f2c-412e-af4b-72e42f444273",
+            "id": "766",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pikchr: Documentation",
+            "type": "url",
+            "url": "https://pikchr.org/home/doc/trunk/homepage.md"
+         }, {
+            "date_added": "13351352542907064",
+            "date_last_used": "0",
+            "guid": "29f305f6-fddb-417d-a599-cf18823bf0b3",
+            "id": "778",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home - The Retro Web",
+            "type": "url",
+            "url": "https://theretroweb.com/"
          } ],
          "date_added": "13246877992587460",
          "date_last_used": "0",
-         "date_modified": "13349323748942392",
+         "date_modified": "13351352593434713",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
@@ -3070,7 +3158,7 @@
             "url": "http://106.51.131.254:8073/"
          }, {
             "date_added": "13291794060073671",
-            "date_last_used": "13337572065010401",
+            "date_last_used": "0",
             "guid": "fd569817-e0d4-4c6a-96ce-496bb1d02701",
             "id": "331",
             "name": "Dashboard - Groww",
@@ -3142,7 +3230,7 @@
             "url": "https://github.com/atsepkov/awesome-awesome-wm"
          }, {
             "date_added": "13310958485763834",
-            "date_last_used": "13349323886475249",
+            "date_last_used": "0",
             "guid": "4b57a4a6-e884-4b91-aa37-664287664383",
             "id": "407",
             "name": "Add Tailwind CSS to your Yew project - YouTube",
@@ -3446,7 +3534,7 @@
             "url": "https://e2eml.school/transformers.html"
          }, {
             "date_added": "13328189121364224",
-            "date_last_used": "13349323916663173",
+            "date_last_used": "0",
             "guid": "e6589a67-fe93-4f7a-a563-73934bed73f8",
             "id": "556",
             "meta_info": {
@@ -3766,7 +3854,7 @@
          } ],
          "date_added": "13246877992587463",
          "date_last_used": "0",
-         "date_modified": "13350749838891726",
+         "date_modified": "13350842835571175",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
