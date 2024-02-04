@@ -1,5 +1,5 @@
 {
-   "checksum": "4945ef2bb3f7b0ef029e5104e983c5ed",
+   "checksum": "8ab0fe255d93246881d4fc01e7186ed4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -464,10 +464,21 @@
                   "name": "Heltec WiFi LoRa 32 (V3) Development Board (HTIT-WB32LA_V3) Configuration for Tasmota",
                   "type": "url",
                   "url": "https://templates.blakadder.com/heltec_HTIT-WB32LA_V3.html"
+               }, {
+                  "date_added": "13351508390052548",
+                  "date_last_used": "0",
+                  "guid": "37c808bd-2c35-4a35-ae9f-956c586a7471",
+                  "id": "780",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Microdot: a web framework for microcontrollers [LWN.net]",
+                  "type": "url",
+                  "url": "https://lwn.net//Articles/959067/"
                } ],
                "date_added": "13349675878226440",
                "date_last_used": "0",
-               "date_modified": "13350061856926310",
+               "date_modified": "13351521957978875",
                "guid": "ffc72dc5-b0b6-44ef-8a46-63836e5a3948",
                "id": "738",
                "name": "Heltec esp32 v3",
@@ -1866,10 +1877,43 @@
                "name": "poor.dev",
                "type": "url",
                "url": "https://poor.dev/"
+            }, {
+               "date_added": "13351521957978875",
+               "date_last_used": "0",
+               "guid": "579cef9f-7dcc-46e4-bf44-726a78cc44dc",
+               "id": "782",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "All Functions - Uiua Docs",
+               "type": "url",
+               "url": "https://www.uiua.org/docs/all-functions"
+            }, {
+               "date_added": "13351547449366692",
+               "date_last_used": "0",
+               "guid": "11791c51-47c1-43bf-95c8-aef2cd9360ad",
+               "id": "784",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Browser extensions are underrated: the promise of hackable software",
+               "type": "url",
+               "url": "https://www.geoffreylitt.com/2019/07/29/browser-extensions"
+            }, {
+               "date_added": "13351547532998696",
+               "date_last_used": "0",
+               "guid": "27580bb4-7804-4114-b526-2331be0c4632",
+               "id": "785",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Interpreting Neural Networks through the Polytope Lens — LessWrong",
+               "type": "url",
+               "url": "https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13351314115450906",
+            "date_modified": "13351547532998696",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
@@ -2741,7 +2785,7 @@
          } ],
          "date_added": "13246877992587460",
          "date_last_used": "0",
-         "date_modified": "13351352593434713",
+         "date_modified": "13351508390052548",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
@@ -2758,7 +2802,7 @@
             "url": "https://github.com/iptv-org/iptv"
          }, {
             "date_added": "13274989386270615",
-            "date_last_used": "0",
+            "date_last_used": "13351508331273618",
             "guid": "73014f57-61a5-468e-9680-a51c058d9d3d",
             "id": "131",
             "name": "The Big Little Guide to Message Queues",
@@ -2766,7 +2810,7 @@
             "url": "https://sudhir.io/the-big-little-guide-to-message-queues/"
          }, {
             "date_added": "13276655253440203",
-            "date_last_used": "0",
+            "date_last_used": "13351508329137792",
             "guid": "1bf43425-c75d-48f7-a754-5db850c9cbcd",
             "id": "153",
             "name": "microsoft/QuantumKatas: Q# & Quantum Computing  ",
@@ -3094,7 +3138,7 @@
             "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434"
          }, {
             "date_added": "13286482198021519",
-            "date_last_used": "0",
+            "date_last_used": "13351508332971805",
             "guid": "2b850ae0-e7f4-4f38-a19e-40be69ae09c5",
             "id": "307",
             "name": "Writing a Game Boy Emulator in OCaml - The Linoscope Machine",

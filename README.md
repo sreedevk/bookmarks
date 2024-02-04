@@ -53,6 +53,7 @@
 [HelTecAutomation/Heltec_ESP32: Arduino library for Heltec ESP32 (or ESP32+LoRa) based boards](https://github.com/HelTecAutomation/Heltec_ESP32/tree/master)  
 [WiFi LoRa 32(V3) – Heltec Automation](https://heltec.org/project/wifi-lora-32-v3/)  
 [Heltec WiFi LoRa 32 (V3) Development Board (HTIT-WB32LA_V3) Configuration for Tasmota](https://templates.blakadder.com/heltec_HTIT-WB32LA_V3.html)  
+[Microdot: a web framework for microcontrollers [LWN.net]](https://lwn.net//Articles/959067/)  
 ### Programming
 #### Elixir / BEAM / Erlang
 [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -197,6 +198,9 @@
 [flat assembler](https://flatassembler.net/)  
 [Guido van Rossum. Reflections on the asyncio.Semaphore class - Prog.World](https://prog.world/guido-van-rossum-reflections-on-the-asyncio-semaphore-class/)  
 [poor.dev](https://poor.dev/)  
+[All Functions - Uiua Docs](https://www.uiua.org/docs/all-functions)  
+[Browser extensions are underrated: the promise of hackable software](https://www.geoffreylitt.com/2019/07/29/browser-extensions)  
+[Interpreting Neural Networks through the Polytope Lens — LessWrong](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
