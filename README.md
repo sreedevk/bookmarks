@@ -201,6 +201,8 @@
 [All Functions - Uiua Docs](https://www.uiua.org/docs/all-functions)  
 [Browser extensions are underrated: the promise of hackable software](https://www.geoffreylitt.com/2019/07/29/browser-extensions)  
 [Interpreting Neural Networks through the Polytope Lens — LessWrong](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)  
+[Command Line Interface Guidelines](https://clig.dev/)  
+[SQL for the Weary](https://gvwilson.github.io/sql-tutorial/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  

@@ -1,5 +1,5 @@
 {
-   "checksum": "8ab0fe255d93246881d4fc01e7186ed4",
+   "checksum": "9a0e8d55981e15de388c412860684aba",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1910,10 +1910,32 @@
                "name": "Interpreting Neural Networks through the Polytope Lens — LessWrong",
                "type": "url",
                "url": "https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens"
+            }, {
+               "date_added": "13351724209828564",
+               "date_last_used": "0",
+               "guid": "f7e16348-ee9a-4081-8f0c-84a1e29e13d8",
+               "id": "787",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Command Line Interface Guidelines",
+               "type": "url",
+               "url": "https://clig.dev/"
+            }, {
+               "date_added": "13351748578303536",
+               "date_last_used": "0",
+               "guid": "80044387-e7f2-4fac-80b6-e5822a63afba",
+               "id": "789",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "SQL for the Weary",
+               "type": "url",
+               "url": "https://gvwilson.github.io/sql-tutorial/"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13351547532998696",
+            "date_modified": "13351748578303536",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
