@@ -2,6 +2,7 @@
 ![library](https://raw.githubusercontent.com/sreedevk/bkmrq/development/assets/library.png)
 # *
 ## Bookmarks
+[Subscribe](javascript:(function(){var%20url%20=%20location.href;var%20otherWindow=window.open('about:blank','_blank');otherWindow.opener=null;otherWindow.location='http://rpi4b.local/freshrss/i/?c=feed&a=add&url_rss=%27+encodeURIComponent(url);})();)  
 ### Systems Dev / Hardware
 [OS From Scratch](https://github.com/cfenollosa/os-tutorial)  
 [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4)  
@@ -203,6 +204,14 @@
 [Interpreting Neural Networks through the Polytope Lens — LessWrong](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)  
 [Command Line Interface Guidelines](https://clig.dev/)  
 [SQL for the Weary](https://gvwilson.github.io/sql-tutorial/)  
+[Expanded Main Page - OSDev Wiki](https://wiki.osdev.org/Expanded_Main_Page)  
+[The Ares Operating System | Ares](https://ares-os.org/)  
+[Drew DeVault's blog](https://drewdevault.com/)  
+[The Hare programming language](https://harelang.org/)  
+[QBE - Compiler Backend](https://c9x.me/compile/)  
+[Crafting Interpreters](https://craftinginterpreters.com/)  
+[Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)  
+[A Guide to Zsh Expansion with Examples](https://thevaluable.dev/zsh-expansion-guide-example/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
@@ -254,6 +263,7 @@
 [Paradigms of Artificial Intelligence Programming](https://norvig.github.io/paip-lisp/#/)  
 [Run LLMs on Your CPU with Llama.cpp: A Step-by-Step Guide](https://awinml.github.io/llm-ggml-python/)  
 [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)  
+[A guide to prompting Llama 2 – Replicate](https://replicate.com/blog/how-to-prompt-llama)  
 ### Math
 [Category Theory Illustration](https://boris-marinov.github.io/category-theory-illustrated/00_about/)  
 [Monad - Wikipedia](https://en.wikipedia.org/wiki/Monad)  
@@ -293,6 +303,8 @@
 [The Ur Programming Language Family](http://impredicative.com/ur/)  
 [Pikchr: Documentation](https://pikchr.org/home/doc/trunk/homepage.md)  
 [Home - The Retro Web](https://theretroweb.com/)  
+[PRQ - Colocation, Dedicated Servers, Web hosting, VPN Tunnels, Privacy services.](https://prq.se/)  
+[Smart Terminals: Personal Computing’s True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)  
 ## Other bookmarks
 [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
 [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  

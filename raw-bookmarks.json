@@ -1,8 +1,16 @@
 {
-   "checksum": "9a0e8d55981e15de388c412860684aba",
+   "checksum": "0e2d086a50ac97d20a0abf7c6ac38344",
    "roots": {
       "bookmark_bar": {
          "children": [ {
+            "date_added": "13352331282653149",
+            "date_last_used": "0",
+            "guid": "ab539335-0d1b-44dc-a85d-88157e124713",
+            "id": "805",
+            "name": "Subscribe",
+            "type": "url",
+            "url": "javascript:(function(){var%20url%20=%20location.href;var%20otherWindow=window.open('about:blank','_blank');otherWindow.opener=null;otherWindow.location='http://rpi4b.local/freshrss/i/?c=feed&a=add&url_rss=%27+encodeURIComponent(url);})();"
+         }, {
             "children": [ {
                "date_added": "13266890922844096",
                "date_last_used": "0",
@@ -1932,10 +1940,98 @@
                "name": "SQL for the Weary",
                "type": "url",
                "url": "https://gvwilson.github.io/sql-tutorial/"
+            }, {
+               "date_added": "13352089990434288",
+               "date_last_used": "0",
+               "guid": "8826481d-be43-4e5e-b515-0796e9ab299a",
+               "id": "797",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Expanded Main Page - OSDev Wiki",
+               "type": "url",
+               "url": "https://wiki.osdev.org/Expanded_Main_Page"
+            }, {
+               "date_added": "13352090233632577",
+               "date_last_used": "0",
+               "guid": "a71da5c8-1ce4-4c81-a6ba-cec2c28f6696",
+               "id": "798",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The Ares Operating System | Ares",
+               "type": "url",
+               "url": "https://ares-os.org/"
+            }, {
+               "date_added": "13352090247058375",
+               "date_last_used": "0",
+               "guid": "017b6d62-a636-41c5-ba25-894c33dbffa4",
+               "id": "799",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Drew DeVault's blog",
+               "type": "url",
+               "url": "https://drewdevault.com/"
+            }, {
+               "date_added": "13352090255816091",
+               "date_last_used": "0",
+               "guid": "b042f6a1-988e-4c78-8911-7c318b3545e5",
+               "id": "800",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The Hare programming language",
+               "type": "url",
+               "url": "https://harelang.org/"
+            }, {
+               "date_added": "13352319869839230",
+               "date_last_used": "0",
+               "guid": "f488422b-7325-47aa-9196-aa337cc5087e",
+               "id": "803",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "QBE - Compiler Backend",
+               "type": "url",
+               "url": "https://c9x.me/compile/"
+            }, {
+               "date_added": "13352341739373489",
+               "date_last_used": "0",
+               "guid": "786b4ca7-fa2f-4106-a34a-9660ed38a236",
+               "id": "806",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Crafting Interpreters",
+               "type": "url",
+               "url": "https://craftinginterpreters.com/"
+            }, {
+               "date_added": "13352348942679932",
+               "date_last_used": "0",
+               "guid": "a1e996ad-ab9e-4262-a470-714025ca5816",
+               "id": "807",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Compiling History: A brief tour of C compilers",
+               "type": "url",
+               "url": "https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of"
+            }, {
+               "date_added": "13352666488684077",
+               "date_last_used": "0",
+               "guid": "7dba17b1-3ff2-487f-afb0-7dcdcf4e5134",
+               "id": "809",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "A Guide to Zsh Expansion with Examples",
+               "type": "url",
+               "url": "https://thevaluable.dev/zsh-expansion-guide-example/"
             } ],
             "date_added": "13280023922289203",
             "date_last_used": "0",
-            "date_modified": "13351748578303536",
+            "date_modified": "13352666488684077",
             "guid": "693ed829-ba05-4fc6-8939-f3ae35ba3506",
             "id": "215",
             "name": "Programming",
@@ -2399,10 +2495,21 @@
                   "name": "Prompt Engineering Guide | Prompt Engineering Guide",
                   "type": "url",
                   "url": "https://www.promptingguide.ai/"
+               }, {
+                  "date_added": "13351952953715446",
+                  "date_last_used": "0",
+                  "guid": "559c85da-510f-4708-b3c7-56c4c929ea47",
+                  "id": "794",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "A guide to prompting Llama 2 – Replicate",
+                  "type": "url",
+                  "url": "https://replicate.com/blog/how-to-prompt-llama"
                } ],
                "date_added": "13337888166170203",
                "date_last_used": "0",
-               "date_modified": "13351352542907064",
+               "date_modified": "13352089990434288",
                "guid": "a7c12c4c-fc33-42c7-86d3-98ac2de9592c",
                "id": "667",
                "name": "Machine Learning",
@@ -2804,10 +2911,32 @@
             "name": "Home - The Retro Web",
             "type": "url",
             "url": "https://theretroweb.com/"
+         }, {
+            "date_added": "13352310480367032",
+            "date_last_used": "0",
+            "guid": "f2d60358-0209-4e6d-a937-abfda1ba91e9",
+            "id": "802",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PRQ - Colocation, Dedicated Servers, Web hosting, VPN Tunnels, Privacy services.",
+            "type": "url",
+            "url": "https://prq.se/"
+         }, {
+            "date_added": "13352322431628015",
+            "date_last_used": "0",
+            "guid": "054bca88-cec0-4a7e-aa4c-baedd0144665",
+            "id": "804",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Smart Terminals: Personal Computing’s True Origin? – The History of How We Play",
+            "type": "url",
+            "url": "https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/"
          } ],
          "date_added": "13246877992587460",
          "date_last_used": "0",
-         "date_modified": "13351508390052548",
+         "date_modified": "13352341739373489",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
@@ -2824,7 +2953,7 @@
             "url": "https://github.com/iptv-org/iptv"
          }, {
             "date_added": "13274989386270615",
-            "date_last_used": "13351508331273618",
+            "date_last_used": "0",
             "guid": "73014f57-61a5-468e-9680-a51c058d9d3d",
             "id": "131",
             "name": "The Big Little Guide to Message Queues",
@@ -2832,7 +2961,7 @@
             "url": "https://sudhir.io/the-big-little-guide-to-message-queues/"
          }, {
             "date_added": "13276655253440203",
-            "date_last_used": "13351508329137792",
+            "date_last_used": "0",
             "guid": "1bf43425-c75d-48f7-a754-5db850c9cbcd",
             "id": "153",
             "name": "microsoft/QuantumKatas: Q# & Quantum Computing  ",
@@ -3160,7 +3289,7 @@
             "url": "https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434"
          }, {
             "date_added": "13286482198021519",
-            "date_last_used": "13351508332971805",
+            "date_last_used": "0",
             "guid": "2b850ae0-e7f4-4f38-a19e-40be69ae09c5",
             "id": "307",
             "name": "Writing a Game Boy Emulator in OCaml - The Linoscope Machine",
