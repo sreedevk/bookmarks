@@ -2,7 +2,7 @@
 ![library](https://raw.githubusercontent.com/sreedevk/bkmrq/development/assets/library.png)
 # *
 ## Bookmarks
-[Subscribe](javascript:(function(){var%20url%20=%20location.href;var%20otherWindow=window.open('about:blank','_blank');otherWindow.opener=null;otherWindow.location='http://rpi4b.local/freshrss/i/?c=feed&a=add&url_rss=%27+encodeURIComponent(url);})();)  
+[Subscribe](javascript:(function(){var%20url%20=%20location.href;var%20otherWindow=window.open('about:blank','_blank');otherWindow.opener=null;otherWindow.location='http://nullptrderef1.local:8081/i/?c=feed&a=add&url_rss=%27+encodeURIComponent(url);})();)  
 ### Systems Dev / Hardware
 [OS From Scratch](https://github.com/cfenollosa/os-tutorial)  
 [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4)  
@@ -424,3 +424,4 @@
 [Tenderlove Making | Engineering Blog By Aaron Patterson](https://tenderlovemaking.com/)  
 [Useful utilities and toys over DNS](https://www.dns.toys/)  
 [David Mills - Creator of Network Time Protocol](https://www.eecis.udel.edu/~mills/david.html)  
+[Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)  
