@@ -284,7 +284,6 @@
 [Hledger cheatsheet](https://devhints.io/hledger)  
 [A User's view of Hledger – Learning about hledger](https://hledgerfan.com/)  
 [Free Stock APIs in JSON & Excel | Alpha Vantage](https://www.alphavantage.co/)  
-[Devbox Transmission Client](http://192.168.50.206:9091/transmission/web/#cancel)  
 ### Linux
 [If Not True Then False](https://www.if-not-true-then-false.com/)  
 [unde](https://www.cl.cam.ac.uk/~mgk25/ucs/keysymdef.h)  
@@ -305,6 +304,8 @@
 [Home - The Retro Web](https://theretroweb.com/)  
 [PRQ - Colocation, Dedicated Servers, Web hosting, VPN Tunnels, Privacy services.](https://prq.se/)  
 [Smart Terminals: Personal Computing’s True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)  
+[Supercharged LaTeX using Vim/Neovim, VimTeX, and snippets | ejmastnak](https://www.ejmastnak.com/tutorials/vim-latex/intro/)  
+[Airfoil – Bartosz Ciechanowski](https://ciechanow.ski/airfoil/)  
 ## Other bookmarks
 [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
 [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  
