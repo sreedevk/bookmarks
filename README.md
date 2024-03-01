@@ -212,6 +212,8 @@
 [Crafting Interpreters](https://craftinginterpreters.com/)  
 [Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)  
 [A Guide to Zsh Expansion with Examples](https://thevaluable.dev/zsh-expansion-guide-example/)  
+[pql](https://pql.dev/)  
+[100R — uxn](https://100r.co/site/uxn.html)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
