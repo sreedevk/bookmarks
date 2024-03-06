@@ -214,6 +214,8 @@
 [A Guide to Zsh Expansion with Examples](https://thevaluable.dev/zsh-expansion-guide-example/)  
 [pql](https://pql.dev/)  
 [100R — uxn](https://100r.co/site/uxn.html)  
+[Admin: Dashboard](http://development.tunecore.local:5100/admin)  
+[Network tunneling with… QEMU? | Securelist](https://securelist.com/network-tunneling-with-qemu/111803/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
