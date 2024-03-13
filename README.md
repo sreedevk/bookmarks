@@ -216,6 +216,7 @@
 [100R — uxn](https://100r.co/site/uxn.html)  
 [Admin: Dashboard](http://development.tunecore.local:5100/admin)  
 [Network tunneling with… QEMU? | Securelist](https://securelist.com/network-tunneling-with-qemu/111803/)  
+[FP2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
@@ -297,6 +298,7 @@
 [System and Service Manager](https://systemd.io/)  
 [mkinitcpio - ArchWiki](https://wiki.archlinux.org/title/Mkinitcpio#Possibly_missing_firmware_for_module_XXXX)  
 [Sxmo: Simple X Mobile](https://sxmo.org/)  
+[Just, Nix Shell and Podman are a Killer Combo | Abhinav's Notes](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)  
 ### Photography & Film
 [Creating Vintage Video Filters with FFmpeg - zayne.io](https://zayne.io/articles/vintage-camera-filters-with-ffmpeg)  
 [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)  
