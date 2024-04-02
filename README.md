@@ -55,6 +55,9 @@
 [WiFi LoRa 32(V3) – Heltec Automation](https://heltec.org/project/wifi-lora-32-v3/)  
 [Heltec WiFi LoRa 32 (V3) Development Board (HTIT-WB32LA_V3) Configuration for Tasmota](https://templates.blakadder.com/heltec_HTIT-WB32LA_V3.html)  
 [Microdot: a web framework for microcontrollers [LWN.net]](https://lwn.net//Articles/959067/)  
+[Sega Saturn Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/sega-saturn/)  
+[Lezer](https://marijnhaverbeke.nl/blog/lezer.html)  
+[The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)  
 ### Programming
 #### Elixir / BEAM / Erlang
 [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -217,6 +220,14 @@
 [Admin: Dashboard](http://development.tunecore.local:5100/admin)  
 [Network tunneling with… QEMU? | Securelist](https://securelist.com/network-tunneling-with-qemu/111803/)  
 [FP2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)  
+[Multi-Threading & Mutation - by Ryan Fleury - Hidden Grove](https://www.rfleury.com/p/multi-threading-and-mutation)  
+[Lemonade Stand | Possibly Wrong](https://possiblywrong.wordpress.com/2024/03/12/lemonade-stand/)  
+[Underjord | Fundamentals of Object Storage](https://underjord.io/fundamentals-of-object-storage.html)  
+[DuckDB as the New jq - Paul Gross’s Blog](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)  
+[Tunnelmole, an ngrok alternative (open source) - SES](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)  
+[Templates](https://www.cookiecutter.io/templates)  
+[(6) L&D Week 2024 <> Governance: Maximize Corporate Accountability (Meeting) | Microsoft Teams classic](https://teams.microsoft.com/_#/modern-calling/)  
+[](chrome://downloads/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
 [Hackaday | Fresh Hacks Every Day](https://hackaday.com/)  
@@ -299,6 +310,9 @@
 [mkinitcpio - ArchWiki](https://wiki.archlinux.org/title/Mkinitcpio#Possibly_missing_firmware_for_module_XXXX)  
 [Sxmo: Simple X Mobile](https://sxmo.org/)  
 [Just, Nix Shell and Podman are a Killer Combo | Abhinav's Notes](https://notes.abhinavsarkar.net/2022/just-nix-podman-combo)  
+[Nine months of NixOS](https://krisztianfekete.org/nine-months-of-nixos/)  
+[Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)  
+[XD1 Log entries. Begin... · Hyprland crash course](https://xd1.dev/2024/03/hyprland-crash-course)  
 ### Photography & Film
 [Creating Vintage Video Filters with FFmpeg - zayne.io](https://zayne.io/articles/vintage-camera-filters-with-ffmpeg)  
 [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)  
@@ -312,6 +326,7 @@
 [Smart Terminals: Personal Computing’s True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)  
 [Supercharged LaTeX using Vim/Neovim, VimTeX, and snippets | ejmastnak](https://www.ejmastnak.com/tutorials/vim-latex/intro/)  
 [Airfoil – Bartosz Ciechanowski](https://ciechanow.ski/airfoil/)  
+[How fucked is my NoSQL database?](https://howfuckedismydatabase.com/nosql/)  
 ## Other bookmarks
 [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
 [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  
@@ -432,3 +447,9 @@
 [Useful utilities and toys over DNS](https://www.dns.toys/)  
 [David Mills - Creator of Network Time Protocol](https://www.eecis.udel.edu/~mills/david.html)  
 [Nuclear Reactor Simulator](https://dalton-nrs.manchester.ac.uk/)  
+[The Project Gutenberg eBook of Technical Manual TM 3-376 A, Portable Flame Thrower M2-2, by U.S. War Department.](https://www.gutenberg.org/files/55084/55084-h/55084-h.htm)  
+[WireQuery](https://www.wirequery.io/)  
+[feedle: Search and Discover Quality RSS Feeds from Thousands of Blogs and Podcasts](https://feedle.world/)  
+[A Spark Extinguished | China Books Review](https://chinabooksreview.com/2023/10/19/a-spark-extinguished/)  
+[Life Universe](https://oimo.io/works/life/)  
+[Vasopressin deficiency: a hypothesized driver of both social impairment and fluid imbalance in autism spectrum disorder](https://med.stanford.edu/content/dam/sm/parkerlab/documents/da035ad7-7c80-41bd-a9a6-ee03a8bcc58d.pdf)  
