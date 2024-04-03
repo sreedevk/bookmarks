@@ -3,6 +3,7 @@
 # *
 ## Bookmarks
 [Subscribe](javascript:(function(){var%20url%20=%20location.href;var%20otherWindow=window.open('about:blank','_blank');otherWindow.opener=null;otherWindow.location='http://nullptrderef1:8888/i/?c=feed&a=add&url_rss=%27+encodeURIComponent(url);})();)  
+[📎 Add bookmark](javascript: (function () {  var bookmarkUrl = window.location;  var applicationUrl = 'http://nullptrderef1:9090/bookmarks/new';  applicationUrl += '?url=%27%20+%20encodeURIComponent(bookmarkUrl);%20%20applicationUrl%20+=%20%27&auto_close%27;%20%20window.open(applicationUrl);})();)  
 ### Systems Dev / Hardware
 [OS From Scratch](https://github.com/cfenollosa/os-tutorial)  
 [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4)  
@@ -58,6 +59,7 @@
 [Sega Saturn Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/sega-saturn/)  
 [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)  
 [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)  
+[Everything I Know About SSDs 2019](https://kcall.co.uk/ssd/index.html)  
 ### Programming
 #### Elixir / BEAM / Erlang
 [Phoenix Framework Migrations](https://devhints.io/phoenix-migrations)  
@@ -217,7 +219,6 @@
 [A Guide to Zsh Expansion with Examples](https://thevaluable.dev/zsh-expansion-guide-example/)  
 [pql](https://pql.dev/)  
 [100R — uxn](https://100r.co/site/uxn.html)  
-[Admin: Dashboard](http://development.tunecore.local:5100/admin)  
 [Network tunneling with… QEMU? | Securelist](https://securelist.com/network-tunneling-with-qemu/111803/)  
 [FP2: Fully in-Place Functional Programming](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)  
 [Multi-Threading & Mutation - by Ryan Fleury - Hidden Grove](https://www.rfleury.com/p/multi-threading-and-mutation)  
