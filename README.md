@@ -2,7 +2,7 @@
 ![library](https://raw.githubusercontent.com/sreedevk/bkmrq/development/assets/library.png)
 # *
 ## Bookmarks
-[Subscribe](javascript:(function(){var%20url%20=%20location.href;var%20otherWindow=window.open('about:blank','_blank');otherWindow.opener=null;otherWindow.location='http://nullptrderef1.local:8081/i/?c=feed&a=add&url_rss=%27+encodeURIComponent(url);})();)  
+[Subscribe](javascript:(function(){var%20url%20=%20location.href;var%20otherWindow=window.open('about:blank','_blank');otherWindow.opener=null;otherWindow.location='http://nullptrderef1:8888/i/?c=feed&a=add&url_rss=%27+encodeURIComponent(url);})();)  
 ### Systems Dev / Hardware
 [OS From Scratch](https://github.com/cfenollosa/os-tutorial)  
 [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#8xy4)  
@@ -226,7 +226,6 @@
 [DuckDB as the New jq - Paul Gross’s Blog](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)  
 [Tunnelmole, an ngrok alternative (open source) - SES](https://softwareengineeringstandard.com/2024/03/19/ngrok-alternative-open-source/)  
 [Templates](https://www.cookiecutter.io/templates)  
-[(6) L&D Week 2024 <> Governance: Maximize Corporate Accountability (Meeting) | Microsoft Teams classic](https://teams.microsoft.com/_#/modern-calling/)  
 [](chrome://downloads/)  
 ### Audio
 [C++ Wav Audio Programming From Scratch](https://www.youtube.com/watch?v=rHqkeLxAsTc)  
