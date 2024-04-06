@@ -327,6 +327,7 @@
 [Supercharged LaTeX using Vim/Neovim, VimTeX, and snippets | ejmastnak](https://www.ejmastnak.com/tutorials/vim-latex/intro/)  
 [Airfoil – Bartosz Ciechanowski](https://ciechanow.ski/airfoil/)  
 [How fucked is my NoSQL database?](https://howfuckedismydatabase.com/nosql/)  
+[M 4.8 - 6 km ESE of Califon, New Jersey](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)  
 ## Other bookmarks
 [Free Public IPTV Channels](https://github.com/iptv-org/iptv)  
 [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)  
